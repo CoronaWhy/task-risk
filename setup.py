@@ -54,7 +54,7 @@ development_requires = [
 
 setup(
     author='CoronaWhy Task Risk',
-    author_email='info@coronawhy.org',
+    author_email='team@coronawhy.org',
     classifiers=[
         'Development Status :: 2 - Pre-Alpha',
         'Intended Audience :: Developers',
