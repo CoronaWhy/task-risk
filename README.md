@@ -67,3 +67,13 @@ make install-develop
 ```
 
 Now you have the code installed on your local system, and you are ready to help us with your contribution, but first, please have a look at the [Contributing Guide](https://CoronaWhy.github.io/task-risk/contributing.html).
+
+# Notes
+
+A note on Notebooks: Notebooks are useful for fast prototyping, but as code
+base grows, it becomes difficult to maintain, so, in order to work together,
+you are encouraged to upload code that integrates with the existing code base
+rather than a notebook. Don't reinvent the wheel, if you code a utility
+function to load files or clean sentences, think if this can be useful
+ to others, in such case, integrate it with the actual code base instead of adding
+ it to your main script. Also, check that no one has done it before.
