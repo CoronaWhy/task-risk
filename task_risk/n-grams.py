@@ -7,6 +7,7 @@ import json
 import pickle
 import pandas as pd
 import concurrent.futures as cf
+from multiprocessing import Pool, cpu_count
 
 from glob import glob
 from tqdm import tqdm
@@ -20,8 +21,8 @@ from nltk.tokenize import word_tokenize
 from common.text_utils import clean_text
 
 base_path = os.path.dirname(os.path.abspath(__file__))
-data_path = os.path.join(base_path, 'data/v6_text')
-NUM_WORKERS = 8
+data_path = os.path.join(base_path, 'data/coronawhy/v6_text')
+NUM_WORKERS = cpu_count()
 
 def process_sentence_text(stop_words, sentence_text):
     # must match sentences_df size 
@@ -71,7 +72,8 @@ customized_stop_words = [
 stop_words = list(stopwords.words('english')) + customized_stop_words
 pickle_filelist = glob(os.path.join(data_path, '*.pkl'))
 errors = []
-with cf.ThreadPoolExecutor(max_workers=NUM_WORKERS) as executor:
+# with cf.ThreadPoolExecutor(max_workers=NUM_WORKERS) as executor:
+with Pool(NUM_WORKERS) as executor:
     for error in tqdm(
         executor.map(partial(process_pickle, stop_words), pickle_filelist),
         total=len(pickle_filelist)):
@@ -81,4 +83,5 @@ with cf.ThreadPoolExecutor(max_workers=NUM_WORKERS) as executor:
 print('Finish processing bi/trigrams with {} error(s)'.format(len(errors)))
 with open(os.path.join(base_path, 'erorrs.json'), 'w') as json_file:
     json_file.write(json.dumps(obj=errors) + '\n')
+
 
