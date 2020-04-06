@@ -29,8 +29,9 @@ def remove_brackets_without_words(text):
 # https://github.com/jakelever/bio2vec/blob/master/PubMed2Txt.py
 def remove_weird_brackets_from_old_titles(titleText):
     titleText = titleText.strip()
-    if titleText[0] == '[' and titleText[-2:] == '].':
-        titleText = titleText[1:-2] + '.'
+    if len(titleText) > 2:
+        if titleText[0] == '[' and titleText[-2:] == '].':
+            titleText = titleText[1:-2] + '.'
     return titleText
 
 def remove_citations(input):
@@ -73,7 +74,7 @@ def remove_title_numbers(input):
     return input
 
 def clean_text(text, lower=True, stop_words=None):
-    try:
+    if text != '':
         text = text.lower() if lower else text
         text = remove_brackets_without_words(text)
         text = remove_weird_brackets_from_old_titles(text)
@@ -81,10 +82,8 @@ def clean_text(text, lower=True, stop_words=None):
         text = remove_pharentesis(text)
         text = remove_punctuations(text) # powerful
         text = remove_numbers(text) # only in case SPACE NUM SPACE
-        text = lemmatize(text)
+        # text = lemmatize(text)
         text = remove_diacritics(text)
         text = remove_white_space(text)
         text = remove_stop_words(text, stop_words)
-    except:
-        return None
     return text
