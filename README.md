@@ -25,7 +25,11 @@ CoronaWhy is a crowd-sourced team of over 350 engineers, researchers, project ma
 
 ## About CoronaWhy Risk Factors Task
 
-TODO
+This task is oriented towards gathering information and drawing conclusions
+about the factors involved in Coronavirus disease. Risk factors include:
+aging, gender, pre-existing diseases and a big etcetera.
+
+Progress of this task can be tracked [here](link)
 
 ## About CoronaWhy Risk Factors Task Force
 
