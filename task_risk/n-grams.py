@@ -66,16 +66,20 @@ customized_stop_words = [
 stop_words = list(stopwords.words('english')) + customized_stop_words
 pickle_filelist = glob(os.path.join(data_path, '*.pkl'))
 errors = []
-pickles = [read_pickle_file(pickle_path) for pickle_path in pickle_filelist]
+# pickles = [read_pickle_file(pickle_path) for pickle_path in pickle_filelist]
 
-for pickle_path, pickle_df in zip(pickle_filelist, pickles):
-    processed = process_pickle(stop_words, pickle_df)
-    if processed is None:
-        errors.append(str(pickle_path))
-    else:
-        output = os.path.splitext(pickle_path)[0] + '_ngrams.pkl'
-        with open(output, 'wb') as ngrams_file:
-            pickle.dump(processed, ngrams_file)
+for pickle_path in pickle_filelist:
+    try:
+        pickle_df = read_pickle_file(pickle_path)
+        processed = process_pickle(stop_words, pickle_df)
+        if processed is None:
+            errors.append(str(pickle_path))
+        else:
+            output = os.path.splitext(pickle_path)[0] + '_ngrams.pkl'
+            with open(output, 'wb') as ngrams_file:
+                pickle.dump(processed, ngrams_file)
+    except Exception as e:
+        print(f'Got exception with {pickle_path}, {e})
 
 print('Finish processing bi/trigrams with {} error(s)'.format(len(errors)))
 with open(os.path.join(base_path, 'erorrs.json'), 'w') as json_file:
