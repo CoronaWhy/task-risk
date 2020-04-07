@@ -37,7 +37,8 @@ def process_pickle(stop_words, pickle_df):
     sentences_df = pickle_df.get(['sentence_id', 'sentence']).copy()
     sentences_df.fillna('', inplace=True)
     bigrams, trigrams = [], []
-    for index, sentence_row in sentences_df.iterrows():
+    for index, sentence_row in tqdm(sentences_df.iterrows(),
+        total=len(sentences_df), desc='Process sentence', unit='sentences'):
         sentence_text = sentence_row.get('sentence')
         sent_bigrams, sent_trigrams = process_sentence_text(stop_words, sentence_text)
         bigrams.append(sent_bigrams)
