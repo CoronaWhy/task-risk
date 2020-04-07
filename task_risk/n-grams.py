@@ -4,10 +4,10 @@
 import os
 import nltk
 import json
+import time
 import pickle
 import pandas as pd
 import concurrent.futures as cf
-from multiprocessing import Pool, cpu_count
 
 from glob import glob
 from tqdm import tqdm
@@ -22,7 +22,6 @@ from common.text_utils import clean_text
 
 base_path = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(base_path, 'data/coronawhy/v6_text')
-NUM_WORKERS = cpu_count()
 
 def process_sentence_text(stop_words, sentence_text):
     # must match sentences_df size 
@@ -34,33 +33,28 @@ def process_sentence_text(stop_words, sentence_text):
         trigrams = list(ngrams(text_to_search, n=3))
     return bigrams, trigrams
 
-def process_pickle(stop_words, pickle_file):
-    ret = True
-    # try:
-    output = os.path.join(os.path.splitext(pickle_file)[0], '_ngrams.pkl')
-    df = pd.read_pickle(pickle_file, compression="gzip")
-    sentences_df = df.get(['sentence_id', 'sentence'])
+def process_pickle(stop_words, pickle_df):
+    ret = None
+    sentences_df = pickle_df.get(['sentence_id', 'sentence']).copy()
     sentences_df.fillna('', inplace=True)
-    del df
     bigrams, trigrams = [], []
-    for index, sentence_row in sentences_df.iterrows():
-        sentence_text = sentence_row['sentence']
-        sent_bigrams, sent_trigrams = process_sentence_text(sentence_text)
+    for index, sentence_row in tqdm(sentences_df.iterrows(),
+        total=len(sentences_df), desc='Reading sentences'):
+        sentence_text = sentence_row.get('sentence')
+        sent_bigrams, sent_trigrams = process_sentence_text(stop_words, sentence_text)
         bigrams.append(sent_bigrams)
         trigrams.append(sent_trigrams)
-        if (index +1 % 1000) == 0:
-            print(f'Processed {index}/{len(sentences_df)}')
-    sentences_df.assign('bigrams', bigrams)
-    sentences_df.assign('trigrams', trigrams)
-    with open(output, 'wb') as ngrams_file:
-        pickle.dump(sentences, ngrams_file)
-    del sentences_df, bigrams, trigrams
-    return ret
-    # except Exception as e:
-    #     ret = e
-    # finally:
-    #     print('Pickle: {} success: {}'.format(pickle_file, ret is None))
-    #     return ret
+    sentences_df = sentences_df.assign(bigrams=bigrams)
+    sentences_df = sentences_df.assign(trigrams=trigrams)
+    return sentences_df
+
+def read_pickle_file(pickle_path):
+    start_time = time.time()
+    print(f'Reading pickle from {pickle_path}', end='')
+    df = pd.read_pickle(pickle_path, compression="gzip")
+    elapsed_time = time.time() - start_time
+    print(f' done in {round(elapsed_time, 2)} seconds')
+    return df
 
 customized_stop_words = [
   'doi', 'preprint', 'copyright', 'peer', 'reviewed', 'org', 'https', 'et', 'al', 'author', 'figure', 
@@ -72,13 +66,16 @@ customized_stop_words = [
 stop_words = list(stopwords.words('english')) + customized_stop_words
 pickle_filelist = glob(os.path.join(data_path, '*.pkl'))
 errors = []
-# with cf.ThreadPoolExecutor(max_workers=NUM_WORKERS) as executor:
-with Pool(NUM_WORKERS) as executor:
-    for error in tqdm(
-        executor.map(partial(process_pickle, stop_words), pickle_filelist),
-        total=len(pickle_filelist)):
-        if error is not None:
-            errors.append(str(error))
+pickles = [read_pickle_file(pickle_path) for pickle_path in pickle_filelist]
+
+for pickle_path, pickle_df in zip(pickle_filelist, pickles):
+    processed = process_pickle(stop_words, pickle_df)
+    if processed is None:
+        errors.append(str(pickle_path))
+    else:
+        output = os.path.splitext(pickle_path)[0] + '_ngrams.pkl'
+        with open(output, 'wb') as ngrams_file:
+            pickle.dump(processed, ngrams_file)
 
 print('Finish processing bi/trigrams with {} error(s)'.format(len(errors)))
 with open(os.path.join(base_path, 'erorrs.json'), 'w') as json_file:
