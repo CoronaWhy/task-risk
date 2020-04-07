@@ -79,7 +79,7 @@ for pickle_path in pickle_filelist:
             with open(output, 'wb') as ngrams_file:
                 pickle.dump(processed, ngrams_file)
     except Exception as e:
-        print(f'Got exception with {pickle_path}, {e})
+        print(f'Got exception with {pickle_path}, {e}')
 
 print('Finish processing bi/trigrams with {} error(s)'.format(len(errors)))
 with open(os.path.join(base_path, 'erorrs.json'), 'w') as json_file:
