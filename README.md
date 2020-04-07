@@ -13,7 +13,7 @@
 
 Understanding the COVID-19 Risk Factors
 
-- Documentation: https://CoronaWhy.github.io/task-risk
+- Documentation: https://corona-task-risk.readthedocs.io/en/latest/
 - Task Homepage: https://github.com/CoronaWhy/task-risk
 - Main Coronawhy Homepage: https://www.coronawhy.org/
 
@@ -62,4 +62,4 @@ git checkout stable
 make install-develop
 ```
 
-Now you have the code installed on your local system, and you are ready to help us with your contribution, but first, please have a look at the [Contributing Guide](https://CoronaWhy.github.io/task-risk/contributing.html).
+Now you have the code installed on your local system, and you are ready to help us with your contribution, but first, please have a look at the [Contributing Guide](https://corona-task-risk.readthedocs.io/en/latest/).
