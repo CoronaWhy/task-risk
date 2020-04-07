@@ -4,14 +4,12 @@
 import os
 import nltk
 import json
-import time
+import gzip
 import pickle
 import pandas as pd
-import concurrent.futures as cf
 
 from glob import glob
 from tqdm import tqdm
-from functools import partial
 
 from nltk.util import ngrams # function for making ngrams
 from nltk.corpus import stopwords
@@ -22,6 +20,7 @@ from common.text_utils import clean_text
 
 base_path = os.path.dirname(os.path.abspath(__file__))
 data_path = os.path.join(base_path, 'data/coronawhy/v6_text')
+output_path = os.path.join(base_path, 'data/coronawhy/v6_ngrams')
 
 def process_sentence_text(stop_words, sentence_text):
     # must match sentences_df size 
@@ -38,8 +37,7 @@ def process_pickle(stop_words, pickle_df):
     sentences_df = pickle_df.get(['sentence_id', 'sentence']).copy()
     sentences_df.fillna('', inplace=True)
     bigrams, trigrams = [], []
-    for index, sentence_row in tqdm(sentences_df.iterrows(),
-        total=len(sentences_df), desc='Reading sentences'):
+    for index, sentence_row in sentences_df.iterrows():
         sentence_text = sentence_row.get('sentence')
         sent_bigrams, sent_trigrams = process_sentence_text(stop_words, sentence_text)
         bigrams.append(sent_bigrams)
@@ -49,12 +47,14 @@ def process_pickle(stop_words, pickle_df):
     return sentences_df
 
 def read_pickle_file(pickle_path):
-    start_time = time.time()
-    print(f'Reading pickle from {pickle_path}', end='')
     df = pd.read_pickle(pickle_path, compression="gzip")
-    elapsed_time = time.time() - start_time
-    print(f' done in {round(elapsed_time, 2)} seconds')
     return df
+
+def write_pickle_file(pickle_path, pickle_df):
+    with gzip.open(pickle_path, 'wb') as pickle_file:
+        pickle.dump(pickle_df, pickle_file)
+    
+os.makedirs(output_path, exist_ok=True)
 
 customized_stop_words = [
   'doi', 'preprint', 'copyright', 'peer', 'reviewed', 'org', 'https', 'et', 'al', 'author', 'figure', 
@@ -66,7 +66,6 @@ customized_stop_words = [
 stop_words = list(stopwords.words('english')) + customized_stop_words
 pickle_filelist = glob(os.path.join(data_path, '*.pkl'))
 errors = []
-# pickles = [read_pickle_file(pickle_path) for pickle_path in pickle_filelist]
 
 for pickle_path in pickle_filelist:
     try:
@@ -74,10 +73,10 @@ for pickle_path in pickle_filelist:
         processed = process_pickle(stop_words, pickle_df)
         if processed is None:
             errors.append(str(pickle_path))
-        else:
-            output = os.path.splitext(pickle_path)[0] + '_ngrams.pkl'
-            with open(output, 'wb') as ngrams_file:
-                pickle.dump(processed, ngrams_file)
+            continue
+        pickle_filename = os.path.splitext(os.path.basename(pickle_path))[0] + '_ngrams.pkl'
+        output = os.path.join(output_path, pickle_filename)
+        write_pickle_file(output, processed)
     except Exception as e:
         print(f'Got exception with {pickle_path}, {e}')
 
