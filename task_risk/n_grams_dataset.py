@@ -19,19 +19,19 @@ from nltk.tokenize import word_tokenize
 from common.text_utils import clean_text
 from config import base_path, data_path, customized_stop_words
 
+# process lemmas instead of full sentences
 def process_sentence_text(stop_words, sentence_text):
     # must match sentences_df size 
     bigrams, trigrams = [], []    
-    if sentence_text != '':
-        text_tokens = word_tokenize(clean_text(sentence_text))
-        text_to_search = [word for word in text_tokens if not word in stop_words]
+    if len(sentence_text) > 0:
+        text_to_search = [word.lower() for word in sentence_text if not word in stop_words]
         bigrams = list(ngrams(text_to_search, n=2))
         trigrams = list(ngrams(text_to_search, n=3))
     return bigrams, trigrams
 
 def process_pickle(stop_words, pickle_df):
     ret = None
-    sentences_df = pickle_df.get(['sentence_id', 'sentence']).copy()
+    sentences_df = pickle_df.get(['sentence_id', 'lemma']).copy()
     sentences_df.fillna('', inplace=True)
     bigrams, trigrams = [], []
     for index, sentence_row in tqdm(sentences_df.iterrows(),

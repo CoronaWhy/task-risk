@@ -7,3 +7,6 @@ customized_stop_words = [
     'p', 'h'
 ]
 
+punctuation = '!"#$%&\'()_-*+,.:;<=>?@[\\]^`{|}~'
+for p in punctuation:
+    customized_stop_words.append(p)
