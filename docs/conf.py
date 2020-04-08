@@ -20,6 +20,11 @@
 
 import sphinx_rtd_theme # For read the docs theme
 
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath('..'))
+
 import task_risk
 
 # -- General configuration ---------------------------------------------
