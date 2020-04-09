@@ -104,3 +104,5 @@ ENV/
 
 # Vim
 .*.swp
+task-risk/raw
+task-risk/data
