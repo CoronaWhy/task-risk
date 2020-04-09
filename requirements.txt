@@ -1,0 +1,6 @@
+nltk
+tqdm
+glob2
+kaggle
+pandas
+unidecode
