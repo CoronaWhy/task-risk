@@ -13,7 +13,7 @@
 
 Understanding the COVID-19 Risk Factors
 
-- Documentation: https://CoronaWhy.github.io/task-risk
+- Documentation: https://corona-task-risk.readthedocs.io/en/latest/
 - Task Homepage: https://github.com/CoronaWhy/task-risk
 - Main Coronawhy Homepage: https://www.coronawhy.org/
 
@@ -77,3 +77,4 @@ rather than a notebook. Don't reinvent the wheel, if you code a utility
 function to load files or clean sentences, think if this can be useful
  to others, in such case, integrate it with the actual code base instead of adding
  it to your main script. Also, check that no one has done it before.
+
