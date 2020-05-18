@@ -2,7 +2,10 @@ import pandas as pd
 import concurrent.futures as cf
 import os
 import glob2
+import json
+from collections import defaultdict
 from tqdm import tqdm
+
 
 def fix_doi(d):
     if d.startswith('http://'):
@@ -12,11 +15,12 @@ def fix_doi(d):
     else:
         return f'http://doi.org/{d}'
 
+
 def extract_abstract_from_json(js):
     abstract = None
     # In this particular dataset, some abstracts have multiple sections,
-    # with ["abstract"][1] or later representing keywords or extra info. 
-    # We only want to keep [0]["text"] in these cases. 
+    # with ["abstract"][1] or later representing keywords or extra info.
+    # We only want to keep [0]["text"] in these cases.
     if len(js["abstract"]) > 0:
         abstract = js["abstract"][0]["text"]
     # Else, ["abstract"] isn't a list and we can just grab the full text.
@@ -24,6 +28,7 @@ def extract_abstract_from_json(js):
         abstract = js["abstract"],
 
     return abstract
+
 
 def load_file(json_path):
     print('loading ', json_path)
@@ -43,8 +48,10 @@ def load_file(json_path):
 
     return data
 
+
 def isdir(path):
     return os.path.isdir(path)
+
 
 def scan_folder(folder_path, v6=False):
     documents = pd.DataFrame()
@@ -62,6 +69,7 @@ def scan_folder(folder_path, v6=False):
                         documents = pd.concat([documents, raw_doc])
     return documents
 
+
 def download_dataset(data_path=None):
     import kaggle
 
@@ -74,3 +82,28 @@ def download_dataset(data_path=None):
     # requires a kaggle auth token, go get one: https://github.com/Kaggle/kaggle-api
     kaggle.api.authenticate()
     kaggle.api.dataset_download_files(dataset_name, path=data_path, unzip=True)
+
+
+def download_annotations(data_path: str = None) -> pd.DataFrame:
+    import io
+    import requests
+
+    if data_path is None:
+        data_path = 'https://docs.google.com/spreadsheets/d/1hxTL645nvaTI9Qb5EFLAdLOowZ_9ZjArd6C0cFvwJfE/export?format=csv'
+    response = requests.get(data_path)
+    df_annotations = pd.read_csv(
+        io.BytesIO(response.content),
+        usecols=[1, 2, 3, 4, 5, 6],
+        names=[
+            'number',
+            'annotator',
+            'url',
+            'risk_factor',
+            'label',
+            'reason'
+        ])
+    df_annotations['number'] = pd.to_numeric(df_annotations['number'], errors='coerce')
+    df_annotations = df_annotations.dropna(subset=['number', 'label'])
+    return df_annotations
+
+
