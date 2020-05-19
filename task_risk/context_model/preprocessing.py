@@ -1,12 +1,34 @@
 import pandas as pd
 
 
-def get_df_sentences_around_n_grams_in_df_paper(
+def get_df_sentences_around_n_grams_in_df_paper_on_raw_sentences(
     df_paper: pd.DataFrame,
     related_n_grams: list,
     num_sentences: int = 1) -> pd.DataFrame:
     assert num_sentences >= 0
-    sentences = df_paper['sentences'].str.lower()
+    sentences = df_paper['sentence'].str.lower()
+
+    sentence_index = set()
+    for ngram in related_n_grams:
+        sentences_matching_ngram = sentences.str.contains(ngram).index
+        sentence_index.update(sentences_matching_ngram)
+        for i in range(1, num_sentences + 1):
+            sentences_before_matching_ngram = sentences_matching_ngram - i
+            sentences_after_matching_ngram = sentences_matching_ngram + i
+            sentence_index.update(sentences_before_matching_ngram)
+            sentence_index.update(sentences_after_matching_ngram)
+    sentence_index = list(sentence_index)
+    sentence_index = df_paper.index[df_paper.index.isin(sentence_index)]
+    df_sentences_around_n_grams = df_paper.loc[sentence_index]
+    return df_sentences_around_n_grams
+
+
+def get_df_sentences_around_n_grams_in_df_paper_on_umls(
+    df_paper: pd.DataFrame,
+    related_n_grams: list,
+    num_sentences: int = 1) -> pd.DataFrame:
+    assert num_sentences >= 0
+    sentences = df_paper['UMLS'].apply(lambda x: ' '.join(x)).str.lower()
 
     sentence_index = set()
     for ngram in related_n_grams:
