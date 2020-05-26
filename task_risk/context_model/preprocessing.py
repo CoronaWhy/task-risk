@@ -27,7 +27,7 @@ def get_df_sentences_around_n_grams(
 
     sentence_index = set()
     for ngram in related_n_grams:
-        sentences_matching_ngram = sentences[sentences.str.contains(ngram).index]
+        sentences_matching_ngram = sentences[sentences.str.contains(ngram)].index
         sentence_index.update(sentences_matching_ngram)
         for i in range(1, num_sentences + 1):
             sentences_before_matching_ngram = sentences_matching_ngram - i
