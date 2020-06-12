@@ -66,3 +66,16 @@ def df_sentences_umls_ids_to_str_without_n_grams(
                 continue
             umls_ids.append(umls_id)
     return ' '.join(umls_ids)
+
+
+def df_sentences_umls_ids_to_str_without_n_gram_umls_ids(
+    df_sentences: pd.DataFrame,
+    umls_ids_to_drop: list
+) -> str:
+    umls_ids = []
+    for _, sent in df_sentences.iterrows():
+        for umls, umls_id in zip(sent['UMLS'], sent['UMLS_IDS']):
+            if umls_id in umls_ids_to_drop:
+                continue
+            umls_ids.append(umls_id)
+    return ' '.join(umls_ids)
