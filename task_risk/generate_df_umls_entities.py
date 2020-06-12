@@ -5,10 +5,10 @@ import pandas as pd
 
 def run():
     argument_parser = ArgumentParser()
-    argument_parser.add_argument('-m', '--model', default='en_core_sci_lg')
-    argument_parser.add_argument('-f', '--filepath')
+    argument_parser.add_argument('-l', '--language_model', default='en_core_sci_lg')
+    argument_parser.add_argument('-n', '--ngram_filepath')
     args = argument_parser.parse_args()
-    umls_linker = SimpleUmlsLinker(args.model)
+    umls_linker = SimpleUmlsLinker(args.language_model)
 
     df_ngrams = pd.read_csv(args.filepath)
     df_umls_entities = []

@@ -12,3 +12,5 @@ spacy~=2.2.3
 scispacy~=0.2.4
 scikit-learn~=0.23.0
 joblib~=0.15.1
+
+elasticsearch~=7.6.0

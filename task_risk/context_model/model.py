@@ -48,19 +48,9 @@ class ContextModel:
             self,
             df_paper: pd.DataFrame,
             risk_factor: str) -> float:
-        assert 'sentence' in df_paper
         assert risk_factor in self.risk_factor_umls_ids
-
-        df_paper_with_ulms = []
-        for _, row in df_paper.iterrows():
-            sentence = str(df_paper['sentence'])
-            umls_entities = self.umls_entity_linker.get_matched_umls_entities(sentence)
-            row['UMLS'] = [entity.canonical_name for entity in umls_entities]
-            row['UMLS_IDS'] = [entity.cui for entity in umls_entities]
-            df_paper_with_ulms.append(row)
-        df_paper_with_ulms = pd.DataFrame(df_paper_with_ulms)
-
-        return self.predict_paper_relevance_from_umls_ids(df_paper_with_ulms, risk_factor)
+        df_paper_with_umls = self.simple_umls_linker.df_paper_raw_sentences_to_umls_ids(df_paper)
+        return self.predict_paper_relevance_from_umls_ids(df_paper_with_umls, risk_factor)
 
     def predict_paper_relevance_from_umls_terms(
             self,
@@ -69,21 +59,8 @@ class ContextModel:
         assert 'UMLS' in df_paper
         assert risk_factor in self.risk_factor_umls_ids
 
-        df_paper_with_ulms = []
-        for _, row in df_paper.iterrows():
-            umls_terms = row['UMLS']
-            umls_ids = []
-            for umls_term in umls_terms:
-                umls_entities = self.umls_entity_linker.get_matched_umls_entities(umls_term)
-                if len(umls_entities) == 0:
-                    umls_ids.append(None)
-                else:
-                    umls_ids.append(umls_entities[0].cui)
-            row['UMLS_IDS'] = umls_ids
-            df_paper_with_ulms.append(row)
-        df_paper_with_ulms = pd.DataFrame(df_paper_with_ulms)
-
-        return self.predict_paper_relevance_from_umls_ids(df_paper_with_ulms, risk_factor)
+        df_paper_with_umls = self.simple_umls_linker.df_paper_umls_terms_to_umls_ids(df_paper)
+        return self.predict_paper_relevance_from_umls_ids(df_paper_with_umls, risk_factor)
 
     def predict_paper_relevance_from_umls_ids(
             self,
