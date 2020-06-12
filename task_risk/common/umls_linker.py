@@ -24,7 +24,8 @@ class SimpleUmlsLinker:
         abbreviation_pipe = AbbreviationDetector(self.nlp)
         self.nlp.add_pipe(abbreviation_pipe)
 
-        # Our linker will look up named entities/concepts in the UMLS graph and normalize the data for us.
+        # Our linker will look up named entities/concepts in the UMLS graph and normalize the data
+        # for us.
         self.linker = UmlsEntityLinker(resolve_abbreviations=True)
         self.nlp.add_pipe(self.linker)
 
