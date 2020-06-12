@@ -17,5 +17,5 @@ def create_pipeline_with_dense_transformer(
 ) -> Pipeline:
 
     dense_transformer = DenseTransformer()
-    pipeline_components.insert(dense_transformer_index, dense_transformer)
+    pipeline_components.insert(dense_transformer_index, ('dense_transformer', dense_transformer))
     return Pipeline(pipeline_components)
