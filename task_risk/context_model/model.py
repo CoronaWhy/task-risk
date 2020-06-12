@@ -13,9 +13,10 @@ import os
 class ContextModel:
     classifier_model_path: str = None
     language_model: str = None
-    risk_factor_umls_ids: typing.Dict[str, typing.List[str]] = None
+    df_umls_entities_path: str = None
     simple_umls_linker: SimpleUmlsLinker = None
     classifier: Pipeline = None
+    risk_factor_umls_ids: typing.Dict[str, typing.List[str]] = None
 
     def __post_init__(self):
         if self.classifier_model_path is None:
@@ -23,11 +24,25 @@ class ContextModel:
             self.classifier_model_path = os.path.join(
                 file_directory,
                 'tfidf_xgb_umls_trigram.joblib')
-        self.classifier = load(self.classifier_model_path)
+        if self.classifier is None:
+            self.classifier = load(self.classifier_model_path)
 
         if self.language_model is None:
             self.language_model = 'en_core_sci_lg'
-        self.umls_entity_linker = SimpleUmlsLinker(self.language_model)
+        if self.simple_umls_linker is None:
+            self.simple_umls_linker = SimpleUmlsLinker(self.language_model)
+
+        if self.df_umls_entities_path is None:
+            file_directory = pathlib.Path(__file__).parent.absolute()
+            self.df_umls_entities_path = os.path.join(
+                file_directory,
+                'df_umls_entities.csv')
+        if self.risk_factor_umls_ids is None:
+            df_umls_entities = pd.read_csv(self.df_umls_entities_path)
+            risk_factor_umls_ids = {}
+            for risk_factor, df_risk_factor_umls_entities in df_umls_entities.groupby('risk_factor'):
+                risk_factor_umls_ids[risk_factor] = df_risk_factor_umls_entities['umls_id'].tolist()
+            self.risk_factor_umls_ids = risk_factor_umls_ids
 
     def predict_paper_relevance_from_raw_sentences(
             self,

@@ -1,0 +1,2681 @@
+,ngram,risk_factor,umls_id,umls_term
+0,Diastolic hypertension,hypertension,C0235222,Diastolic hypertension
+1,Hypertensive crisis,hypertension,C0857121,Hypertensive (finding)
+2,Hypertensive crisis,hypertension,C0231224,Crisis
+3,Maternal hypertension,hypertension,C0026591,Mother (person)
+4,Maternal hypertension,hypertension,C1963138,Hypertension Adverse Event
+5,Paroxysmal hypertension,hypertension,C0221154,Paroxysmal hypertension
+6,Postoperative hypertension,hypertension,C0032790,Postoperative Period
+7,Postoperative hypertension,hypertension,C1963138,Hypertension Adverse Event
+8,Renal hypertension,hypertension,C0020544,Renal hypertension
+9,Secondary hypertension,hypertension,C0155616,Secondary hypertension
+10,Severe pre-eclampsia,hypertension,C0205082,Severe (severity modifier)
+11,Severe pre-eclampsia,hypertension,C0032914,Pre-Eclampsia
+12,Supine hypertension,hypertension,C4076686,Supine hypertension
+13,Systolic hypertension,hypertension,C0221155,Systolic hypertension
+14,Transient hypertension of pregnancy,hypertension,C0040704,Transient Population Group
+15,Transient hypertension of pregnancy,hypertension,C1963138,Hypertension Adverse Event
+16,Transient hypertension of pregnancy,hypertension,C0032961,Pregnancy
+17,DEND syndrome,diabetes,C4303593,DEND syndrome
+18,Hollow visceral neuropathy,diabetes,C0400875,Hollow visceral neuropathy
+19,Macroalbuminuric diabetic nephropathy,diabetes,C0730345,Microalbuminuria
+20,Macroalbuminuric diabetic nephropathy,diabetes,C0011881,Diabetic Nephropathy
+21,Neonatal diabetes mellitus,diabetes,C0158981,Neonatal diabetes mellitus
+22,Nodular glomerulosclerosis,diabetes,C0017667,Nodular glomerulosclerosis
+23,Secondary diabetes mellitus,diabetes,C0271640,Secondary diabetes mellitus
+24,Transient neonatal diabetes mellitus,diabetes,C0040704,Transient Population Group
+25,Transient neonatal diabetes mellitus,diabetes,C0021289,"Infant, Newborn"
+26,Appendix of testis,gender,C0003617,Appendix
+27,Appendix of testis,gender,C0039597,Testis
+28,Central zone of prostate,gender,C0458698,Central zone of prostate
+29,Central zone of prostate,gender,C0033572,Prostate
+30,Cervical canal structure,gender,C0227841,Cervical canal structure
+31,Corpus cavernosum structure,gender,C0227937,Corpus cavernosum structure
+32,Decidua basalis structure,gender,C0230965,Decidua basalis structure
+33,Endometrial gland structure,gender,C0227848,Endometrial gland structure
+34,Epididymal duct structure,gender,C0014533,Epididymis
+35,Female urethral structure,gender,C0086287,Females
+36,Female urethral structure,gender,C0041967,Urethra
+37,Gender,gender,C0079399,Gender
+38,Gender finding,gender,C0079399,Gender
+39,Gender finding,gender,C0243095,Finding
+40,Gravid uterus structure,gender,C0549206,Patient currently pregnant
+41,Gravid uterus structure,gender,C0227813,Body of uterus
+42,Male urethral structure,gender,C0086582,Males
+43,Male urethral structure,gender,C0041967,Urethra
+44,Membranous urethra structure,gender,C0458453,Membranous urethra structure
+45,Peripheral zone of prostate,gender,C0458696,Peripheral zone of prostate
+46,Peripheral zone of prostate,gender,C0033572,Prostate
+47,Posterior lobe of prostate,gender,C0227976,Posterior lobe of prostate
+48,Posterior lobe of prostate,gender,C0033572,Prostate
+49,Region of vagina,gender,C0205147,regional
+50,Region of vagina,gender,C0042232,Vagina
+51,Right basal anterior fibromuscular stroma of prostate,gender,C4273849,Right basal anterior fibromuscular stroma of prostate
+52,Right basal anterior fibromuscular stroma of prostate,gender,C0927195,Stroma
+53,Right basal anterior fibromuscular stroma of prostate,gender,C0033572,Prostate
+54,Seminiferous tubule structure,gender,C0036630,Seminiferous tubule structure
+55,Structure of anterior surface of prostate,gender,C0678594,structure
+56,Structure of anterior surface of prostate,gender,C0751437,Adenohypophyseal Diseases
+57,Structure of anterior surface of prostate,gender,C0205148,Surface
+58,Structure of anterior surface of prostate,gender,C0033572,Prostate
+59,Structure of apex of prostate,gender,C0678594,structure
+60,Structure of apex of prostate,gender,C0140145,"APEX1 protein, human"
+61,Structure of apex of prostate,gender,C0033572,Prostate
+62,Structure of corpus luteum of ovary,gender,C0678594,structure
+63,Structure of corpus luteum of ovary,gender,C0010092,Structure of corpus luteum of ovary
+64,Structure of corpus luteum of ovary,gender,C0029939,Ovary
+65,Structure of cumulus oophorus,gender,C0678594,structure
+66,Structure of cumulus oophorus,gender,C0227885,Structure of cumulus oophorus
+67,Structure of decidua capsularis,gender,C0678594,structure
+68,Structure of decidua capsularis,gender,C0230964,Structure of decidua capsularis
+69,Structure of efferent ductule of testis,gender,C0678594,structure
+70,Structure of efferent ductule of testis,gender,C0228013,Structure of efferent ductule of testis
+71,Structure of efferent ductule of testis,gender,C0039597,Testis
+72,Structure of endometrial stroma,gender,C0678594,structure
+73,Structure of endometrial stroma,gender,C0227849,Structure of endometrial stroma
+74,Structure of germinal epithelium of ovary,gender,C0678594,structure
+75,Structure of germinal epithelium of ovary,gender,C1517534,Germinal Epithelium
+76,Structure of germinal epithelium of ovary,gender,C0029939,Ovary
+77,Structure of gubernaculum testis,gender,C0678594,structure
+78,Structure of gubernaculum testis,gender,C0228051,Structure of gubernaculum testis
+79,Structure of hilum of ovary,gender,C0678594,structure
+80,Structure of hilum of ovary,gender,C0929176,Hilum
+81,Structure of hilum of ovary,gender,C0029939,Ovary
+82,Structure of horn of uterus,gender,C0678594,structure
+83,Structure of horn of uterus,gender,C0019939,Horns
+84,Structure of horn of uterus,gender,C0042149,Uterus
+85,Structure of inferior pole of testis,gender,C0678594,structure
+86,Structure of inferior pole of testis,gender,C1179623,Inferior pole
+87,Structure of inferior pole of testis,gender,C0039597,Testis
+88,Structure of interstitial cell of Leydig,gender,C0678594,structure
+89,Structure of interstitial cell of Leydig,gender,C0023602,Structure of interstitial cell of Leydig
+90,Structure of interstitial cell of Leydig,gender,C0023602,Structure of interstitial cell of Leydig
+91,Structure of interstitial tissue of ovary,gender,C0678594,structure
+92,Structure of interstitial tissue of ovary,gender,C0225318,Interstitial tissue
+93,Structure of interstitial tissue of ovary,gender,C0029939,Ovary
+94,Structure of left ovary,gender,C0678594,structure
+95,Structure of left ovary,gender,C0227874,Structure of left ovary
+96,Structure of left seminal vesicle,gender,C0678594,structure
+97,Structure of left seminal vesicle,gender,C0205091,Left
+98,Structure of left testis,gender,C0678594,structure
+99,Structure of left testis,gender,C0227998,Structure of left testis
+100,Structure of lobe of prostate,gender,C0227970,Structure of lobe of prostate
+101,Structure of lobe of prostate,gender,C0033572,Prostate
+102,Structure of median lobe of prostate,gender,C0678594,structure
+103,Structure of median lobe of prostate,gender,C0876920,Median Statistical Measurement
+104,Structure of median lobe of prostate,gender,C0033572,Prostate
+105,Structure of mesovarium,gender,C0678594,structure
+106,Structure of mesovarium,gender,C0230310,Structure of mesovarium
+107,Structure of obstetrical canal,gender,C0678594,structure
+108,Structure of obstetrical canal,gender,C0230288,Structure of obstetrical canal
+109,Structure of ovarian artery,gender,C0678594,structure
+110,Structure of ovarian artery,gender,C0226411,Structure of ovarian artery
+111,Structure of ovarian ligament,gender,C0678594,structure
+112,Structure of ovarian ligament,gender,C0230309,Structure of ovarian ligament
+113,Structure of paradidymis,gender,C0678594,structure
+114,Structure of parietal layer of tunica vaginalis,gender,C0678594,structure
+115,Structure of parietal layer of tunica vaginalis,gender,C0225969,Structure of parietal pericardium
+116,Structure of parietal layer of tunica vaginalis,gender,C0228014,Tunica vaginalis
+117,Structure of penile vein,gender,C0678594,structure
+118,Structure of penile vein,gender,C0226778,Structure of penile vein
+119,Structure of preputial gland,gender,C0678594,structure
+120,Structure of preputial gland,gender,C0227956,Structure of preputial gland
+121,Structure of prostatic glandular tissue,gender,C0678594,structure
+122,Structure of prostatic glandular tissue,gender,C0227967,Structure of prostatic glandular tissue
+123,Structure of prostatic utricle,gender,C0678594,structure
+124,Structure of prostatic utricle,gender,C0227736,Structure of prostatic utricle
+125,Structure of rectouterine pouch,gender,C0678594,structure
+126,Structure of rectouterine pouch,gender,C0013075,Structure of rectouterine pouch
+127,Structure of rete ovarii,gender,C0678594,structure
+128,Structure of rete ovarii,gender,C0227880,Structure of rete ovarii
+129,Structure of rete testis,gender,C0678594,structure
+130,Structure of rete testis,gender,C0035278,Structure of rete testis
+131,Structure of right ovary,gender,C0678594,structure
+132,Structure of right ovary,gender,C0227873,Structure of right ovary
+133,Structure of right testis,gender,C0678594,structure
+134,Structure of right testis,gender,C0227997,Structure of right testis
+135,Structure of sertoli cell,gender,C0678594,structure
+136,Structure of sertoli cell,gender,C0036770,Structure of sertoli cell
+137,Structure of spermatogenic epithelium,gender,C0678594,structure
+138,Structure of spermatogenic epithelium,gender,C0036629,Structure of spermatogenic epithelium
+139,Structure of tail of epididymis,gender,C0678594,structure
+140,Structure of tail of epididymis,gender,C0039259,Tail
+141,Structure of tail of epididymis,gender,C0014533,Epididymis
+142,Structure of testicular artery,gender,C0678594,structure
+143,Structure of testicular artery,gender,C0226409,Structure of testicular artery
+144,Structure of testicular vein,gender,C0678594,structure
+145,Structure of testicular vein,gender,C0226718,Structure of testicular vein
+146,Structure of uterine artery,gender,C0678594,structure
+147,Structure of uterine artery,gender,C0226378,Structure of uterine artery
+148,Structure of uterine serosa,gender,C0678594,structure
+149,Structure of uterine serosa,gender,C0227824,Structure of uterine serosa
+150,Structure of uterine vein,gender,C0678594,structure
+151,Structure of uterine vein,gender,C0226787,Structure of uterine vein
+152,Structure of uterine wall,gender,C0678594,structure
+153,Structure of uterine wall,gender,C0447620,Structure of uterine wall
+154,Structure of vaginal vault,gender,C0678594,structure
+155,Structure of vaginal vault,gender,C0549115,Structure of vaginal vault
+156,Surface of ovary,gender,C0205148,Surface
+157,Surface of ovary,gender,C0029939,Ovary
+158,Surface of prostate,gender,C0205148,Surface
+159,Surface of prostate,gender,C0033572,Prostate
+160,Theca folliculi structure,gender,C0227888,Theca folliculi structure
+161,Uterine adnexae structure,gender,C0001575,Uterine adnexae structure
+162,Vaginal introitus structure,gender,C0458952,Vaginal introitus structure
+163,Vaginal wall,gender,C0447612,Vaginal wall
+164,Vas deferens structure,gender,C0042360,Vas deferens structure
+165,Vestibular gland structure,gender,C0458842,Vestibular gland structure
+166,3C syndrome,heart,C0039082,Syndrome
+167,Abdominal aortic atherosclerosis,heart,C0398356,Abdominal aortic atherosclerosis
+168,Abnormal blood pressure,heart,C1550458,Observation Interpretation - Abnormal
+169,Abnormal blood pressure,heart,C0005823,Blood Pressure
+170,Abnormal cardiac conduction,heart,C1550458,Observation Interpretation - Abnormal
+171,Abnormal cardiac conduction,heart,C0232217,Cardiac conduction
+172,Abnormal coronary artery course,heart,C1550458,Observation Interpretation - Abnormal
+173,Abnormal coronary artery course,heart,C0205042,Coronary artery
+174,Abnormal vascular flow,heart,C1550458,Observation Interpretation - Abnormal
+175,Abnormal vascular flow,heart,C0232338,Blood flow
+176,Abnormal vasomotor function,heart,C1550458,Observation Interpretation - Abnormal
+177,Abnormal vasomotor function,heart,C0232365,Vasomotor function
+178,Abnormality of aortic arch,heart,C1704258,Abnormality
+179,Abnormality of aortic arch,heart,C0003489,Aortic arch structure
+180,Abnormality of aortic valve,heart,C1704258,Abnormality
+181,Abnormality of aortic valve,heart,C0003501,Aortic valve structure
+182,Absent pulse,heart,C4285062,Pharyngeal Stripping Wave Absent
+183,Absent pulse,heart,C0391850,Physiologic pulse
+184,Acroparesthesia,heart,C0234221,Acroparesthesia
+185,Acute bowel infarction,heart,C0267405,Acute bowel infarction
+186,Acute congestive heart failure,heart,C0264719,Acute congestive heart failure
+187,Acute cor pulmonale,heart,C0155672,Acute cor pulmonale
+188,Acute disease of cardiovascular system,heart,C0001314,Acute Disease
+189,Acute disease of cardiovascular system,heart,C3540036,CARDIOVASCULAR SYSTEM DRUGS
+190,Acute endocarditis,heart,C0375268,Acute endocarditis
+191,Acute heart failure,heart,C0264714,Acute heart failure
+192,Acute idiopathic pericarditis,heart,C0155681,Acute idiopathic pericarditis
+193,Acute left ventricular failure,heart,C1306063,Acute left ventricular failure
+194,Acute massive pulmonary embolism,heart,C0340535,Acute massive pulmonary embolism
+195,Acute myocardial infarction,heart,C0155626,Acute myocardial infarction
+196,Acute myocardial ischemia,heart,C0746731,Acute myocardial ischemia
+197,Acute myocarditis,heart,C0155686,Acute myocarditis
+198,Acute myopericarditis,heart,C0265132,Acute myopericarditis
+199,Acute pericarditis,heart,C0155679,Acute pericarditis
+200,Acute pulmonary embolism,heart,C2882221,Acute pulmonary embolism
+201,Acute purulent pericarditis,heart,C0265149,Acute purulent pericarditis
+202,Acute rheumatic heart disease,heart,C0035440,Acute rheumatic heart disease
+203,Aneurysm,heart,C0002940,Aneurysm
+204,Aneurysm of hepatic artery,heart,C0002940,Aneurysm
+205,Aneurysm of hepatic artery,heart,C0019145,Hepatic artery
+206,Aneurysm of subclavian artery,heart,C0002940,Aneurysm
+207,Aneurysm of subclavian artery,heart,C0038530,Structure of subclavian artery
+208,Angiofibroma,heart,C0206731,Angiofibroma
+209,Anterior segment ischemia,heart,C1531582,Anterior segment ischemia
+210,Aortic bifurcation thrombosis,heart,C2739808,Aortic bifurcation thrombosis
+211,Aortic root dilatation,heart,C0238669,Aortic root dilatation
+212,Aortic thromboembolism,heart,C0558360,Aortic thromboembolism
+213,Aortic valve calcification,heart,C0428791,Aortic valve calcification
+214,Aortic valve disorder,heart,C1260873,Aortic valve disorder
+215,Aortic valve vegetations,heart,C0577870,Aortic valve vegetations
+216,Aortitis,heart,C0003509,Aortitis
+217,Aortocaval compression,heart,C2953246,Parietal lumbar lymph node group
+218,Aortocaval compression,heart,C0332459,Compressed structure
+219,Aortocaval fistula,heart,C0265008,Aortocaval fistula
+220,Arterial aneurysm,heart,C0340613,Arterial aneurysm
+221,Arterial embolism,heart,C0549124,Arterial embolism
+222,Arterial insufficiency,heart,C0003834,Arterial insufficiency
+223,Arterial ischemia,heart,C0340561,Arterial ischemia
+224,Arterial thrombosis,heart,C0151942,Arterial thrombosis
+225,Arteriolitis,heart,C0003848,Arteriolitis
+226,Arteriosclerosis of aorta,heart,C0003850,Arteriosclerosis
+227,Arteriosclerosis of aorta,heart,C0003483,Aorta
+228,Arteriospasm,heart,C0085617,Arteriospasm
+229,Arteriovascular degeneration,heart,C0264954,Arteriovascular degeneration
+230,Arteriovenous fistula,heart,C0003855,Arteriovenous fistula
+231,Arteriovenous graft thrombosis,heart,C0349757,Arteriovenous graft thrombosis
+232,Arteriovenous malformation of liver,heart,C0334533,Arteriovenous hemangioma
+233,Arteriovenous malformation of liver,heart,C0736268,Liver parenchyma
+234,Arteritis,heart,C0003860,Arteritis
+235,Atherosclerosis of aorta,heart,C0003850,Arteriosclerosis
+236,Atherosclerosis of aorta,heart,C0003483,Aorta
+237,Atrial arrhythmia,heart,C0085611,Atrial arrhythmia
+238,Atrial dilatation,heart,C0264734,Atrial dilatation
+239,Atrial rupture,heart,C0877045,Atrial rupture
+240,Atrial thrombosis,heart,C0340517,Atrial thrombosis
+241,Atypical angina,heart,C0741026,Atypical angina
+242,Atypical measles,heart,C0205182,Atypical
+243,Autoimmune vasculitis,heart,C1328843,Autoimmune vasculitis
+244,Bacterial pericarditis,heart,C0340445,Bacterial pericarditis
+245,Bicuspid aortic valve,heart,C0149630,Bicuspid aortic valve
+246,Biventricular congestive heart failure,heart,C0685095,Biventricular congestive heart failure
+247,Bleeding esophageal varices,heart,C0155789,Bleeding esophageal varices
+248,Blocked premature atrial contraction,heart,C0028778,Obstruction
+249,Blocked premature atrial contraction,heart,C0033036,Atrial Premature Complexes
+250,Blood pressure finding,heart,C0005823,Blood Pressure
+251,Blood pressure finding,heart,C0243095,Finding
+252,Bounding pulse,heart,C0425574,Bounding pulse
+253,Bradycardia,heart,C0428977,Bradycardia
+254,Broken blood vessel,heart,C0425656,Broken blood vessel
+255,Calcification of coronary artery,heart,C1879982,Calcified Medical Device Material
+256,Calcification of coronary artery,heart,C0205042,Coronary artery
+257,Calciphylaxis,heart,C0006666,Calciphylaxis
+258,Capillaritis,heart,C0006902,Capillaritis
+259,Capillary hemorrhage,heart,C0265024,Capillary hemorrhage
+260,Capillary thrombosis,heart,C0265026,Capillary thrombosis
+261,Cardiac complication,heart,C0161816,Cardiac complication
+262,Cardiac dilatation,heart,C0264732,Cardiac dilatation
+263,Cardiac shunt,heart,C0232180,Cardiac shunt
+264,Cardiomegaly,heart,C0018800,Cardiomegaly
+265,Cardiomyopathy associated with another disorder,heart,C0878544,Cardiomyopathies
+266,Cardiomyopathy associated with another disorder,heart,C0332281,Associated with
+267,Cardiomyopathy associated with another disorder,heart,C0012634,Disease
+268,Cardiorespiratory failure,heart,C1444565,Cardiorespiratory failure
+269,Cardiovascular finding,heart,C0007226,Cardiovascular system
+270,Cardiovascular finding,heart,C0243095,Finding
+271,Cardiovascular injury,heart,C0560570,Cardiovascular injury
+272,Cardiovascular symptoms,heart,C0476270,Cardiovascular symptoms
+273,Carditis,heart,C0869523,Carditis
+274,Carotid artery occlusion,heart,C0265101,Carotid artery occlusion
+275,Carotid artery rupture,heart,C0340659,Carotid artery rupture
+276,Cavernous sinus syndrome,heart,C0271347,Cavernous sinus syndrome
+277,Central retinal vein occlusion,heart,C0154841,Central retinal vein occlusion
+278,Cerebellar stroke,heart,C2674383,Cerebellar stroke
+279,Cerebral arteritis,heart,C0007773,Cerebral arteritis
+280,Cerebral vasoconstriction syndrome,heart,C3838926,Cerebral vasoconstriction syndrome
+281,Cerebral venous sinus thrombosis,heart,C0338573,Cerebral venous sinus thrombosis
+282,Cerebrospinal angiopathy,heart,C0276094,Cerebrospinal angiopathy
+283,Cerebrovascular accident,heart,C1880018,Cerebrovascular
+284,Cerebrovascular amyloidosis,heart,C0520574,Cerebrovascular amyloidosis
+285,Chronic atrial and intestinal dysrhythmia,heart,C0205191,chronic
+286,Chronic atrial and intestinal dysrhythmia,heart,C0003811,Cardiac Arrhythmia
+287,Chronic cerebrovascular accident,heart,C0205191,chronic
+288,Chronic congestive heart failure,heart,C0264722,Chronic congestive heart failure
+289,Chronic constrictive pericarditis,heart,C0265144,Chronic constrictive pericarditis
+290,Chronic endocarditis,heart,C0264864,Chronic endocarditis
+291,Chronic heart disease,heart,C1290386,Chronic heart disease
+292,Chronic heart failure,heart,C0264716,Chronic heart failure
+293,Chronic left-sided heart failure,heart,C0264726,Chronic left-sided heart failure
+294,Chronic myocardial ischemia,heart,C0264694,Chronic myocardial ischemia
+295,Chronic myocarditis,heart,C0865681,Chronic myocarditis
+296,Chronic passive congestion of liver,heart,C0333237,Chronic passive congestion
+297,Chronic passive congestion of liver,heart,C0736268,Liver parenchyma
+298,Chronic pericarditis,heart,C0265143,Chronic pericarditis
+299,Chronic pulmonary embolism,heart,C0856722,Chronic pulmonary embolism
+300,Chronic pulmonary heart disease,heart,C0238074,Chronic pulmonary heart disease
+301,Chronic rheumatic heart disease,heart,C0175708,Chronic rheumatic heart disease
+302,Chronic systolic heart failure,heart,C1135194,Chronic systolic heart failure
+303,Chronic thromboembolic pulmonary hypertension,heart,C2363973,Chronic thromboembolic pulmonary hypertension
+304,Chronic venous insufficiency,heart,C1306557,Chronic venous insufficiency
+305,Chylopericardium,heart,C0242426,Chylopericardium
+306,Circulatory arrest,heart,C0444720,Circulatory arrest
+307,Common ventricle,heart,C1522138,shared attribute
+308,Common ventricle,heart,C2355627,Ventricle
+309,Complete atrioventricular block,heart,C1548561,Completion Status for valid values - Complete
+310,Complete atrioventricular block,heart,C0004245,Atrioventricular Block
+311,Conduction disorder of the heart,heart,C0264886,Conduction disorder of the heart
+312,Conduction disorder of the heart,heart,C0018787,Heart
+313,Congenital abnormality of vein,heart,C0000768,Congenital Abnormality
+314,Congenital abnormality of vein,heart,C0042449,Veins
+315,Congenital anomaly of aortic arch,heart,C0000768,Congenital Abnormality
+316,Congenital anomaly of aortic arch,heart,C0003489,Aortic arch structure
+317,Congenital anomaly of aortic valve,heart,C0000768,Congenital Abnormality
+318,Congenital anomaly of aortic valve,heart,C0003501,Aortic valve structure
+319,Congenital anomaly of coronary artery,heart,C0000768,Congenital Abnormality
+320,Congenital anomaly of coronary artery,heart,C0205042,Coronary artery
+321,Congenital arterial aneurysm,heart,C0559898,Congenital arterial aneurysm
+322,Congenital arteriovenous fistula,heart,C0332965,Congenital arteriovenous fistula
+323,Congenital arteriovenous malformation,heart,C0003857,Congenital arteriovenous malformation
+324,Congenital atresia of mitral valve,heart,C0243066,Atresia
+325,Congenital atresia of mitral valve,heart,C0026264,Mitral Valve
+326,Congenital atresia of pulmonary valve,heart,C0243066,Atresia
+327,Congenital atresia of pulmonary valve,heart,C0034086,Pulmonary valve structure
+328,Congenital cardiac diverticulum,heart,C0546315,Congenital cardiac diverticulum
+329,Congenital dysplasia of cardiac valve,heart,C0332865,Congenital dysplasia
+330,Congenital dysplasia of cardiac valve,heart,C0018826,Heart Valves
+331,Congenital heart block,heart,C0149530,Congenital heart block
+332,Congenital hemangioma,heart,C0235753,Congenital hemangioma
+333,Congenital hypoplasia of aortic arch,heart,C0020636,Congenital hypoplasia
+334,Congenital hypoplasia of aortic arch,heart,C0003489,Aortic arch structure
+335,Congenital hypoplasia of pulmonary artery,heart,C0020636,Congenital hypoplasia
+336,Congenital hypoplasia of pulmonary artery,heart,C0034052,Pulmonary artery structure
+337,Congenital insufficiency of aortic valve,heart,C0158617,Congenital insufficiency of aortic valve
+338,Congenital insufficiency of aortic valve,heart,C0003501,Aortic valve structure
+339,Congenital intracranial vascular malformation,heart,C1522213,Intracranial Route of Drug Administration
+340,Congenital intracranial vascular malformation,heart,C0158570,Vascular anomaly
+341,Congenital portal-systemic shunt,heart,C1290495,Congenital portal-systemic shunt
+342,Congenital stenosis of mitral valve,heart,C0332885,Congenital stenosis
+343,Congenital stenosis of mitral valve,heart,C0026264,Mitral Valve
+344,Congenital stenosis of pulmonary artery,heart,C0332885,Congenital stenosis
+345,Congenital stenosis of pulmonary artery,heart,C0034052,Pulmonary artery structure
+346,Congenital subaortic stenosis,heart,C0158621,Congenital subaortic stenosis
+347,Congenital varicella syndrome,heart,C0343560,Congenital varicella syndrome
+348,Congestive heart failure,heart,C0018802,Congestive heart failure
+349,Continuous murmur,heart,C0549178,Continuous
+350,Cor biloculare,heart,C0152238,Cor biloculare
+351,Cor triloculare,heart,C0344583,Cor triloculare
+352,Coronary arteritis,heart,C0264684,Coronary arteritis
+353,Coronary artery atheroma,heart,C0264683,Coronary artery atheroma
+354,Coronary artery embolism,heart,C0264686,Coronary artery embolism
+355,Coxsackie myocarditis,heart,C0153106,Coxsackie myocarditis
+356,Cryoglobulinemic vasculitis,heart,C0340992,Cryoglobulinemic vasculitis
+357,Culture-negative endocarditis,heart,C0340358,Culture-negative endocarditis
+358,Cutaneous collagenous vasculopathy,heart,C0221912,Cutaneous
+359,Cutaneous collagenous vasculopathy,heart,C4305323,Cutaneous collagenous vasculopathy
+360,Cyanotic congenital heart disease,heart,C0265808,Cyanotic congenital heart disease
+361,Decreased pulmonary arterial wedge pressure,heart,C0392756,Reduced
+362,Decreased pulmonary arterial wedge pressure,heart,C0520851,Decreased pulmonary arterial wedge pressure
+363,Decreased systolic arterial pressure,heart,C0392756,Reduced
+364,Decreased systolic arterial pressure,heart,C0871470,Systolic Pressure
+365,Deep thrombophlebitis,heart,C0151950,Deep thrombophlebitis
+366,Degenerative mitral valve prolapse,heart,C3839201,Degenerative mitral valve prolapse
+367,Dextrocardia,heart,C3541877,Dextrocardia by ECG Finding
+368,Diastolic dysfunction,heart,C0520863,Diastolic dysfunction
+369,Diastolic hypertension,heart,C0235222,Diastolic hypertension
+370,Dilatation of aorta,heart,C0012359,Pathological Dilatation
+371,Dilatation of aorta,heart,C0003483,Aorta
+372,Dilated blood vessel,heart,C0424830,Dilated blood vessel
+373,Dilated capillaries,heart,C0425683,Dilated capillaries
+374,Diphtheritic myocarditis,heart,C0152952,Diphtheritic myocarditis
+375,Discordant atrioventricular connection,heart,C3639994,Discordant
+376,Discordant atrioventricular connection,heart,C0344612,Abnormal atrioventricular connection
+377,Discordant ventriculoarterial connection,heart,C3639994,Discordant
+378,Discordant ventriculoarterial connection,heart,C0449379,Connection
+379,Disorder of pericardium,heart,C0012634,Disease
+380,Disorder of pericardium,heart,C0031050,Pericardial sac structure
+381,Disorder of vein,heart,C0012634,Disease
+382,Disorder of vein,heart,C0042449,Veins
+383,Dissection of aorta,heart,C0012737,Tissue Dissection
+384,Dissection of aorta,heart,C0003483,Aorta
+385,Divided right atrium,heart,C0344697,Divided right atrium
+386,Double aortic arch,heart,C0265883,Double aortic arch
+387,Double inlet left ventricle,heart,C0344622,Double inlet left ventricle
+388,Double inlet right ventricle,heart,C0344621,Double inlet right ventricle
+389,Double outlet left ventricle,heart,C0265809,Double outlet left ventricle
+390,Dynamic right ventricular outflow tract obstruction,heart,C1299948,Dynamic right ventricular outflow tract obstruction
+391,Electromechanical dissociation,heart,C0340861,Electromechanical dissociation
+392,Embolic stroke,heart,C0262469,Embolic stroke
+393,Embolism,heart,C0013922,Embolism
+394,Endarteritis,heart,C0014100,Endarteritis
+395,Endarteritis obliterans,heart,C1260885,Endarteritis obliterans
+396,Endocarditis,heart,C0014118,Endocarditis
+397,Endoleak,heart,C1504464,Endoleak
+398,Endophlebitis,heart,C0014234,Endophlebitis
+399,Eosinophilic myocarditis,heart,C0151788,Eosinophilic myocarditis
+400,Erythromelalgia,heart,C0014804,Erythromelalgia
+401,Exudative retinopathy,heart,C0154832,Exudative retinopathy
+402,Fetal bradycardia,heart,C0015965,Fetus
+403,Fetal heart failure,heart,C3532172,Fetal heart failure
+404,Fetal myocarditis,heart,C3532265,Fetal myocarditis
+405,Fetal tachycardia,heart,C0410918,Fetal tachycardia
+406,Fibrillation,heart,C0232197,Fibrillation
+407,Fibrosis of pericardium,heart,C0016059,Fibrosis
+408,Fibrosis of pericardium,heart,C0031050,Pericardial sac structure
+409,First degree atrioventricular block,heart,C0449286,Degree or extent
+410,First degree atrioventricular block,heart,C0004245,Atrioventricular Block
+411,Flushing,heart,C1962957,Flushing Adverse Event
+412,Fourth sound gallop,heart,C0425593,Fourth sound gallop
+413,Functional mitral regurgitation,heart,C0340369,Functional mitral regurgitation
+414,Gallop rhythm,heart,C0232200,Gallop rhythm
+415,Gastroesophageal varices,heart,C2609266,Gastroesophageal varices
+416,Gastrointestinal tract vascular insufficiency,heart,C0156149,Gastrointestinal tract vascular insufficiency
+417,Generalized atherosclerosis,heart,C0017327,Generalized atherosclerosis
+418,Giant cell myocarditis,heart,C0264856,Giant cell myocarditis
+419,Granulomatosis with polyangiitis,heart,C0521173,Granulomatosis
+420,Granulomatosis with polyangiitis,heart,C0264939,Systemic Vasculitis
+421,Heart failure,heart,C0018801,Heart failure
+422,"Heart murmur quality, blowing",heart,C4069672,Murmur quality:Type:Pt:Heart:Nom:Auscultation
+423,"Heart murmur quality, blowing",heart,C0413399,Blow -accident
+424,Heart sounds abnormal,heart,C0018820,Heart Sounds
+425,Heart sounds abnormal,heart,C1550458,Observation Interpretation - Abnormal
+426,Heart sounds diminished,heart,C0018820,Heart Sounds
+427,Heart sounds normal,heart,C0018820,Heart Sounds
+428,Heart valve regurgitation,heart,C0264879,Heart valve regurgitation
+429,Hematoma of cord,heart,C0018944,Hematoma
+430,Hematoma of cord,heart,C0035334,Retinitis Pigmentosa
+431,Hemiplegic migraine,heart,C0270862,Hemiplegic migraine
+432,Hemodynamic instability,heart,C0019010,Hemodynamics
+433,Hemodynamically stable,heart,C0019010,Hemodynamics
+434,Hemodynamically stable,heart,C0205360,Stable status
+435,Hemopericardium,heart,C0019064,Hemopericardium
+436,Hemorrhage of blood vessel,heart,C0019080,Hemorrhage
+437,Hemorrhage of blood vessel,heart,C0005847,Blood Vessel
+438,Hemorrhoids,heart,C0019112,Hemorrhoids
+439,Hepatic artery stenosis,heart,C0920186,Hepatic artery stenosis
+440,Hepatic artery thrombosis,heart,C0392106,Hepatic artery thrombosis
+441,Hepatic infarction,heart,C0151731,Hepatic infarction
+442,Hepatoportal sclerosis,heart,C4273756,Hepatoportal sclerosis
+443,Hereditary cystatin C amyloid angiopathy,heart,C3839957,Hereditary cystatin C amyloid angiopathy
+444,Hughes Stovin syndrome,heart,C4303478,Hughes Stovin syndrome
+445,Hypertensive crisis,heart,C0857121,Hypertensive (finding)
+446,Hypertensive crisis,heart,C0231224,Crisis
+447,Hypertensive heart disease,heart,C0152105,Hypertensive heart disease
+448,Hypertrophic cardiomyopathy associated with another disorder,heart,C0007194,Hypertrophic Cardiomyopathy
+449,Hypertrophic cardiomyopathy associated with another disorder,heart,C0332281,Associated with
+450,Hypertrophic cardiomyopathy associated with another disorder,heart,C0012634,Disease
+451,Hypertrophy of septomarginal trabeculation,heart,C0020564,Hypertrophy
+452,Hypertrophy of septomarginal trabeculation,heart,C2610480,trabecula formation
+453,Hypostasis,heart,C0232355,Hypostasis
+454,Hypotensive episode,heart,C0520541,Hypotensive episode
+455,Idiopathic hypertrophic subaortic stenosis,heart,C0700053,Idiopathic hypertrophic subaortic stenosis
+456,Idiopathic pulmonary arterial hypertension,heart,C3203102,Idiopathic pulmonary arterial hypertension
+457,Idioventricular rhythm,heart,C0700363,Idioventricular rhythm
+458,Impending shock,heart,C1532281,Impending shock
+459,Increased vascular flow,heart,C0442805,Increase
+460,Increased vascular flow,heart,C0232338,Blood flow
+461,Indeterminate atrial arrangement,heart,C0205258,Indeterminate
+462,Ineffective tissue perfusion,heart,C3242229,ineffective
+463,Ineffective tissue perfusion,heart,C0429877,Tissue perfusion measure
+464,Infarction of spinal cord,heart,C0021308,Infarction
+465,Infarction of spinal cord,heart,C0037925,Spinal Cord
+466,Infectious disease of heart,heart,C0009450,Communicable Diseases
+467,Infectious disease of heart,heart,C0018787,Heart
+468,Infective endocarditis,heart,C1541923,Infective endocarditis
+469,Inflammation of fetal umbilical artery,heart,C0021368,Inflammation
+470,Inflammation of fetal umbilical artery,heart,C0041632,Structure of umbilical artery
+471,Inflammatory cardiomyopathy,heart,C3532222,Inflammatory cardiomyopathy
+472,Injury of aorta,heart,C3263723,Traumatic injury
+473,Injury of aorta,heart,C0003483,Aorta
+474,Injury of artery,heart,C3263723,Traumatic injury
+475,Injury of artery,heart,C0003842,Arteries
+476,Injury of vein,heart,C3263723,Traumatic injury
+477,Injury of vein,heart,C0042449,Veins
+478,Interrupted aortic arch,heart,C0152419,Interrupted aortic arch
+479,Interstitial myocarditis,heart,C0027060,Interstitial myocarditis
+480,Intracranial thrombophlebitis,heart,C0281884,Intracranial thrombophlebitis
+481,Irregular heart beat,heart,C0205271,Irregular
+482,Irregular heart beat,heart,C0425583,Heart beat
+483,Ischemia,heart,C0022116,Ischemia
+484,Ischemic gangrene,heart,C1304451,Ischemic gangrene
+485,Ischemic maculopathy,heart,C0730286,Ischemic maculopathy
+486,Ischemic steal syndrome,heart,C4274472,Ischemic steal syndrome
+487,Ischemic stroke,heart,C0475224,Ischemic
+488,Jugular venous engorgement,heart,C0022427,Structure of jugular vein
+489,Jugular venous engorgement,heart,C0042484,Venous Engorgement
+490,Labile blood pressure,heart,C0428895,Labile blood pressure
+491,Late fetal heart deceleration,heart,C0429482,Late fetal heart deceleration
+492,Left atrial dilatation,heart,C0344720,Left atrial dilatation
+493,Left atrial hypertrophy,heart,C0238705,Left atrial hypertrophy
+494,Left axis deviation,heart,C0232297,Left axis deviation
+495,Left main coronary artery disease,heart,C1299433,Left main coronary artery disease
+496,Left parasternal pansystolic murmur,heart,C0425631,Left parasternal pansystolic murmur
+497,Left ventricular abnormality,heart,C0344905,Left ventricular abnormality
+498,Left ventricular aneurysm,heart,C0519097,Left ventricular aneurysm
+499,Left ventricular diastolic dysfunction,heart,C1963158,Left Ventricular Diastolic Dysfunction Adverse Event
+500,Left ventricular mass,heart,C0455825,Left ventricular mass
+501,Left ventricular outflow tract abnormality,heart,C4284103,Left Ventricular Outflow Tract
+502,Left ventricular outflow tract obstruction,heart,C0344917,Left ventricular outflow tract obstruction
+503,Left ventricular systolic dysfunction,heart,C1277187,Left ventricular systolic dysfunction
+504,Limb ischemia,heart,C2945695,Limb ischemia
+505,Lone atrial fibrillation,heart,C0340489,Lone atrial fibrillation
+506,Lymphocytic myocarditis,heart,C1960273,Lymphocytic myocarditis
+507,Malignant endocarditis,heart,C0264870,Malignant endocarditis
+508,Malignant pericardial effusion,heart,C0205282,Malignant - descriptor
+509,Malignant pericardial effusion,heart,C0031039,Pericardial effusion
+510,Malouf syndrome,heart,C0796031,Malouf syndrome
+511,Maternal hypertension,heart,C0026591,Mother (person)
+512,Maternal hypertension,heart,C1963138,Hypertension Adverse Event
+513,Measles,heart,C0025010,Measles Vaccine
+514,Measles pneumonia,heart,C0339976,Measles pneumonia
+515,Mediastinal crunch,heart,C0232273,Mediastinal crunch
+516,Milk spots of pericardium,heart,C0265126,Milk spots of pericardium
+517,Milk spots of pericardium,heart,C0031050,Pericardial sac structure
+518,Mixed dementia,heart,C3532942,Mixed dementia
+519,Mobitz type I incomplete atrioventricular block,heart,C0264907,Mobitz type I incomplete atrioventricular block
+520,Mobitz type I incomplete atrioventricular block,heart,C0728938,Partial
+521,Mobitz type I incomplete atrioventricular block,heart,C0004245,Atrioventricular Block
+522,Multifocal atrial tachycardia,heart,C0221158,Multifocal atrial tachycardia
+523,Mural thrombus of heart,heart,C0333205,Mural thrombus
+524,Mural thrombus of heart,heart,C0018787,Heart
+525,Muscular ventricular septum defect,heart,C0685707,Muscular ventricular septum defect
+526,Mycotic pericarditis,heart,C0276647,Mycotic pericarditis
+527,Myocardial degeneration,heart,C0027046,Myocardial degeneration
+528,Myocardial dysfunction,heart,C0340515,Myocardial dysfunction
+529,Myocardial lesion,heart,C0577812,Myocardial lesion
+530,Myocardial necrosis,heart,C0027051,Myocardial Infarction
+531,Myocardial perfusion defect,heart,C0428858,Myocardial perfusion defect
+532,Myocardial perfusion normal,heart,C0428857,Myocardial perfusion
+533,Myocarditis,heart,C0027059,Myocarditis
+534,Myocarditis due to infectious agent,heart,C0027059,Myocarditis
+535,Myocarditis due to infectious agent,heart,C0314732,Infectious agent
+536,Myxoid transformation of mitral valve,heart,C0205295,Myxoid
+537,Myxoid transformation of mitral valve,heart,C0040682,cell transformation
+538,Myxoid transformation of mitral valve,heart,C0026264,Mitral Valve
+539,Myxoid transformation of tricuspid valve,heart,C0205295,Myxoid
+540,Myxoid transformation of tricuspid valve,heart,C0040682,cell transformation
+541,Myxoid transformation of tricuspid valve,heart,C0040960,Tricuspid valve structure
+542,Narrow pulse pressure,heart,C0240840,Narrow pulse pressure
+543,Necrotizing cutaneous vasculitis,heart,C1304407,Necrotizing cutaneous vasculitis
+544,Necrotizing vasculitis,heart,C1318520,Necrotizing vasculitis
+545,Neoplasm of myocardium,heart,C1882062,Neoplastic disease
+546,Neoplasm of myocardium,heart,C0027061,Myocardium
+547,Nephrosclerosis,heart,C0027719,Nephrosclerosis
+548,Nodular vasculitis,heart,C0028258,Nodular vasculitis
+549,Nonsustained ventricular tachycardia,heart,C0344428,Ventricular Tachycardia by ECG Finding
+550,Normal blood pressure,heart,C2712122,Normal blood pressure
+551,Normal blood volume,heart,C0232091,Normal blood volume
+552,Normal cardiac conduction,heart,C0232218,Normal cardiac conduction
+553,Normal heart rate,heart,C2712143,Normal heart rate
+554,Normal pulmonary arterial wedge pressure,heart,C0520849,Normal pulmonary arterial wedge pressure
+555,Normal pulse,heart,C0277898,Normal pulse
+556,Normal sinus rhythm,heart,C0205307,Normal
+557,Normal sinus rhythm,heart,C1305231,Sinus - general anatomical term
+558,Normal systolic arterial pressure,heart,C0277882,Normal systolic arterial pressure
+559,Normal vascular flow,heart,C0205307,Normal
+560,Normal vascular flow,heart,C0232338,Blood flow
+561,Normal ventilation-perfusion ratio,heart,C0205307,Normal
+562,Normal ventilation-perfusion ratio,heart,C0042495,Ventilation-Perfusion Ratio
+563,Omphalophlebitis,heart,C0270174,Omphalophlebitis
+564,Paired ventricular premature complexes,heart,C1709450,Pair
+565,Paired ventricular premature complexes,heart,C0151636,Premature ventricular contractions
+566,Palpitations,heart,C0030252,Palpitations
+567,Pancarditis,heart,C0030270,Pancarditis
+568,Pansystolic murmur,heart,C0232258,Pansystolic murmur
+569,Papillary fibroelastoma,heart,C1947920,Papillary fibroelastoma
+570,Parachute malformation of mitral valve,heart,C0546965,Parachute malformation of mitral valve
+571,Parachute malformation of mitral valve,heart,C0026264,Mitral Valve
+572,Paralytic stroke,heart,C1263853,Paralytic stroke
+573,Parasitic myocarditis,heart,C0340416,Parasitic myocarditis
+574,Paroxysmal atrial fibrillation,heart,C4050122,Paroxysmal Atrial Fibrillation by ECG Finding
+575,Paroxysmal familial ventricular fibrillation,heart,C0340493,Paroxysmal familial ventricular fibrillation
+576,Paroxysmal hypertension,heart,C0221154,Paroxysmal hypertension
+577,Paroxysmal supraventricular tachycardia,heart,C0030590,Paroxysmal supraventricular tachycardia
+578,Partial atrioventricular block,heart,C0728938,Partial
+579,Partial atrioventricular block,heart,C0004245,Atrioventricular Block
+580,Partial retinal artery occlusion,heart,C0154839,Partial retinal artery occlusion
+581,Patent ductus arteriosus,heart,C0013274,Patent ductus arteriosus
+582,Periarteritis,heart,C0264988,Periarteritis
+583,Pericardial effusion,heart,C0031039,Pericardial effusion
+584,Pericardial effusion - noninflammatory,heart,C0031039,Pericardial effusion
+585,Pericardial effusion - noninflammatory,heart,C0442743,Noninflammatory
+586,Pericardial friction rub,heart,C0232267,Pericardial friction rub
+587,Pericarditis,heart,C0031046,Pericarditis
+588,Pericarditis secondary to uremia,heart,C0031046,Pericarditis
+589,Pericarditis secondary to uremia,heart,C0175668,Secondary to
+590,Pericarditis secondary to uremia,heart,C0041948,Uremia
+591,Perimembranous ventricular septal defect,heart,C0344925,Perimembranous ventricular septal defect
+592,Peripheral ischemia,heart,C0235490,Peripheral ischemia
+593,Peripheral pulmonary artery stenosis,heart,C0345030,Peripheral pulmonary artery stenosis
+594,Peripheral vascular alteration,heart,C0205100,Peripheral
+595,Peripheral vascular alteration,heart,C1515926,Alteration
+596,Peripheral vascular complication,heart,C0161817,Peripheral vascular complication
+597,Periphlebitis,heart,C0031129,Periphlebitis
+598,Phlebitis,heart,C0031542,Phlebitis
+599,Phlebitis of portal vein,heart,C0031542,Phlebitis
+600,Phlebitis of portal vein,heart,C0032718,Portal vein structure
+601,Pneumopericardium,heart,C0032319,Pneumopericardium
+602,Polyarteritis,heart,C0264992,Polyarteritis
+603,Portal vein obstruction,heart,C0265029,Portal vein obstruction
+604,Portal vein thrombosis,heart,C0155773,Portal vein thrombosis
+605,Postmyocardial infarction syndrome,heart,C0152107,Postmyocardial infarction syndrome
+606,Postoperative hypertension,heart,C0032790,Postoperative Period
+607,Postoperative hypertension,heart,C1963138,Hypertension Adverse Event
+608,Poststenotic dilatation,heart,C1299346,Poststenotic dilatation
+609,Pounding heart,heart,C0235240,Pounding heart
+610,Preductal coarctation of aorta,heart,C0265878,Preductal coarctation of aorta
+611,Preductal coarctation of aorta,heart,C0003483,Aorta
+612,Prehypertension,heart,C1696708,Prehypertension
+613,Primary endocardial fibroelastosis,heart,C0265876,Primary endocardial fibroelastosis
+614,Primary systemic vasculitis,heart,C0343187,Primary systemic vasculitis
+615,Prosthetic valve endocarditis,heart,C0340359,Prosthetic valve endocarditis
+616,Pseudoaneurysm,heart,C0162868,False aneurysm of artery
+617,Pulmonary arterial hypertension,heart,C2973725,Pulmonary arterial hypertension
+618,Pulmonary arteritis,heart,C0003861,Pulmonary arteritis
+619,Pulmonary artery aneurysm,heart,C0155676,Pulmonary artery aneurysm
+620,Pulmonary artery thrombosis,heart,C0151947,Pulmonary artery thrombosis
+621,Pulmonary capillary hemangiomatosis,heart,C0340548,Pulmonary capillary hemangiomatosis
+622,Pulmonary endarteritis,heart,C0264931,Pulmonary endarteritis
+623,Pulmonary thrombosis,heart,C0151946,Pulmonary thrombosis
+624,Pulmonary valve disorder,heart,C0034087,Pulmonary valve disorder
+625,Pulmonary venous congestion,heart,C0582411,Pulmonary venous congestion
+626,Pulmonary venous thrombosis,heart,C0392108,Pulmonary venous thrombosis
+627,Pulse irregular,heart,C0391850,Physiologic pulse
+628,Pulseless ventricular tachycardia,heart,C0750196,Pulseless ventricular tachycardia
+629,Pulsus paradoxus,heart,C0232118,Pulsus paradoxus
+630,Pulsus trigeminus,heart,C0232119,Pulsus trigeminus
+631,Raised jugular venous pressure,heart,C0442818,Raised
+632,Raised jugular venous pressure,heart,C0428897,Jugular venous pressure
+633,Re-entrant atrioventricular tachycardia,heart,C0340477,Re-entrant atrioventricular tachycardia
+634,Reflex bradycardia,heart,C0232191,Reflex bradycardia
+635,Reflex tachycardia,heart,C1328539,Reflex tachycardia
+636,Refractory heart failure,heart,C1281998,Refractory heart failure
+637,Refractory hypotension,heart,C4304283,Refractory hypotension
+638,Renal hypertension,heart,C0020544,Renal hypertension
+639,Renal infarction,heart,C0035085,Renal infarction
+640,Renal vascular disorder,heart,C0268790,Renal vascular disorder
+641,Renal vasculitis,heart,C0152002,Renal vasculitis
+642,Restrictive cardiomyopathy,heart,C0007196,Restrictive cardiomyopathy
+643,Retinal telangiectasia,heart,C0154835,Retinal telangiectasia
+644,Retinal vascular occlusion,heart,C0035331,Retinaldehyde
+645,Retinal vascular occlusion,heart,C1096458,Vascular occlusion
+646,Retinal venous engorgement,heart,C0035331,Retinaldehyde
+647,Retinal venous engorgement,heart,C0042484,Venous Engorgement
+648,Rhythm from artificial pacing,heart,C1523018,rhythmic process (biological)
+649,Rhythm from artificial pacing,heart,C0007168,"Cardiac Pacing, Artificial"
+650,Right atrial appendage aneurysm,heart,C0344706,Right atrial appendage aneurysm
+651,Right atrial dilatation,heart,C0344709,Right atrial dilatation
+652,Right atrial enlargement,heart,C0232308,P pulmonale by EKG (finding)
+653,Right axis deviation,heart,C0232296,Right axis deviation
+654,Right bundle branch block,heart,C0085615,Right bundle branch block
+655,Right hypoplastic heart syndrome,heart,C0344963,Right hypoplastic heart syndrome
+656,Right ventricular aneurysm,heart,C2063380,Right ventricular aneurysm
+657,Right ventricular failure,heart,C0235527,"Heart Failure, Right-Sided"
+658,Right ventricular mass,heart,C0455860,Right ventricular mass
+659,Right ventricular systolic dysfunction,heart,C1562095,Right ventricular systolic dysfunction
+660,Roger's disease,heart,C0238522,Roger's disease
+661,Rubella,heart,C0035920,Rubella
+662,Rubella arthritis,heart,C0276308,Rubella arthritis
+663,Rubella encephalomyelitis,heart,C0033359,Rubella encephalomyelitis
+664,Rupture of artery,heart,C3203359,Rupture
+665,Rupture of artery,heart,C0003842,Arteries
+666,Rupture of chordae tendineae,heart,C3203359,Rupture
+667,Rupture of chordae tendineae,heart,C0008484,Structure of chordae tendineae cordis
+668,Ruptured abdominal aortic aneurysm,heart,C0265012,Ruptured abdominal aortic aneurysm
+669,Ruptured cerebral aneurysm,heart,C0242084,Ruptured cerebral aneurysm
+670,Secondary dilated cardiomyopathy,heart,C0264795,Secondary dilated cardiomyopathy
+671,Secondary hypertension,heart,C0155616,Secondary hypertension
+672,Secondary pulmonary hypertension,heart,C0264936,Secondary pulmonary hypertension
+673,Senile angioma,heart,C0343082,Senile angioma
+674,Senile cardiac amyloidosis,heart,C0268407,Senile cardiac amyloidosis
+675,Senile sclerosis of aortic cusp,heart,C0036429,Sclerosis
+676,Senile sclerosis of aortic cusp,heart,C0225958,Structure of cusp of aortic valve
+677,Septic pulmonary embolism,heart,C1955781,Septic pulmonary embolism
+678,Septic thrombophlebitis,heart,C0740341,Septic thrombophlebitis
+679,Severe pre-eclampsia,heart,C0205082,Severe (severity modifier)
+680,Severe pre-eclampsia,heart,C0032914,Pre-Eclampsia
+681,Shunting vascular flow,heart,C0232350,Shunting vascular flow
+682,Single coronary artery,heart,C0265903,Single coronary artery
+683,Single right ventricle,heart,C0546268,Single right ventricle
+684,Single umbilical artery,heart,C1384670,Single umbilical artery
+685,Sinus bradycardia,heart,C2108107,continuous electrocardiogram sinus bradycardia (finding)
+686,Sinus rhythm,heart,C1305231,Sinus - general anatomical term
+687,Small vessel vasculitis,heart,C4023113,Small vessel vasculitis
+688,Soft systolic murmur,heart,C0425623,Soft systolic murmur
+689,Spider nevus,heart,C0085666,Spider nevus
+690,Spinal arteriovenous malformation,heart,C0348023,Spinal arteriovenous malformation
+691,Splenic vein thrombosis,heart,C0272416,Splenic vein thrombosis
+692,Stable angina,heart,C0205360,Stable status
+693,Stable angina,heart,C0002962,Angina Pectoris
+694,Stable blood pressure,heart,C0428896,Stable blood pressure
+695,Staphylococcal endocarditis,heart,C0520767,Staphylococcal endocarditis
+696,Stenosis of middle cerebral artery,heart,C2632116,Stenosis (invertebrate)
+697,Stenosis of middle cerebral artery,heart,C0149566,Structure of middle cerebral artery
+698,Strawberry nevus of skin,heart,C0206733,Strawberry nevus of skin
+699,Strawberry nevus of skin,heart,C1123023,Skin
+700,Stricture of artery,heart,C1261287,Stenosis
+701,Stricture of artery,heart,C0003842,Arteries
+702,Subacute endocarditis,heart,C0264863,Subacute endocarditis
+703,Subaortic stenosis,heart,C0340375,Subaortic stenosis
+704,Subclavian vein stenosis,heart,C0340754,Subclavian vein stenosis
+705,Subendocardial myocardial infarction,heart,C0262568,Subendocardial myocardial infarction
+706,Summation gallop,heart,C0425594,Summation gallop
+707,Supine hypertension,heart,C4076686,Supine hypertension
+708,Suppurative phlebitis,heart,C0265051,Suppurative phlebitis
+709,Supraventricular arrhythmia,heart,C0428974,Supraventricular arrhythmia
+710,Supraventricular tachycardia,heart,C0039240,Supraventricular tachycardia
+711,Systemic lupus erythematosus encephalitis,heart,C0393968,Systemic lupus erythematosus encephalitis
+712,Systolic anterior movement of mitral valve,heart,C0039155,Systole
+713,Systolic anterior movement of mitral valve,heart,C0026649,Movement
+714,Systolic anterior movement of mitral valve,heart,C0026264,Mitral Valve
+715,Systolic dysfunction,heart,C0749225,Systolic dysfunction
+716,Systolic hypertension,heart,C0221155,Systolic hypertension
+717,Tachyarrhythmia,heart,C0080203,Tachyarrhythmia
+718,Tachycardia,heart,C0039231,Tachycardia
+719,Tachycardia-induced cardiomyopathy,heart,C1960445,Tachycardia-induced cardiomyopathy
+720,Talc embolism,heart,C3494939,Talc embolism
+721,Telangiectasis,heart,C0039446,Telangiectasis
+722,Tetralogy of Fallot,heart,C0039685,Tetralogy of Fallot
+723,Tetralogy of Fallot,heart,C1418436,PDGFC gene
+724,Thickened mitral leaflet,heart,C0205400,Thickened
+725,Thickened mitral leaflet,heart,C0225950,Structure of anterior leaflet of mitral valve
+726,Thromboarteritis,heart,C0264982,Thromboarteritis
+727,Thromboembolism of vein,heart,C0040038,Thromboembolism
+728,Thromboembolism of vein,heart,C0042449,Veins
+729,Thrombophlebitis,heart,C0040046,Thrombophlebitis
+730,Thrombophlebitis migrans,heart,C0152250,Thrombophlebitis migrans
+731,Thrombophlebitis of pelvic vein,heart,C0040046,Thrombophlebitis
+732,Thrombophlebitis of pelvic vein,heart,C0226791,Structure of pelvic vein
+733,Thrombosis of abdominal aorta,heart,C0040053,Thrombosis
+734,Thrombosis of abdominal aorta,heart,C0003484,Abdominal aorta structure
+735,Thrombosis of blood vessel,heart,C0040053,Thrombosis
+736,Thrombosis of blood vessel,heart,C0005847,Blood Vessel
+737,Thrombosis of cerebral veins,heart,C0040053,Thrombosis
+738,Thrombosis of cerebral veins,heart,C0007797,Structure of cerebral vein
+739,Thrombosis of internal jugular vein,heart,C0040053,Thrombosis
+740,Thrombosis of internal jugular vein,heart,C0226550,Internal jugular vein structure
+741,Thrombosis of renal vein,heart,C0040053,Thrombosis
+742,Thrombosis of renal vein,heart,C0035092,Structure of renal vein
+743,Thrombosis of subclavian vein,heart,C0040053,Thrombosis
+744,Thrombosis of subclavian vein,heart,C0038532,Structure of subclavian vein
+745,Thrombosis of vena cava,heart,C0040053,Thrombosis
+746,Thrombosis of vena cava,heart,C0042460,Vena cava structure
+747,Thrombotic stroke,heart,C0242129,Thrombotic stroke
+748,Thyrotoxic heart disease,heart,C0264792,Thyrotoxic heart disease
+749,Torsade de pointes with short coupling interval syndrome,heart,C1963250,Torsade de Pointes Adverse Event
+750,Torsade de pointes with short coupling interval syndrome,heart,C3150851,Torsade de pointes with short coupling interval syndrome
+751,Totally absent pericardium,heart,C4285062,Pharyngeal Stripping Wave Absent
+752,Totally absent pericardium,heart,C0031050,Pericardial sac structure
+753,Transient arterial retinal occlusion,heart,C0040704,Transient Population Group
+754,Transient arterial retinal occlusion,heart,C0007688,Central Retinal Artery Occlusion
+755,Transient hypertension of pregnancy,heart,C0040704,Transient Population Group
+756,Transient hypertension of pregnancy,heart,C1963138,Hypertension Adverse Event
+757,Transient hypertension of pregnancy,heart,C0032961,Pregnancy
+758,Transient hypotension,heart,C0040704,Transient Population Group
+759,Transient hypotension,heart,C0020649,Hypotension
+760,Transient ischemia,heart,C0040704,Transient Population Group
+761,Transient ischemia,heart,C0022116,Ischemia
+762,Transplant renal artery stenosis,heart,C4075713,Transplant renal artery stenosis
+763,Tricuspid valve disorder,heart,C0264882,Tricuspid valve disorder
+764,Tropical endomyocardial fibrosis,heart,C2882252,Tropical endomyocardial fibrosis
+765,Two chambered right ventricle,heart,C0225883,Right ventricular structure
+766,Ulcer of artery,heart,C3887532,Ulceration
+767,Ulcer of artery,heart,C0003842,Arteries
+768,Unifocal PVCs,heart,C0443337,Unifocal
+769,Unifocal PVCs,heart,C0151636,Premature ventricular contractions
+770,Urticarial vasculitis,heart,C0343206,Hypocomplementemic urticarial vasculitis
+771,Valvular endocarditis,heart,C0264865,Valvular endocarditis
+772,Valvular regurgitation,heart,C0042300,Valvular regurgitation
+773,Valvular sclerosis,heart,C1561993,Valvular sclerosis
+774,Varicocele,heart,C0042341,Varicocele
+775,Vascular calcification,heart,C0342649,Vascular calcification
+776,Vascular degeneration,heart,C1281300,Vascular degeneration
+777,Vascular disorder of liver,heart,C0042373,Vascular Diseases
+778,Vascular disorder of liver,heart,C0736268,Liver parenchyma
+779,Vascular graft infection,heart,C0340896,Vascular graft infection
+780,Vascular insufficiency,heart,C0232352,Vascular insufficiency
+781,Vascular insufficiency of intestine,heart,C0232352,Vascular insufficiency
+782,Vascular insufficiency of intestine,heart,C0021853,Intestines
+783,Vascular purpura,heart,C1368065,Vascular purpura
+784,Vasculitis,heart,C0042384,Vasculitis
+785,Vasculitis of mesenteric artery,heart,C0042384,Vasculitis
+786,Vasculitis of mesenteric artery,heart,C0025465,Mesenteric Arteries
+787,Vasculitis of the skin,heart,C0042384,Vasculitis
+788,Vasculitis of the skin,heart,C1123023,Skin
+789,Vasovagal syncope,heart,C0042420,Vasovagal syncope
+790,Vegetative endocarditis,heart,C4021200,Vegetative auras
+791,Vegetative endocarditis,heart,C0014118,Endocarditis
+792,Venous air embolism,heart,C0595954,Venous air embolism
+793,Venous embolism,heart,C0340726,Venous embolism
+794,Venous hypertension,heart,C0340766,Venous hypertension
+795,Venous lake,heart,C0948672,Venous lake
+796,Venous puncture,heart,C0340778,Venous puncture
+797,Ventricular aneurysm,heart,C0392464,Ventricular aneurysm
+798,Ventricular arrhythmia,heart,C0344424,Ventricular Arrhythmia by ECG Finding
+799,Ventricular hypertrophy,heart,C0340279,Ventricular hypertrophy
+800,Ventricular septal defect between left ventricle and right atrium,heart,C0018818,Ventricular Septal Defects
+801,Ventricular septal defect between left ventricle and right atrium,heart,C0225897,Left ventricular structure
+802,Ventricular septal defect between left ventricle and right atrium,heart,C0225844,Right atrial structure
+803,"Ventricular tachycardia, polymorphic",heart,C0344428,Ventricular Tachycardia by ECG Finding
+804,"Ventricular tachycardia, polymorphic",heart,C1882417,Polymorphism
+805,Viral myocarditis,heart,C0276138,Viral myocarditis
+806,Viral pericarditis,heart,C0276139,Viral pericarditis
+807,Weak arterial pulse,heart,C1762617,Weak
+808,Weak arterial pulse,heart,C0232108,Arterial pulse pressure
+809,Acute exacerbation of chronic obstructive airways disease,COPD,C0743630,exacerbation acute
+810,Acute exacerbation of chronic obstructive airways disease,COPD,C0024117,Chronic Obstructive Airway Disease
+811,Asthma-chronic obstructive pulmonary disease overlap syndrome,COPD,C4038730,Asthma-chronic obstructive pulmonary disease overlap syndrome
+812,Chronic bullous emphysema,COPD,C1261120,Chronic bullous emphysema
+813,Mild chronic obstructive pulmonary disease,COPD,C0730604,Mild chronic obstructive pulmonary disease
+814,Obstructive emphysema,COPD,C0241876,Obstructive emphysema
+815,Paraseptal emphysema,COPD,C0264394,Paraseptal emphysema
+816,Severe chronic obstructive pulmonary disease,COPD,C0205082,Severe (severity modifier)
+817,Severe chronic obstructive pulmonary disease,COPD,C0024117,Chronic Obstructive Airway Disease
+818,Cigar smoker,smoking,C0337666,Cigar smoker
+819,Heavy cigarette smoker,smoking,C1704760,Cigarette Dosage Form
+820,Never smoked tobacco,smoking,C2003901,Never (frequency)
+821,Never smoked tobacco,smoking,C4086859,Smoked Plum
+822,Non-smoker,smoking,C0337672,Non-smoker
+823,Pipe smoker,smoking,C0337665,Pipe smoker
+824,Smokes tobacco daily,smoking,C0439994,Tobacco smoke
+825,Smokes tobacco daily,smoking,C0332173,Daily
+826,Stopped smoking,smoking,C0425310,Stopped smoking
+827,Carotid artery occlusion,cerbro,C0265101,Carotid artery occlusion
+828,Carotid artery rupture,cerbro,C0340659,Carotid artery rupture
+829,Cavernous sinus syndrome,cerbro,C0271347,Cavernous sinus syndrome
+830,Cerebellar stroke,cerbro,C2674383,Cerebellar stroke
+831,Cerebral arteritis,cerbro,C0007773,Cerebral arteritis
+832,Cerebral vasoconstriction syndrome,cerbro,C3838926,Cerebral vasoconstriction syndrome
+833,Cerebral venous sinus thrombosis,cerbro,C0338573,Cerebral venous sinus thrombosis
+834,Cerebrospinal angiopathy,cerbro,C0276094,Cerebrospinal angiopathy
+835,Cerebrovascular accident,cerbro,C1880018,Cerebrovascular
+836,Cerebrovascular amyloidosis,cerbro,C0520574,Cerebrovascular amyloidosis
+837,Chronic cerebrovascular accident,cerbro,C0205191,chronic
+838,Congenital intracranial vascular malformation,cerbro,C1522213,Intracranial Route of Drug Administration
+839,Congenital intracranial vascular malformation,cerbro,C0158570,Vascular anomaly
+840,Embolic stroke,cerbro,C0262469,Embolic stroke
+841,Hereditary cystatin C amyloid angiopathy,cerbro,C3839957,Hereditary cystatin C amyloid angiopathy
+842,Intracranial thrombophlebitis,cerbro,C0281884,Intracranial thrombophlebitis
+843,Ischemic stroke,cerbro,C0475224,Ischemic
+844,Mixed dementia,cerbro,C3532942,Mixed dementia
+845,Paralytic stroke,cerbro,C1263853,Paralytic stroke
+846,Ruptured cerebral aneurysm,cerbro,C0242084,Ruptured cerebral aneurysm
+847,Stenosis of middle cerebral artery,cerbro,C2632116,Stenosis (invertebrate)
+848,Stenosis of middle cerebral artery,cerbro,C0149566,Structure of middle cerebral artery
+849,Systemic lupus erythematosus encephalitis,cerbro,C0393968,Systemic lupus erythematosus encephalitis
+850,Thrombosis of cerebral veins,cerbro,C0040053,Thrombosis
+851,Thrombosis of cerebral veins,cerbro,C0007797,Structure of cerebral vein
+852,Thrombotic stroke,cerbro,C0242129,Thrombotic stroke
+853,Acanthosis palmaris,cancer,C0406352,Acanthosis palmaris
+854,Acute biphenotypic leukemia,cancer,C0023464,Acute biphenotypic leukemia
+855,Acute leukemia,cancer,C0085669,Acute leukemia
+856,Acute monocytic leukemia,cancer,C0023465,Acute monocytic leukemia
+857,Acute monocytic/monoblastic leukemia,cancer,C3831784,Acute monocytic/monoblastic leukemia
+858,Acute myeloid leukemia with multilineage dysplasia,cancer,C0023467,"Leukemia, Myelocytic, Acute"
+859,Acute myeloid leukemia with multilineage dysplasia,cancer,C1292773,Acute myeloid leukemia with multilineage dysplasia
+860,"Acute myeloid leukemia, minimal differentiation",cancer,C0023467,"Leukemia, Myelocytic, Acute"
+861,"Acute myeloid leukemia, minimal differentiation",cancer,C2945599,Mild (qualifier value)
+862,"Acute myeloid leukemia, minimal differentiation",cancer,C0007589,Cell Differentiation process
+863,Acute panmyelosis with myelofibrosis,cancer,C0334674,Acute panmyelosis with myelofibrosis
+864,Acute panmyelosis with myelofibrosis,cancer,C0001815,Primary Myelofibrosis
+865,Adenocarcinoma in adenomatous polyp,cancer,C0001418,Adenocarcinoma
+866,Adenocarcinoma in adenomatous polyp,cancer,C0206677,Adenomatous Polyps
+867,Adenocarcinoma in tubulovillous adenoma,cancer,C0001418,Adenocarcinoma
+868,Adenocarcinoma in tubulovillous adenoma,cancer,C0334307,Tubulovillous adenoma
+869,Adenocarcinoma of anal glands,cancer,C0001418,Adenocarcinoma
+870,Adenocarcinoma of anal glands,cancer,C0162322,Structure of anal gland
+871,Adenocarcinoma of anus,cancer,C0001418,Adenocarcinoma
+872,Adenocarcinoma of anus,cancer,C0003461,Anus
+873,Adenocarcinoma of large intestine,cancer,C0001418,Adenocarcinoma
+874,Adenocarcinoma of large intestine,cancer,C0549177,Large
+875,Adenocarcinoma of large intestine,cancer,C0021853,Intestines
+876,Adenocarcinoma of liver,cancer,C0001418,Adenocarcinoma
+877,Adenocarcinoma of liver,cancer,C0736268,Liver parenchyma
+878,Adenocarcinoma of pancreas,cancer,C0001418,Adenocarcinoma
+879,Adenocarcinoma of pancreas,cancer,C0030274,Pancreas
+880,Adenocarcinoma of prostate,cancer,C0001418,Adenocarcinoma
+881,Adenocarcinoma of prostate,cancer,C0033572,Prostate
+882,Adenocarcinoma of rectum,cancer,C0001418,Adenocarcinoma
+883,Adenocarcinoma of rectum,cancer,C0034896,Rectum
+884,Adenocarcinoma of small intestine,cancer,C0001418,Adenocarcinoma
+885,Adenocarcinoma of small intestine,cancer,C0021852,"Intestines, Small"
+886,"Adenocarcinoma, intestinal type",cancer,C0001418,Adenocarcinoma
+887,"Adenocarcinoma, intestinal type",cancer,C0334279,"Adenocarcinoma, intestinal type"
+888,Adenoid cystic carcinoma of salivary gland,cancer,C0010606,Adenoid Cystic Carcinoma
+889,Adenoid cystic carcinoma of salivary gland,cancer,C0036098,Salivary Glands
+890,Adenosarcoma,cancer,C0001442,Adenosarcoma
+891,Aggressive natural killer-cell leukemia,cancer,C1292777,Aggressive natural killer-cell leukemia
+892,Aleukemic leukemia,cancer,C0877858,Aleukemic leukemia
+893,Alveolar rhabdomyosarcoma,cancer,C0206655,Alveolar rhabdomyosarcoma
+894,Anal carcinoma,cancer,C0279637,Anal carcinoma
+895,Anaplastic thyroid carcinoma,cancer,C0238461,Anaplastic thyroid carcinoma
+896,Angiosarcoma of liver,cancer,C0018923,Hemangiosarcoma
+897,Angiosarcoma of liver,cancer,C0736268,Liver parenchyma
+898,Angiosarcoma of spleen,cancer,C0018923,Hemangiosarcoma
+899,Angiosarcoma of spleen,cancer,C0771377,Spleen Tissue
+900,Astroblastoma,cancer,C0334587,Astroblastoma
+901,Atypical carcinoid tumor,cancer,C1266032,Atypical carcinoid tumor
+902,Atypical teratoid/rhabdoid tumor,cancer,C0205182,Atypical
+903,Atypical teratoid/rhabdoid tumor,cancer,C1266184,Atypical teratoid/rhabdoid tumor
+904,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,cancer,C0079731,B-Cell Lymphomas
+905,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,cancer,C4288075,Unclassifiable Lesion
+906,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,cancer,C2346469,Image Feature
+907,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,cancer,C0205103,Intermediate
+908,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,cancer,C0019829,Hodgkin Disease
+909,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,cancer,C0079744,Diffuse Large B-Cell Lymphoma
+910,Basal cell carcinoma,cancer,C1547219,Tissue Type Code - Basal cell carcinoma
+911,Basophilic leukemia,cancer,C0221292,Basophilic leukemia
+912,Bile duct carcinoma,cancer,C0740277,Bile duct carcinoma
+913,Bile duct cystadenocarcinoma,cancer,C0334286,Bile duct cystadenocarcinoma
+914,Blastoma,cancer,C0936282,Blastoma
+915,Botryoid sarcoma,cancer,C1306573,Botryoid sarcoma
+916,"Bronchiolo-alveolar carcinoma, mucinous",cancer,C0007120,Bronchioloalveolar Adenocarcinoma
+917,"Bronchiolo-alveolar carcinoma, mucinous",cancer,C1513712,Mucinous
+918,Burkitt-like lymphoma,cancer,C1368771,Burkitt-like lymphoma
+919,Carcinoma ex pleomorphic adenoma,cancer,C0007097,Carcinoma
+920,Carcinoma ex pleomorphic adenoma,cancer,C0026277,Mixed Salivary Gland Tumor
+921,Carcinoma of anal canal,cancer,C0007097,Carcinoma
+922,Carcinoma of anal canal,cancer,C0227411,Anal canal
+923,Carcinoma of base of tongue,cancer,C0007097,Carcinoma
+924,Carcinoma of base of tongue,cancer,C0040408,Tongue
+925,Carcinoma of bladder,cancer,C0007097,Carcinoma
+926,Carcinoma of bladder,cancer,C0005682,Urinary Bladder
+927,Carcinoma of larynx,cancer,C0007097,Carcinoma
+928,Carcinoma of larynx,cancer,C0023078,Larynx
+929,Carcinoma of lung,cancer,C0007097,Carcinoma
+930,Carcinoma of lung,cancer,C0024109,Lung
+931,Carcinoma of subglottis,cancer,C0007097,Carcinoma
+932,Carcinoma of subglottis,cancer,C0456475,Subglottis structure
+933,"Carcinoma of urinary bladder, superficial",cancer,C0007097,Carcinoma
+934,"Carcinoma of urinary bladder, superficial",cancer,C0005682,Urinary Bladder
+935,"Carcinoma of urinary bladder, superficial",cancer,C0205124,Superficial
+936,Carcinoma showing thymus-like element,cancer,C0007097,Carcinoma
+937,Carcinoma simplex,cancer,C0334297,Carcinoma simplex
+938,"Carcinoma, diffuse type",cancer,C0007097,Carcinoma
+939,"Carcinoma, diffuse type",cancer,C0205219,Diffuse
+940,Carcinomatosis,cancer,C0205699,Carcinomatosis
+941,Carcinomatosis of peritoneal cavity,cancer,C0205699,Carcinomatosis
+942,Carcinomatosis of peritoneal cavity,cancer,C1704247,Peritoneal Cavity
+943,Carcinosarcoma,cancer,C0007140,Carcinosarcoma
+944,Ceruminous adenocarcinoma,cancer,C0334353,Ceruminous adenocarcinoma
+945,Ceruminous gland adenocarcinoma,cancer,C1275220,Ceruminous gland adenocarcinoma
+946,Chondroid chordoma,cancer,C1266173,Chondroid chordoma
+947,Chordoma,cancer,C0008487,Chordoma
+948,Choriocarcinoma,cancer,C0008497,Choriocarcinoma
+949,Chronic eosinophilic leukemia,cancer,C0346421,Chronic eosinophilic leukemia
+950,Chronic leukemia (category),cancer,C1279296,Chronic leukemia (category)
+951,Chronic leukemia (category),cancer,C0683312,Categories
+952,Chronic leukemia in remission,cancer,C1279296,Chronic leukemia (category)
+953,Chronic leukemia in remission,cancer,C0544452,Disease remission
+954,Cutaneous lymphoma,cancer,C1276146,Cutaneous lymphoma
+955,Cystadenocarcinoma,cancer,C0010631,Cystadenocarcinoma
+956,Cystadenocarcinoma of kidney,cancer,C0010631,Cystadenocarcinoma
+957,Cystadenocarcinoma of kidney,cancer,C0022646,Kidney
+958,Cytogenetically normal acute myeloid leukemia,cancer,C0010802,Cytogenetics
+959,Cytogenetically normal acute myeloid leukemia,cancer,C0023467,"Leukemia, Myelocytic, Acute"
+960,Desmoplastic mesothelioma,cancer,C1270206,Desmoplastic mesothelioma
+961,Diffuse follicle center lymphoma,cancer,C1333290,Diffuse follicle center lymphoma
+962,Early gastric cancer,cancer,C1279919,Early
+963,Early gastric cancer,cancer,C0024623,Malignant neoplasm of stomach
+964,Endometrioid carcinoma ovary,cancer,C0346163,Endometrioid carcinoma ovary
+965,Eosinophilic leukemia,cancer,C0206142,Eosinophilic leukemia
+966,Epithelioid hemangioendothelioma,cancer,C0206732,Epithelioid hemangioendothelioma
+967,Epithelioid hemangioendothelioma of lung,cancer,C0206732,Epithelioid hemangioendothelioma
+968,Epithelioid hemangioendothelioma of lung,cancer,C0024109,Lung
+969,"Epithelioid mesothelioma, malignant",cancer,C0862312,"Epithelioid mesothelioma, malignant"
+970,"Epithelioid mesothelioma, malignant",cancer,C0205282,Malignant - descriptor
+971,Epstein-Barr virus associated gastric carcinoma,cancer,C0014644,Epstein-Barr Virus
+972,Epstein-Barr virus associated gastric carcinoma,cancer,C0699791,Stomach Carcinoma
+973,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly,cancer,C0014644,Epstein-Barr Virus
+974,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly,cancer,C0079744,Diffuse Large B-Cell Lymphoma
+975,Epstein-Barr virus positive diffuse large B-cell lymphoma of elderly,cancer,C0001792,Elderly (population group)
+976,Erythrodermic mycosis fungoides,cancer,C1275303,Erythrodermic mycosis fungoides
+977,Fibroblastic liposarcoma,cancer,C1266130,Fibroblastic liposarcoma
+978,Fibroblastic osteosarcoma,cancer,C0016030,Fibroblasts
+979,Fibroblastic osteosarcoma,cancer,C0029463,Osteosarcoma
+980,Fibroblastic reticular cell tumor,cancer,C2825739,Fibroblastic reticular cell tumor
+981,Fibrosarcoma,cancer,C0016057,Fibrosarcoma
+982,Follicular thyroid carcinoma,cancer,C0206682,Follicular thyroid carcinoma
+983,Ganglioneuroblastoma,cancer,C0206718,Ganglioneuroblastoma
+984,Gastric lymphoma,cancer,C0349532,Gastric lymphoma
+985,"Gastrinoma, malignant",cancer,C0017150,Gastrinoma
+986,"Gastrinoma, malignant",cancer,C0205282,Malignant - descriptor
+987,Gastrointestinal lymphoma,cancer,C0740372,Gastrointestinal lymphoma
+988,Gemistocytic astrocytoma,cancer,C0334581,Gemistocytic astrocytoma
+989,Giant cell sarcoma,cancer,C1261358,Giant cell sarcoma
+990,Gliomatosis cerebri,cancer,C0334576,Gliomatosis cerebri
+991,HER2-positive carcinoma of breast,cancer,C0006141,Breast
+992,Hemangiosarcoma,cancer,C0018923,Hemangiosarcoma
+993,Hepatoblastoma,cancer,C0206624,Hepatoblastoma
+994,"Hepatocellular carcinoma, scirrhous",cancer,C2239176,Liver carcinoma
+995,"Hepatocellular carcinoma, scirrhous",cancer,C0332534,Induration
+996,Hepatosplenic T-cell lymphoma,cancer,C1333984,Hepatosplenic T-cell lymphoma
+997,High grade B-cell lymphoma,cancer,C0456863,High grade B-cell lymphoma
+998,Histiocytic leukemia,cancer,C1321757,Histiocytic leukemia
+999,"Hodgkin's disease, nodular sclerosis (clinical)",cancer,C0019829,Hodgkin Disease
+1000,"Hodgkin's disease, nodular sclerosis (clinical)",cancer,C0152268,"Hodgkin's disease, nodular sclerosis (clinical)"
+1001,"Hodgkin's disease, nodular sclerosis (clinical)",cancer,C0205210,Clinical
+1002,Hormone refractory prostate cancer,cancer,C0205269,Unresponsive to Treatment
+1003,Hormone refractory prostate cancer,cancer,C0600139,Prostate carcinoma
+1004,IgA myeloma,cancer,C0563305,IgA myeloma
+1005,IgG myeloma,cancer,C0563306,IgG myeloma
+1006,Indolent multiple myeloma,cancer,C2049069,Indolent multiple myeloma
+1007,Infantile fibrosarcoma,cancer,C0334459,Infantile fibrosarcoma
+1008,Invasive carcinoma of breast,cancer,C1334274,Invasive Carcinoma
+1009,Invasive carcinoma of breast,cancer,C0006141,Breast
+1010,Kaposi's sarcoma of conjunctiva,cancer,C0036220,Kaposi Sarcoma
+1011,Kaposi's sarcoma of conjunctiva,cancer,C0009758,conjunctiva
+1012,Kaposi's sarcoma of lung,cancer,C0036220,Kaposi Sarcoma
+1013,Kaposi's sarcoma of lung,cancer,C0024109,Lung
+1014,Kaposi's sarcoma of skin,cancer,C0036220,Kaposi Sarcoma
+1015,Kaposi's sarcoma of skin,cancer,C1123023,Skin
+1016,Large cell carcinoma of lung,cancer,C0549177,Large
+1017,Large cell carcinoma of lung,cancer,C1518174,Malignant Epithelial Cell
+1018,Large cell carcinoma of lung,cancer,C0024109,Lung
+1019,Large cell neuroendocrine carcinoma,cancer,C0549177,Large
+1020,Large cell neuroendocrine carcinoma,cancer,C0206695,"Carcinoma, Neuroendocrine"
+1021,Leiomyosarcoma of stomach,cancer,C0023269,leiomyosarcoma
+1022,Leiomyosarcoma of stomach,cancer,C0038351,Stomach
+1023,Leiomyosarcoma of uterus,cancer,C0023269,leiomyosarcoma
+1024,Leiomyosarcoma of uterus,cancer,C0042149,Uterus
+1025,Leukemic infiltration of skin,cancer,C0877858,Aleukemic leukemia
+1026,Leukemic infiltration of skin,cancer,C3669041,Spread by direct extension
+1027,Leukemic infiltration of skin,cancer,C1123023,Skin
+1028,Lipid-rich carcinoma,cancer,C0334318,Lipid-rich carcinoma
+1029,Low-grade fibromyxoid sarcoma,cancer,C1275282,Low-grade fibromyxoid sarcoma
+1030,Lymphangitis carcinomatosa,cancer,C0238258,Lymphangitis carcinomatosa
+1031,Lymphoepithelial carcinoma,cancer,C0334254,Lymphoepithelial carcinoma
+1032,Lymphoepithelioid lymphoma (clinical),cancer,C1621719,Lymphoepithelioid lymphoma (clinical)
+1033,Lymphoepithelioid lymphoma (clinical),cancer,C0205210,Clinical
+1034,Lymphoid leukemia,cancer,C0023448,Lymphoid leukemia
+1035,Lymphoma of colon,cancer,C0024299,Lymphoma
+1036,Lymphoma of colon,cancer,C0009368,Colon structure (body structure)
+1037,Lymphoma of intestine,cancer,C0024299,Lymphoma
+1038,Lymphoma of intestine,cancer,C0021853,Intestines
+1039,Lymphoma of kidney,cancer,C0024299,Lymphoma
+1040,Lymphoma of kidney,cancer,C0022646,Kidney
+1041,Malignant lymphoma of spleen,cancer,C0024299,Lymphoma
+1042,Malignant lymphoma of spleen,cancer,C0771377,Spleen Tissue
+1043,Malignant melanoma of anus,cancer,C0025202,melanoma
+1044,Malignant melanoma of anus,cancer,C0003461,Anus
+1045,Malignant melanoma of choroid,cancer,C0025202,melanoma
+1046,Malignant melanoma of choroid,cancer,C0008520,Choroid
+1047,Malignant melanoma of ciliary body,cancer,C0025202,melanoma
+1048,Malignant melanoma of ciliary body,cancer,C0008779,Ciliary Body
+1049,Malignant melanoma of conjunctiva,cancer,C0025202,melanoma
+1050,Malignant melanoma of conjunctiva,cancer,C0009758,conjunctiva
+1051,Malignant melanoma of eye,cancer,C0025202,melanoma
+1052,Malignant melanoma of eye,cancer,C1546630,Eye Specimen Source Code
+1053,Malignant melanoma of eyelid,cancer,C0025202,melanoma
+1054,Malignant melanoma of eyelid,cancer,C0015426,Eyelid structure
+1055,Malignant melanoma of iris,cancer,C0025202,melanoma
+1056,Malignant melanoma of iris,cancer,C1001362,Iris <angiosperm>
+1057,Malignant myoepithelioma,cancer,C0205282,Malignant - descriptor
+1058,Malignant neoplasm of abdomen,cancer,C0006826,Malignant Neoplasms
+1059,Malignant neoplasm of abdomen,cancer,C0230168,Abdominal Cavity
+1060,Malignant neoplasm of adrenal cortex,cancer,C0006826,Malignant Neoplasms
+1061,Malignant neoplasm of adrenal cortex,cancer,C0001613,Adrenal Cortex
+1062,Malignant neoplasm of brain,cancer,C0006826,Malignant Neoplasms
+1063,Malignant neoplasm of brain,cancer,C0006104,Brain
+1064,Malignant neoplasm of carotid body,cancer,C0006826,Malignant Neoplasms
+1065,Malignant neoplasm of carotid body,cancer,C0007277,Carotid Body
+1066,Malignant neoplasm of central nervous system,cancer,C0006826,Malignant Neoplasms
+1067,Malignant neoplasm of central nervous system,cancer,C3714787,Central Nervous System
+1068,Malignant neoplasm of gastrointestinal tract,cancer,C0006826,Malignant Neoplasms
+1069,Malignant neoplasm of gastrointestinal tract,cancer,C0017189,Gastrointestinal tract structure
+1070,Malignant neoplasm of liver,cancer,C0006826,Malignant Neoplasms
+1071,Malignant neoplasm of liver,cancer,C0736268,Liver parenchyma
+1072,Malignant neoplasm of skin,cancer,C0006826,Malignant Neoplasms
+1073,Malignant neoplasm of skin,cancer,C1123023,Skin
+1074,Malignant neoplasm of thorax,cancer,C0006826,Malignant Neoplasms
+1075,Malignant neoplasm of thorax,cancer,C0817096,Chest
+1076,Malignant pericardial effusion,cancer,C0205282,Malignant - descriptor
+1077,Malignant pericardial effusion,cancer,C0031039,Pericardial effusion
+1078,Malignant phyllodes tumor of breast,cancer,C0205282,Malignant - descriptor
+1079,Malignant phyllodes tumor of breast,cancer,C2998956,Phyllodes
+1080,Malignant phyllodes tumor of breast,cancer,C0027651,Neoplasms
+1081,Malignant phyllodes tumor of breast,cancer,C0006141,Breast
+1082,Malignant tumor of colon,cancer,C0006826,Malignant Neoplasms
+1083,Malignant tumor of colon,cancer,C0009368,Colon structure (body structure)
+1084,Malignant tumor of exocrine pancreas,cancer,C0006826,Malignant Neoplasms
+1085,Malignant tumor of exocrine pancreas,cancer,C0553695,Exocrine pancreas
+1086,Malignant tumor of mediastinum,cancer,C0006826,Malignant Neoplasms
+1087,Malignant tumor of mediastinum,cancer,C0025066,Mediastinum
+1088,Malignant tumor of orbit,cancer,C0006826,Malignant Neoplasms
+1089,Malignant tumor of orbit,cancer,C0029180,Ocular orbit
+1090,Malignant tumor of peritoneum,cancer,C0006826,Malignant Neoplasms
+1091,Malignant tumor of peritoneum,cancer,C0031153,Peritoneum
+1092,Malignant tumor of pleura,cancer,C0006826,Malignant Neoplasms
+1093,Malignant tumor of pleura,cancer,C0032225,Pleura
+1094,Malignant tumor of renal pelvis,cancer,C0006826,Malignant Neoplasms
+1095,Malignant tumor of renal pelvis,cancer,C0227666,Renal pelvis
+1096,"Malignant tumor, fusiform cell type",cancer,C0006826,Malignant Neoplasms
+1097,"Malignant tumor, fusiform cell type",cancer,C0333721,Fusiform cell
+1098,Medullary carcinoma,cancer,C0206693,Medullary carcinoma
+1099,Medulloblastoma,cancer,C0025149,Medulloblastoma
+1100,Medulloepithelioma,cancer,C0334596,Medulloepithelioma
+1101,Meningeal sarcomatosis,cancer,C0334612,Meningeal sarcomatosis
+1102,Merkel cell carcinoma,cancer,C0007129,Merkel cell carcinoma
+1103,Mesothelioma,cancer,C0025500,Mesothelioma
+1104,"Mesothelioma, biphasic, malignant",cancer,C0025500,Mesothelioma
+1105,"Mesothelioma, biphasic, malignant",cancer,C0205184,Biphasic
+1106,"Mesothelioma, biphasic, malignant",cancer,C0205282,Malignant - descriptor
+1107,Metastasis from malignant tumor of prostate,cancer,C2939419,Secondary Neoplasm
+1108,Metastasis from malignant tumor of prostate,cancer,C0006826,Malignant Neoplasms
+1109,Metastasis from malignant tumor of prostate,cancer,C0033572,Prostate
+1110,Metastatic hepatocellular carcinoma,cancer,C0744869,Metastatic hepatocellular carcinoma
+1111,Mixed epithelioid and spindle cell melanoma,cancer,C0334442,Mixed epithelioid and spindle cell melanoma
+1112,Mixed epithelioid and spindle cell melanoma,cancer,C0334444,Spindle Cell Melanoma
+1113,Mixed phenotype acute leukemia,cancer,C2826025,Mixed phenotype acute leukemia
+1114,Mucin-producing adenocarcinoma,cancer,C0334368,Mucin-producing adenocarcinoma
+1115,Multiple malignancy,cancer,C0346429,Multiple malignancy
+1116,"Myelodysplastic syndrome, no ICD-O subtype",cancer,C3463824,MYELODYSPLASTIC SYNDROME
+1117,"Myelodysplastic syndrome, no ICD-O subtype",cancer,C0039538,Teratoma
+1118,Myelomonocytic leukemia,cancer,C0027019,Myelomonocytic leukemia
+1119,Myxosarcoma,cancer,C0027155,Myxosarcoma
+1120,Nasopharyngeal carcinoma,cancer,C2931822,Nasopharyngeal carcinoma
+1121,Nephroblastoma,cancer,C0027708,Nephroblastoma
+1122,Neuroblastoma,cancer,C0027819,Neuroblastoma
+1123,Neuroblastoma of brain,cancer,C0027819,Neuroblastoma
+1124,Neuroblastoma of brain,cancer,C0006104,Brain
+1125,Neuroendocrine carcinoma of appendix,cancer,C0206695,"Carcinoma, Neuroendocrine"
+1126,Neuroendocrine carcinoma of appendix,cancer,C0003617,Appendix
+1127,Non-small cell carcinoma,cancer,C1266002,Non-small cell carcinoma
+1128,Orbital lymphoma,cancer,C0271333,Orbital lymphoma
+1129,Osteosarcoma,cancer,C0029463,Osteosarcoma
+1130,Pagetoid reticulosis,cancer,C1367970,Pagetoid reticulosis
+1131,Pancreatoblastoma,cancer,C0334489,Pancreatoblastoma
+1132,Papillary adenocarcinoma,cancer,C0001420,Papillary adenocarcinoma
+1133,Papillary thyroid carcinoma,cancer,C0238463,Papillary thyroid carcinoma
+1134,Peripheral neuroblastoma,cancer,C0878524,Peripheral neuroblastoma
+1135,Philadelphia chromosome positive chronic myelogenous leukemia,cancer,C0856536,Philadelphia chromosome positive
+1136,Philadelphia chromosome positive chronic myelogenous leukemia,cancer,C0023473,"Myeloid Leukemia, Chronic"
+1137,Pilomatrix carcinoma of skin,cancer,C0585475,Pilomatrix carcinoma of skin
+1138,Pilomatrix carcinoma of skin,cancer,C1123023,Skin
+1139,Pituitary carcinoma,cancer,C0346300,Pituitary carcinoma
+1140,Plasmacytoma,cancer,C1532560,Plasmacytoma - category
+1141,Plasmacytoma - category,cancer,C1532560,Plasmacytoma - category
+1142,Plasmacytoma - category,cancer,C0683312,Categories
+1143,Pleuropulmonary blastoma,cancer,C1266144,Pleuropulmonary blastoma
+1144,Polycythemia,cancer,C0032461,Polycythemia
+1145,Polygonal cell carcinoma,cancer,C0334236,Polygonal cell carcinoma
+1146,Precursor B-cell lymphoblastic leukemia,cancer,C0023485,Precursor B-Cell Lymphoblastic Leukemia-Lymphoma
+1147,Precursor T-cell lymphoblastic lymphoma,cancer,C1292758,Precursor T-cell lymphoblastic lymphoma
+1148,Precursor cell lymphoblastic lymphoma,cancer,C0079748,Precursor cell lymphoblastic lymphoma
+1149,Primary adenocarcinoma of colon,cancer,C0001418,Adenocarcinoma
+1150,Primary adenocarcinoma of colon,cancer,C0009368,Colon structure (body structure)
+1151,Primary central nervous system lymphoma,cancer,C0280803,Primary central nervous system lymphoma
+1152,Primary cerebral lymphoma,cancer,C0240803,Primary cerebral lymphoma
+1153,Primary cutaneous gamma-delta T-cell lymphoma,cancer,C1707547,Primary cutaneous gamma-delta T-cell lymphoma
+1154,Primary cutaneous lymphoma,cancer,C1302772,Primary cutaneous lymphoma
+1155,Primary hepatic neuroendocrine carcinoma,cancer,C3273031,Primary hepatic neuroendocrine carcinoma
+1156,Primary leiomyosarcoma,cancer,C0855057,Primary leiomyosarcoma
+1157,Primary malignant neoplasm,cancer,C1306459,Primary malignant neoplasm
+1158,Primary malignant neoplasm of left lung,cancer,C1306459,Primary malignant neoplasm
+1159,Primary malignant neoplasm of left lung,cancer,C0225730,Left lung
+1160,Primary malignant neoplasm of liver,cancer,C1306459,Primary malignant neoplasm
+1161,Primary malignant neoplasm of liver,cancer,C0736268,Liver parenchyma
+1162,Primary pulmonary lymphoma,cancer,C4273669,Primary pulmonary lymphoma
+1163,Protoplasmic astrocytoma,cancer,C0175996,Protoplasm
+1164,Protoplasmic astrocytoma,cancer,C0004114,Astrocytoma
+1165,Refractory anemia with excess blasts in transformation (clinical),cancer,C0002893,Refractory anemias
+1166,Refractory anemia with excess blasts in transformation (clinical),cancer,C1979886,Excess
+1167,Refractory anemia with excess blasts in transformation (clinical),cancer,C0337026,Blast (physical force)
+1168,Refractory anemia with excess blasts in transformation (clinical),cancer,C0040682,cell transformation
+1169,Refractory anemia with excess blasts in transformation (clinical),cancer,C0205210,Clinical
+1170,Refractory cytopenia with multilineage dysplasia,cancer,C2826321,Refractory Thrombocytopenia
+1171,Refractory cytopenia with multilineage dysplasia,cancer,C1292773,Acute myeloid leukemia with multilineage dysplasia
+1172,Retinoblastoma,cancer,C0035335,Retinoblastoma
+1173,Rhabdomyosarcoma,cancer,C0035412,Rhabdomyosarcoma
+1174,Richter's syndrome,cancer,C0349631,Richter's syndrome
+1175,Salivary duct carcinoma,cancer,C1301194,Salivary duct carcinoma
+1176,Sarcoma,cancer,C1261473,Sarcoma
+1177,Sarcoma of liver,cancer,C1261473,Sarcoma
+1178,Sarcoma of liver,cancer,C0736268,Liver parenchyma
+1179,"Sarcoma, metastatic",cancer,C1261473,Sarcoma
+1180,"Sarcoma, metastatic",cancer,C1522484,metastatic qualifier
+1181,Secondary malignant neoplasm of bone,cancer,C3266877,Secondary Malignant Neoplasm
+1182,Secondary malignant neoplasm of bone,cancer,C0005931,Bone and Bones
+1183,Secondary malignant neoplasm of bone marrow,cancer,C3266877,Secondary Malignant Neoplasm
+1184,Secondary malignant neoplasm of bone marrow,cancer,C0005953,Bone Marrow
+1185,Secondary malignant neoplasm of female breast,cancer,C3266877,Secondary Malignant Neoplasm
+1186,Secondary malignant neoplasm of female breast,cancer,C0086287,Females
+1187,Secondary malignant neoplasm of kidney,cancer,C3266877,Secondary Malignant Neoplasm
+1188,Secondary malignant neoplasm of kidney,cancer,C0022646,Kidney
+1189,Secondary malignant neoplasm of liver,cancer,C3266877,Secondary Malignant Neoplasm
+1190,Secondary malignant neoplasm of liver,cancer,C0736268,Liver parenchyma
+1191,Secondary malignant neoplasm of lung,cancer,C3266877,Secondary Malignant Neoplasm
+1192,Secondary malignant neoplasm of lung,cancer,C0024109,Lung
+1193,Secondary malignant neoplasm of lymph node,cancer,C3266877,Secondary Malignant Neoplasm
+1194,Secondary malignant neoplasm of lymph node,cancer,C0024204,lymph nodes
+1195,Secondary malignant neoplasm of pleura,cancer,C3266877,Secondary Malignant Neoplasm
+1196,Secondary malignant neoplasm of pleura,cancer,C0032225,Pleura
+1197,Secondary malignant neoplasm of rectum,cancer,C3266877,Secondary Malignant Neoplasm
+1198,Secondary malignant neoplasm of rectum,cancer,C0034896,Rectum
+1199,Secondary malignant neoplasm of skin,cancer,C3266877,Secondary Malignant Neoplasm
+1200,Secondary malignant neoplasm of skin,cancer,C1123023,Skin
+1201,Secondary malignant neoplasm of small intestine,cancer,C3266877,Secondary Malignant Neoplasm
+1202,Secondary malignant neoplasm of small intestine,cancer,C0021852,"Intestines, Small"
+1203,Small cell carcinoma of lung,cancer,C0149925,Small cell carcinoma of lung
+1204,Small cell carcinoma of lung,cancer,C0024109,Lung
+1205,"Small cell carcinoma, fusiform cell",cancer,C0149925,Small cell carcinoma of lung
+1206,"Small cell carcinoma, fusiform cell",cancer,C0333721,Fusiform cell
+1207,Smoldering myeloma,cancer,C1531608,Smoldering myeloma
+1208,Solid carcinoma,cancer,C0334296,Solid carcinoma
+1209,Squamous cell carcinoma,cancer,C0007137,Squamous cell carcinoma
+1210,Squamous cell carcinoma of esophagus,cancer,C0007137,Squamous cell carcinoma
+1211,Squamous cell carcinoma of esophagus,cancer,C0014876,Esophagus
+1212,Squamous cell carcinoma of lip,cancer,C0007137,Squamous cell carcinoma
+1213,Squamous cell carcinoma of lip,cancer,C0023759,Lip structure
+1214,Squamous cell carcinoma of lung,cancer,C0007137,Squamous cell carcinoma
+1215,Squamous cell carcinoma of lung,cancer,C0024109,Lung
+1216,Squamous cell carcinoma of mouth,cancer,C0007137,Squamous cell carcinoma
+1217,Squamous cell carcinoma of mouth,cancer,C0226896,Oral cavity
+1218,Squamous cell carcinoma of nasopharynx,cancer,C0007137,Squamous cell carcinoma
+1219,Squamous cell carcinoma of nasopharynx,cancer,C0027442,Nasopharynx
+1220,Squamous cell carcinoma of oropharynx,cancer,C0007137,Squamous cell carcinoma
+1221,Squamous cell carcinoma of oropharynx,cancer,C0521367,Oropharyngeal
+1222,Squamous cell carcinoma of penis,cancer,C0007137,Squamous cell carcinoma
+1223,Squamous cell carcinoma of penis,cancer,C0030851,penis
+1224,Squamous cell carcinoma of pharynx,cancer,C0007137,Squamous cell carcinoma
+1225,Squamous cell carcinoma of pharynx,cancer,C0031354,Pharyngeal structure
+1226,Squamous cell carcinoma of skin,cancer,C0007137,Squamous cell carcinoma
+1227,Squamous cell carcinoma of skin,cancer,C1123023,Skin
+1228,Squamous cell carcinoma of tongue,cancer,C0007137,Squamous cell carcinoma
+1229,Squamous cell carcinoma of tongue,cancer,C0040408,Tongue
+1230,Squamous cell carcinoma of vagina,cancer,C0007137,Squamous cell carcinoma
+1231,Squamous cell carcinoma of vagina,cancer,C0042232,Vagina
+1232,"Squamous cell carcinoma, keratinizing",cancer,C0007137,Squamous cell carcinoma
+1233,"Squamous cell carcinoma, keratinizing",cancer,C0232387,keratinized
+1234,"Squamous cell carcinoma, large cell, nonkeratinizing",cancer,C0007137,Squamous cell carcinoma
+1235,"Squamous cell carcinoma, large cell, nonkeratinizing",cancer,C1265996,Large cell neuroendocrine carcinoma
+1236,"Squamous cell carcinoma, metastatic",cancer,C0007137,Squamous cell carcinoma
+1237,"Squamous cell carcinoma, metastatic",cancer,C1522484,metastatic qualifier
+1238,"Squamous cell carcinoma, microinvasive",cancer,C0007137,Squamous cell carcinoma
+1239,"Squamous cell carcinoma, microinvasive",cancer,C3853531,Microinvasive
+1240,Stromal sarcoma,cancer,C1370723,Stromal sarcoma
+1241,Superficial basal cell carcinoma,cancer,C0205124,Superficial
+1242,Superficial basal cell carcinoma,cancer,C1547219,Tissue Type Code - Basal cell carcinoma
+1243,Sweat gland adenocarcinoma,cancer,C0334344,Sweat gland adenocarcinoma
+1244,"Synovial sarcoma, biphasic",cancer,C0039101,synovial sarcoma
+1245,"Synovial sarcoma, biphasic",cancer,C0205184,Biphasic
+1246,T-cell/histiocyte rich large B-cell lymphoma,cancer,C1321547,T-cell/histiocyte rich large B-cell lymphoma
+1247,T-zone lymphoma (clinical),cancer,C0334655,T-zone lymphoma (clinical)
+1248,T-zone lymphoma (clinical),cancer,C0205210,Clinical
+1249,Teratoid medulloepithelioma,cancer,C0334597,Teratoid medulloepithelioma
+1250,Therapy-related acute myeloid leukemia and myelodysplastic syndrome,cancer,C1336735,Therapy-Related Acute Myeloid Leukemia
+1251,Therapy-related acute myeloid leukemia and myelodysplastic syndrome,cancer,C3463824,MYELODYSPLASTIC SYNDROME
+1252,Transitional cell carcinoma of bladder,cancer,C0007138,"Carcinoma, Transitional Cell"
+1253,Transitional cell carcinoma of bladder,cancer,C0005682,Urinary Bladder
+1254,Transitional cell carcinoma of ureter,cancer,C0007138,"Carcinoma, Transitional Cell"
+1255,Transitional cell carcinoma of ureter,cancer,C0041951,Ureter
+1256,Trichilemmocarcinoma,cancer,C1266009,Trichilemmocarcinoma
+1257,"Tumor cells, malignant",cancer,C0431085,"Tumor cells, uncertain whether benign or malignant"
+1258,"Tumor cells, malignant",cancer,C0205282,Malignant - descriptor
+1259,Undifferentiated carcinoma of nasopharynx,cancer,C0205698,Undifferentiated carcinoma
+1260,Undifferentiated carcinoma of nasopharynx,cancer,C0027442,Nasopharynx
+1261,Chronic kidney disease stage 1,chron,C2316401,Chronic kidney disease stage 1
+1262,Chronic kidney disease stage 4,chron,C2317473,Chronic kidney disease stage 4
+1263,Chronic kidney disease stage 5,chron,C2316401,Chronic kidney disease stage 1
+1264,Body weight problem,obesity,C2986891,Body Weight Domain
+1265,Body weight problem,obesity,C0033213,Problem
+1266,Localized adiposity,obesity,C0392752,Localized
+1267,Localized adiposity,obesity,C0028754,Obesity
+1268,MORM syndrome,obesity,C1857802,MORM syndrome
+1269,Maternal obesity syndrome,obesity,C0026591,Mother (person)
+1270,Maternal obesity syndrome,obesity,C0269672,Maternal obesity syndrome
+1271,Obesity,obesity,C0028754,Obesity
+1272,Overweight,obesity,C0497406,Overweight
+1273,Syndromic X-linked intellectual disability type 7,obesity,C3463992,"EPILEPTIC ENCEPHALOPATHY, EARLY INFANTILE, 1"
+1274,Syndromic X-linked intellectual disability type 7,obesity,C3714756,Intellectual Disability
+1275,Wilson Turner syndrome,obesity,C0796255,Wilson Turner syndrome
+1276,Benign recurrent intrahepatic cholestasis,chron,C0205183,Benign
+1277,Benign recurrent intrahepatic cholestasis,chron,C2945760,Recurrent
+1278,Benign recurrent intrahepatic cholestasis,chron,C0008372,Intrahepatic Cholestasis
+1279,Cardiac cirrhosis,chron,C0085699,Cardiac cirrhosis
+1280,Chronic hepatitis E,chron,C3472600,Chronic hepatitis E
+1281,Chronic liver disease,chron,C0341439,Chronic liver disease
+1282,Chronic passive congestion of liver,chron,C0333237,Chronic passive congestion
+1283,Chronic passive congestion of liver,chron,C0736268,Liver parenchyma
+1284,Chronic viral hepatitis,chron,C0276623,Chronic viral hepatitis
+1285,Decompensated cirrhosis of liver,chron,C1619727,Decompensated cirrhosis of liver
+1286,Decompensated cirrhosis of liver,chron,C0736268,Liver parenchyma
+1287,Early cirrhosis,chron,C1279919,Early
+1288,Early cirrhosis,chron,C1623038,Cirrhosis
+1289,Indian childhood cirrhosis,chron,C1524069,Asian Indian
+1290,Indian childhood cirrhosis,chron,C0231335,Childhood
+1291,Indian childhood cirrhosis,chron,C1623038,Cirrhosis
+1292,Micronodular cirrhosis,chron,C0267812,Micronodular cirrhosis
+1293,Occult chronic type B viral hepatitis,chron,C4075603,Occult chronic type B viral hepatitis
+1294,Portal cirrhosis,chron,C1622502,Portal cirrhosis
+1295,Recurrent hepatitis,chron,C2945760,Recurrent
+1296,Recurrent hepatitis,chron,C0019158,Hepatitis
+1297,Reynolds syndrome,chron,C0748397,Reynolds syndrome
+1298,Syphilitic cirrhosis,chron,C0275872,Syphilitic cirrhosis
+1299,Abnormal lung lobation,lung,C1550458,Observation Interpretation - Abnormal
+1300,Abnormal lung lobation,lung,C0685695,Abnormal lung lobation
+1301,Abscess of pharynx,lung,C0000833,Abscess
+1302,Abscess of pharynx,lung,C0031354,Pharyngeal structure
+1303,Abscess of tonsil,lung,C0000833,Abscess
+1304,Abscess of tonsil,lung,C0040421,Palatine Tonsil
+1305,Accessory lung,lung,C0265791,Accessory lung
+1306,Acquired laryngocele,lung,C0472522,Acquired laryngocele
+1307,Acquired tracheo-esophageal fistula,lung,C0340217,Acquired tracheo-esophageal fistula
+1308,Acute aspiration pneumonia,lung,C4023111,Acute aspiration pneumonia
+1309,Acute asthma,lung,C0582415,Acute asthma
+1310,Acute bacterial bronchitis,lung,C0339933,Acute bacterial bronchitis
+1311,Acute bacterial epiglottitis,lung,C0275555,Acute bacterial epiglottitis
+1312,Acute bacterial sinusitis,lung,C0275556,Acute bacterial sinusitis
+1313,Acute berylliosis,lung,C0221053,Acute berylliosis
+1314,Acute bronchiolitis,lung,C0001311,Acute bronchiolitis
+1315,Acute bronchopneumonia,lung,C1290336,Acute bronchopneumonia
+1316,Acute cardiac pulmonary edema,lung,C0398350,Acute cardiac pulmonary edema
+1317,Acute epiglottitis,lung,C0155814,Acute epiglottitis
+1318,Acute ethmoidal sinusitis,lung,C0155806,Acute ethmoidal sinusitis
+1319,Acute exacerbation of chronic bronchitis,lung,C0743630,exacerbation acute
+1320,Acute exacerbation of chronic bronchitis,lung,C0008677,"Bronchitis, Chronic"
+1321,Acute exacerbation of chronic obstructive airways disease,lung,C0743630,exacerbation acute
+1322,Acute exacerbation of chronic obstructive airways disease,lung,C0024117,Chronic Obstructive Airway Disease
+1323,Acute frontal sinusitis,lung,C0155805,Acute frontal sinusitis
+1324,Acute hypercapnic respiratory failure,lung,C4040419,Acute hypercapnic respiratory failure
+1325,Acute hypoxemic respiratory failure,lung,C4039867,Acute hypoxemic respiratory failure
+1326,Acute interstitial pneumonia,lung,C1279945,Acute interstitial pneumonia
+1327,Acute laryngitis,lung,C0001327,Acute laryngitis
+1328,Acute laryngopharyngitis,lung,C0155817,Acute laryngopharyngitis
+1329,Acute lower respiratory tract infection,lung,C1547229,Acute - Triage Code
+1330,Acute maxillary sinusitis,lung,C0155804,Acute maxillary sinusitis
+1331,Acute membranous laryngitis,lung,C0339874,Acute membranous laryngitis
+1332,Acute mountain sickness,lung,C0238284,Acute mountain sickness
+1333,Acute on chronic hypercapnic respiratory failure,lung,C1547229,Acute - Triage Code
+1334,Acute on chronic hypercapnic respiratory failure,lung,C1960052,Chronic hypercapnic respiratory failure
+1335,Acute pansinusitis,lung,C0264227,Acute pansinusitis
+1336,Acute pharyngitis,lung,C0001344,Acute pharyngitis
+1337,Acute pulmonary blastomycosis,lung,C0348805,Acute pulmonary blastomycosis
+1338,Acute pulmonary edema,lung,C0155919,Acute pulmonary edema
+1339,Acute pulmonary histoplasmosis,lung,C0343898,Acute pulmonary histoplasmosis
+1340,Acute purulent bronchitis,lung,C0339925,Acute purulent bronchitis
+1341,Acute radiation pneumonitis,lung,C1510518,Acute radiation pneumonitis
+1342,Acute respiratory disease,lung,C0264219,Acute respiratory disease
+1343,Acute respiratory failure,lung,C0264490,Acute respiratory failure
+1344,Acute respiratory infections,lung,C0339901,Acute respiratory infections
+1345,Acute rhinosinusitis,lung,C2317131,Acute rhinosinusitis
+1346,Acute silicosis,lung,C0340190,Acute silicosis
+1347,Acute sinusitis,lung,C0149512,Acute sinusitis
+1348,Acute tonsillitis,lung,C0001361,Acute tonsillitis
+1349,Acute tracheitis,lung,C0149513,Acute tracheitis
+1350,Acute upper respiratory infection,lung,C0264222,Acute upper respiratory infection
+1351,Acute viral bronchiolitis,lung,C0339941,Acute viral bronchiolitis
+1352,Acute viral bronchitis,lung,C0339937,Acute viral bronchitis
+1353,Acute viral pharyngitis,lung,C0396000,Acute viral pharyngitis
+1354,Acute viral tonsillitis,lung,C0396016,Acute viral tonsillitis
+1355,Acute-on-chronic respiratory failure,lung,C0264491,Acute-on-chronic respiratory failure
+1356,Adenoiditis,lung,C0001427,Adenoiditis
+1357,Adenoma of lung,lung,C0001430,Adenoma
+1358,Adenoma of lung,lung,C0024109,Lung
+1359,Adenoviral bronchiolitis,lung,C0276154,Adenoviral bronchiolitis
+1360,Adenoviral pharyngitis,lung,C0276151,Adenoviral pharyngitis
+1361,Adenoviral pneumonia,lung,C0276156,Adenoviral pneumonia
+1362,Adenoviral respiratory disease,lung,C0276150,Adenoviral respiratory disease
+1363,Adhesion of pleura,lung,C0001511,Tissue Adhesions
+1364,Adhesion of pleura,lung,C0032225,Pleura
+1365,Airway trauma,lung,C0178987,Artificial Airways
+1366,Airway trauma,lung,C4049136,"Trauma, nursing specialty"
+1367,Allergic asthma,lung,C0155877,Allergic asthma
+1368,Allergic bronchitis,lung,C1260881,Allergic bronchitis
+1369,Allergic fungal sinusitis,lung,C0700624,allergic
+1370,Aluminosis of lung,lung,C0311227,Aluminosis of lung
+1371,Aluminosis of lung,lung,C0024109,Lung
+1372,Anterior nasal diphtheria,lung,C0012553,Anterior nasal diphtheria
+1373,Apnea of prematurity,lung,C0003578,Apnea
+1374,Apnea of prematurity,lung,C0021294,"Infant, Premature"
+1375,Asbestos-induced pleural fibrosis,lung,C0340024,Asbestos-induced pleural fibrosis
+1376,Asbestos-induced pleural plaque,lung,C0340025,Asbestos-induced pleural plaque
+1377,Asbestosis,lung,C0003949,Asbestosis
+1378,Aspergilloma,lung,C0276651,Aspergilloma
+1379,Aspergillus bronchitis,lung,C2919277,Aspergillus bronchitis
+1380,Aspiration pneumonitis,lung,C0032290,Aspiration Pneumonia
+1381,Asthma,lung,C0004096,Asthma
+1382,Asthma-chronic obstructive pulmonary disease overlap syndrome,lung,C4038730,Asthma-chronic obstructive pulmonary disease overlap syndrome
+1383,Asthmatic bronchitis,lung,C1319018,Asthmatic bronchitis
+1384,Asthmatic pulmonary eosinophilia,lung,C0340076,Asthmatic pulmonary eosinophilia
+1385,Atelectasis,lung,C0004144,Atelectasis
+1386,Atypical pneumonia,lung,C0702135,Primary atypical pneumonia
+1387,Azygos lobe of lung,lung,C0265794,Azygos lobe of lung
+1388,Azygos lobe of lung,lung,C0024109,Lung
+1389,Bacterial pleurisy,lung,C0275548,Bacterial pleurisy
+1390,Bacterial respiratory infection,lung,C0729518,Bacterial respiratory infection
+1391,Bacterial sinusitis,lung,C1262006,Bacterial sinusitis
+1392,Bacterial tonsillitis,lung,C1696371,Bacterial tonsillitis
+1393,Bacterial upper respiratory infection,lung,C0729519,Bacterial upper respiratory infection
+1394,Bagassosis,lung,C0004681,Bagassosis
+1395,Baritosis,lung,C0340177,Baritosis
+1396,Basal pneumonia,lung,C0577702,Basal pneumonia
+1397,Bauxite fibrosis of lung,lung,C0264437,Bauxite fibrosis of lung
+1398,Bauxite fibrosis of lung,lung,C0024109,Lung
+1399,Bilateral bronchopneumonia,lung,C1300643,Bilateral bronchopneumonia
+1400,Bilateral pleural effusion,lung,C0747635,Bilateral pleural effusion
+1401,Bilateral pneumonia,lung,C1142578,Bilateral pneumonia
+1402,Blast lung,lung,C0349512,Blast lung
+1403,Bowing of vocal cord,lung,C0544755,Genu varum
+1404,Bowing of vocal cord,lung,C0042930,Vocal cord structure
+1405,Brittle asthma,lung,C0729337,Brittle asthma
+1406,Bronchial compression,lung,C0264351,Bronchial compression
+1407,Bronchial diverticulum,lung,C0264363,Bronchial diverticulum
+1408,Bronchial hemorrhage,lung,C1321133,Bronchial hemorrhage
+1409,Bronchiectasis,lung,C0006267,Bronchiectasis
+1410,Bronchiolar disease,lung,C0264364,Bronchiolar disease
+1411,Bronchiolectasis,lung,C0264372,Bronchiolectasis
+1412,Bronchiolitis,lung,C0006271,Bronchiolitis
+1413,Bronchitis,lung,C0006277,Bronchitis
+1414,Broncho-esophageal fistula,lung,C0267094,Broncho-esophageal fistula
+1415,Bronchobiliary fistula,lung,C0340235,Bronchobiliary fistula
+1416,Bronchocentric granulomatosis,lung,C0238036,Bronchocentric granulomatosis
+1417,Broncholithiasis,lung,C0221367,Broncholithiasis
+1418,Bronchomalacia,lung,C0264353,Bronchomalacia
+1419,Bronchopleural fistula,lung,C0238132,Bronchopleural fistula
+1420,Bronchopneumonia,lung,C0006285,Bronchopneumonia
+1421,Bronchopneumonia due to Klebsiella pneumoniae,lung,C0006285,Bronchopneumonia
+1422,Bronchopneumonia due to Klebsiella pneumoniae,lung,C0001699,Klebsiella pneumoniae
+1423,Bronchopneumonia due to Streptococcus pneumoniae,lung,C0006285,Bronchopneumonia
+1424,Bronchopneumonia due to Streptococcus pneumoniae,lung,C0038410,Streptococcus pneumoniae
+1425,Byssinosis,lung,C0006542,Byssinosis
+1426,Calcification of bronchus,lung,C1879982,Calcified Medical Device Material
+1427,Calcification of bronchus,lung,C0006255,Bronchi
+1428,Calcification of pleura,lung,C1879982,Calcified Medical Device Material
+1429,Calcification of pleura,lung,C0032225,Pleura
+1430,Calcification of trachea,lung,C1879982,Calcified Medical Device Material
+1431,Calcification of trachea,lung,C0040578,Trachea
+1432,Carcinoid tumor of lung,lung,C0334299,Carcinoid tumor no ICD-O subtype
+1433,Carcinoid tumor of lung,lung,C0024109,Lung
+1434,Carcinoma of base of tongue,lung,C0007097,Carcinoma
+1435,Carcinoma of base of tongue,lung,C0040408,Tongue
+1436,Carcinoma of larynx,lung,C0007097,Carcinoma
+1437,Carcinoma of larynx,lung,C0023078,Larynx
+1438,Carcinoma of lung,lung,C0007097,Carcinoma
+1439,Carcinoma of lung,lung,C0024109,Lung
+1440,Carcinoma of subglottis,lung,C0007097,Carcinoma
+1441,Carcinoma of subglottis,lung,C0456475,Subglottis structure
+1442,Cardiorespiratory failure,lung,C1444565,Cardiorespiratory failure
+1443,Caseous tonsillitis,lung,C0438707,Caseous tonsillitis
+1444,Catamenial pneumothorax,lung,C0340007,Catamenial pneumothorax
+1445,Catarrhal nasal discharge,lung,C0017152,Gastritis
+1446,Catarrhal nasal discharge,lung,C1260880,Rhinorrhea
+1447,Catarrhal pneumonia,lung,C0264380,Catarrhal pneumonia
+1448,Cavitary pneumonia,lung,C0747674,Cavitary pneumonia
+1449,Childhood asthma,lung,C0264408,Childhood asthma
+1450,Childhood bronchiectasis,lung,C0264356,Childhood bronchiectasis
+1451,Cholesterol pneumonia,lung,C0549472,Cholesterol pneumonia
+1452,Chronic adenotonsillitis,lung,C0396024,Chronic adenotonsillitis
+1453,Chronic atelectasis,lung,C1290343,Chronic atelectasis
+1454,Chronic atrophic rhinitis,lung,C3241963,Chronic atrophic rhinitis
+1455,Chronic berylliosis,lung,C0221052,Chronic berylliosis
+1456,Chronic bullous emphysema,lung,C1261120,Chronic bullous emphysema
+1457,Chronic disease of respiratory system,lung,C0008679,Chronic disease
+1458,Chronic disease of respiratory system,lung,C3541375,RESPIRATORY SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+1459,Chronic follicular pharyngitis,lung,C0396004,Chronic follicular pharyngitis
+1460,Chronic frontal sinusitis,lung,C0008683,Chronic frontal sinusitis
+1461,Chronic hypercapnic respiratory failure,lung,C1960052,Chronic hypercapnic respiratory failure
+1462,Chronic hypertrophic rhinitis,lung,C0339799,Chronic hypertrophic rhinitis
+1463,Chronic interstitial lung disease,lung,C0746105,Chronic interstitial lung disease
+1464,Chronic interstitial pneumonia,lung,C0221236,Chronic interstitial pneumonia
+1465,Chronic laryngitis,lung,C0155836,Chronic laryngitis
+1466,Chronic laryngotracheitis,lung,C0155837,Chronic laryngotracheitis
+1467,Chronic lung disease,lung,C0746102,Chronic lung disease
+1468,Chronic maxillary sinusitis,lung,C0008698,Chronic maxillary sinusitis
+1469,Chronic pansinusitis,lung,C0155827,Chronic pansinusitis
+1470,Chronic pneumonia,lung,C4039254,Chronic pneumonia
+1471,Chronic pneumonitis of infancy,lung,C3714636,Pneumonitis
+1472,Chronic pneumonitis of infancy,lung,C0231330,Infancy
+1473,Chronic pulmonary congestion,lung,C0264519,Chronic pulmonary congestion
+1474,Chronic pulmonary histoplasmosis,lung,C0343899,Chronic pulmonary histoplasmosis
+1475,Chronic recurrent sinusitis,lung,C1997034,Chronic recurrent sinusitis
+1476,Chronic respiratory failure,lung,C0264492,Chronic respiratory failure
+1477,Chronic respiratory insufficiency,lung,C1998122,Chronic respiratory insufficiency
+1478,Chronic rhinitis,lung,C0008711,Chronic rhinitis
+1479,Chronic silicosis,lung,C0340192,Chronic silicosis
+1480,Chronic sinusitis,lung,C0149516,Chronic sinusitis
+1481,Chronic tonsillitis,lung,C0149517,Chronic tonsillitis
+1482,Chronic tracheitis,lung,C0264322,Chronic tracheitis
+1483,Chronic tracheobronchitis,lung,C0264323,Chronic tracheobronchitis
+1484,Chronic ulcerative pharyngitis,lung,C0339861,Chronic ulcerative pharyngitis
+1485,Chylothorax,lung,C0008733,Chylothorax
+1486,Closed pneumothorax,lung,C0264554,Closed pneumothorax
+1487,Community acquired pneumonia,lung,C0009462,Community
+1488,Community acquired pneumonia,lung,C0032285,Pneumonia
+1489,Complicated pneumoconiosis,lung,C0340170,Complicated pneumoconiosis
+1490,Concha bullosa,lung,C0339821,Concha bullosa
+1491,Congenital atresia of bronchus,lung,C0243066,Atresia
+1492,Congenital atresia of bronchus,lung,C0006255,Bronchi
+1493,Congenital bronchiectasis,lung,C0152239,Congenital bronchiectasis
+1494,Congenital bronchobiliary fistula,lung,C4304716,Congenital bronchobiliary fistula
+1495,Congenital bronchogenic cyst,lung,C0006281,Congenital bronchogenic cyst
+1496,Congenital diaphragmatic hernia,lung,C0235833,Congenital diaphragmatic hernia
+1497,Congenital diverticulum of pharynx,lung,C0332922,Congenital diverticulum
+1498,Congenital diverticulum of pharynx,lung,C0031354,Pharyngeal structure
+1499,Congenital hernia of foramen of Morgagni,lung,C0235832,Congenital hernia
+1500,Congenital hernia of foramen of Morgagni,lung,C0016521,Cardiac foramen ovale
+1501,Congenital hernia of foramen of Morgagni,lung,C0503361,Pulmonary trunk sinus
+1502,Congenital hypoplasia of lung,lung,C0020636,Congenital hypoplasia
+1503,Congenital hypoplasia of lung,lung,C0024109,Lung
+1504,Congenital laryngocele,lung,C0265761,Congenital laryngocele
+1505,Congenital pneumonia,lung,C0158935,Congenital pneumonia
+1506,Congenital stenosis of nasal pyriform aperture,lung,C0332885,Congenital stenosis
+1507,Congenital stenosis of nasal pyriform aperture,lung,C3839990,Congenital stenosis of nasal pyriform aperture
+1508,Congenital stenosis of trachea,lung,C0332885,Congenital stenosis
+1509,Congenital stenosis of trachea,lung,C0040578,Trachea
+1510,Congestion of nasal sinus,lung,C0700148,Congestion
+1511,Congestion of nasal sinus,lung,C0030471,Nasal sinus
+1512,Contusion of lung,lung,C0009938,Contusions
+1513,Contusion of lung,lung,C0024109,Lung
+1514,Croup,lung,C0010380,Croup
+1515,Cryptogenic pulmonary eosinophilia,lung,C0008680,Cryptogenic pulmonary eosinophilia
+1516,Cylindrical bronchiectasis,lung,C0264358,Cylindrical bronchiectasis
+1517,Cyst of nasal cavity,lung,C0010709,Cyst
+1518,Cyst of nasal cavity,lung,C0027423,Nasal cavity
+1519,Cyst of pharynx,lung,C0010709,Cyst
+1520,Cyst of pharynx,lung,C0031354,Pharyngeal structure
+1521,Cyst of tonsil,lung,C0010709,Cyst
+1522,Cyst of tonsil,lung,C0040421,Palatine Tonsil
+1523,Cytomegaloviral pneumonia,lung,C0276253,Cytomegaloviral pneumonia
+1524,Desquamative interstitial pneumonia,lung,C0238378,Desquamative interstitial pneumonia
+1525,Detergent asthma,lung,C0014434,Detergent asthma
+1526,Deviated nasal septum,lung,C0012727,Spatial Displacement
+1527,Deviated nasal septum,lung,C0027432,Nasal septum structure
+1528,Diaphragmatic pleurisy,lung,C0264539,Diaphragmatic pleurisy
+1529,Diffuse panbronchiolitis,lung,C0878555,Diffuse panbronchiolitis
+1530,Discoid atelectasis,lung,C0264494,Discoid atelectasis
+1531,Discoloration of lung,lung,C0332572,Abnormal color
+1532,Discoloration of lung,lung,C0024109,Lung
+1533,Disorder of lower respiratory system,lung,C0012634,Disease
+1534,Disorder of lower respiratory system,lung,C1518033,Lower Respiratory System
+1535,Disorder of maxillary sinus,lung,C0012634,Disease
+1536,Disorder of maxillary sinus,lung,C0024957,Maxillary Sinus
+1537,Disorder of nasal cavity,lung,C0012634,Disease
+1538,Disorder of nasal cavity,lung,C0027423,Nasal cavity
+1539,Disorder of tonsil (palatine tonsil),lung,C0272380,Disorder of tonsil (palatine tonsil)
+1540,Disorder of tonsil (palatine tonsil),lung,C0040421,Palatine Tonsil
+1541,Disorder of upper respiratory system,lung,C0012634,Disease
+1542,Disorder of upper respiratory system,lung,C1519817,Upper Respiratory System
+1543,Drug-induced pneumonitis,lung,C1960026,Drug-induced pneumonitis
+1544,Dry pleurisy,lung,C0339999,Dry pleurisy
+1545,Edema of glottis,lung,C0013604,Edema
+1546,Edema of glottis,lung,C0017681,glottis
+1547,Edema of pharynx,lung,C0013604,Edema
+1548,Edema of pharynx,lung,C0031354,Pharyngeal structure
+1549,Emphysematous bronchitis,lung,C0155874,Emphysematous bronchitis
+1550,Empyema with bronchocutaneous fistula,lung,C0014009,Empyema
+1551,Empyema with bronchocutaneous fistula,lung,C0340236,Bronchocutaneous fistula
+1552,Enteroviral lymphonodular pharyngitis,lung,C0521027,enteroviral
+1553,Eosinophilic bronchitis,lung,C1698398,Eosinophilic bronchitis
+1554,Epiglottitis,lung,C0014541,Epiglottitis
+1555,Epithelioid hemangioendothelioma of lung,lung,C0206732,Epithelioid hemangioendothelioma
+1556,Epithelioid hemangioendothelioma of lung,lung,C0024109,Lung
+1557,Exacerbation of asthma,lung,C4086268,Exacerbation
+1558,Exacerbation of asthma,lung,C0004096,Asthma
+1559,Extrinsic allergic alveolitis,lung,C0002390,Extrinsic allergic alveolitis
+1560,Exudative pharyngitis,lung,C0747555,Exudative pharyngitis
+1561,Exudative pleural effusion,lung,C0264551,Pleurisy with effusion
+1562,Fetid chronic bronchitis,lung,C0008677,"Bronchitis, Chronic"
+1563,Fibrinous pleurisy,lung,C0264538,Fibrinous pleurisy
+1564,Fibroma of lung,lung,C0016045,fibroma
+1565,Fibroma of lung,lung,C0024109,Lung
+1566,Fibrosis of pleura,lung,C0016059,Fibrosis
+1567,Fibrosis of pleura,lung,C0032225,Pleura
+1568,Focal atelectasis,lung,C0264496,Focal atelectasis
+1569,Focal pneumonia,lung,C1290339,Focal pneumonia
+1570,Follicular bronchiolitis,lung,C1272766,Follicular bronchiolitis
+1571,Follicular tonsillitis,lung,C0272381,Follicular tonsillitis
+1572,Foreign body in bronchus,lung,C0016542,Foreign Bodies
+1573,Foreign body in bronchus,lung,C0006255,Bronchi
+1574,Foreign body pneumonia,lung,C0264386,Foreign body pneumonia
+1575,Fungal infection of lung,lung,C0026946,Mycoses
+1576,Fungal infection of lung,lung,C0024109,Lung
+1577,Fungal pneumonia,lung,C0016832,Fungi
+1578,Fungal pneumonia,lung,C0032285,Pneumonia
+1579,Fungal respiratory infection,lung,C0016832,Fungi
+1580,Fungal respiratory infection,lung,C0035243,Respiratory Tract Infections
+1581,Fungal sinusitis,lung,C1142077,Fungal sinusitis
+1582,Game Friedman Paradice syndrome,lung,C1856052,Game Friedman Paradice syndrome
+1583,Gonorrhea of pharynx,lung,C0018081,Gonorrhea
+1584,Gonorrhea of pharynx,lung,C0031354,Pharyngeal structure
+1585,Granulomatous pneumonia,lung,C0264384,Granulomatous pneumonia
+1586,Granulomatous rhinitis,lung,C0264269,Granulomatous rhinitis
+1587,Group B streptococcal pneumonia,lung,C0348801,Group B streptococcal pneumonia
+1588,Gustatory rhinitis,lung,C1997879,Gustatory rhinitis
+1589,H-type congenital tracheoesophageal fistula,lung,C0266139,H-type congenital tracheoesophageal fistula
+1590,Haemophilus influenzae pneumonia,lung,C0276026,Haemophilus influenzae pneumonia
+1591,Hamartoma of lung,lung,C0018552,Hamartoma
+1592,Hamartoma of lung,lung,C0024109,Lung
+1593,Hard metal pneumoconiosis,lung,C0018599,Hardness
+1594,Hard metal pneumoconiosis,lung,C0340175,Metal pneumoconiosis
+1595,Hemopneumothorax,lung,C0019077,Hemopneumothorax
+1596,Hemorrhagic bronchopneumonia,lung,C0264378,Hemorrhagic bronchopneumonia
+1597,Hemorrhagic pleural effusion,lung,C0585110,Hemorrhagic pleural effusion
+1598,Hemorrhagic pneumonia,lung,C0339965,Hemorrhagic pneumonia
+1599,Hemorrhagic varicella pneumonitis,lung,C0153018,Hemorrhagic varicella pneumonitis
+1600,Hemothorax,lung,C0019123,Hemothorax
+1601,Herpes simplex pneumonia,lung,C0339975,Herpes simplex pneumonia
+1602,High altitude pulmonary edema,lung,C0340100,High altitude pulmonary edema
+1603,Humidifier fever,lung,C0340205,Humidifier fever
+1604,Hydrothorax,lung,C0020312,Hydrothorax
+1605,Hypercapnic respiratory failure,lung,C0398353,Hypercapnic respiratory failure
+1606,Hyperplasia of adenoids,lung,C0020507,Hyperplasia
+1607,Hyperplasia of adenoids,lung,C0001428,Adenoidal structure
+1608,Hyperplasia of tonsils,lung,C0020507,Hyperplasia
+1609,Hyperplasia of tonsils,lung,C0040421,Palatine Tonsil
+1610,Hypertrophy of adenoids,lung,C0020564,Hypertrophy
+1611,Hypertrophy of adenoids,lung,C0001428,Adenoidal structure
+1612,Hypertrophy of tonsils,lung,C0020564,Hypertrophy
+1613,Hypertrophy of tonsils,lung,C0040421,Palatine Tonsil
+1614,Hypostatic pneumonia,lung,C0264522,Hypostatic pneumonia
+1615,Hypoxia,lung,C1963140,Hypoxia Adverse Event
+1616,"Hypoxia, in liveborn infant",lung,C1963140,Hypoxia Adverse Event
+1617,"Hypoxia, in liveborn infant",lung,C0520599,"Hypoxia, in liveborn infant"
+1618,Iatrogenic pneumothorax,lung,C0439669,Iatrogenic
+1619,Iatrogenic pneumothorax,lung,C0032326,Pneumothorax
+1620,Idiopathic bronchiectasis,lung,C0339985,Idiopathic bronchiectasis
+1621,Idiopathic pneumonia syndrome,lung,C1504431,Idiopathic pneumonia syndrome
+1622,Idiopathic pulmonary hemosiderosis,lung,C0020807,Idiopathic pulmonary hemosiderosis
+1623,Infectious disease of lung,lung,C0009450,Communicable Diseases
+1624,Infectious disease of lung,lung,C0024109,Lung
+1625,Infectious disorder of bronchus,lung,C0009450,Communicable Diseases
+1626,Infectious disorder of bronchus,lung,C0006255,Bronchi
+1627,Infectious disorder of trachea,lung,C0009450,Communicable Diseases
+1628,Infectious disorder of trachea,lung,C0040578,Trachea
+1629,Infective pharyngitis,lung,C0729771,Infective pharyngitis
+1630,Infective pneumonia,lung,C0729704,Infective pneumonia
+1631,Infective pneumonia acquired prenatally,lung,C0729704,Infective pneumonia
+1632,Infective pneumonia acquired prenatally,lung,C2828394,Prenatal (temporal qualifier)
+1633,Infestation by Pneumonyssus simicola,lung,C0851341,Infestation
+1634,Infestation by Pneumonyssus simicola,lung,C0323592,Pneumonyssus simicola
+1635,Influenza,lung,C0021400,Influenza
+1636,Influenza due to Influenza A virus subtype H1N1,lung,C0021400,Influenza
+1637,Influenza due to Influenza A virus subtype H1N1,lung,C1615607,"Influenza A Virus, H1N1 Subtype"
+1638,Inhalation injury,lung,C0745334,Inhalation injury
+1639,Inhalational anthrax,lung,C0155866,Inhalational anthrax
+1640,Injury of bronchus,lung,C3263723,Traumatic injury
+1641,Injury of bronchus,lung,C0006255,Bronchi
+1642,Injury of larynx,lung,C3263723,Traumatic injury
+1643,Injury of larynx,lung,C0023078,Larynx
+1644,Injury of pharynx,lung,C3263723,Traumatic injury
+1645,Injury of pharynx,lung,C0031354,Pharyngeal structure
+1646,Injury of respiratory system,lung,C3263723,Traumatic injury
+1647,Injury of respiratory system,lung,C3541375,RESPIRATORY SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+1648,Injury of trachea,lung,C3263723,Traumatic injury
+1649,Injury of trachea,lung,C0040578,Trachea
+1650,Intermittent asthma,lung,C0205267,Intermittent
+1651,Intermittent asthma,lung,C0004096,Asthma
+1652,Intrinsic asthma,lung,C0205102,Internal
+1653,Intrinsic asthma,lung,C0004096,Asthma
+1654,Irritation of nose,lung,C2700617,Irritation - emotion
+1655,Irritation of nose,lung,C0028429,Nose
+1656,Kaposi's sarcoma of lung,lung,C0036220,Kaposi Sarcoma
+1657,Kaposi's sarcoma of lung,lung,C0024109,Lung
+1658,Lady Windermere syndrome,lung,C2733307,Lady Windermere syndrome
+1659,Large cell carcinoma of lung,lung,C0549177,Large
+1660,Large cell carcinoma of lung,lung,C1518174,Malignant Epithelial Cell
+1661,Large cell carcinoma of lung,lung,C0024109,Lung
+1662,Laryngeal diphtheria,lung,C0012557,Laryngeal diphtheria
+1663,Laryngeal hemiplegia,lung,C0264305,Laryngeal hemiplegia
+1664,Laryngeal papillomatosis,lung,C0396072,Laryngeal papillomatosis
+1665,Laryngeal web,lung,C0023078,Larynx
+1666,Laryngismus,lung,C0023066,Laryngismus
+1667,Laryngitis,lung,C0001327,Acute laryngitis
+1668,Laryngomalacia,lung,C0264303,Laryngomalacia
+1669,Laryngotracheitis,lung,C0023076,Laryngotracheitis
+1670,Laryngotracheobronchitis,lung,C0010380,Croup
+1671,Left lower zone pneumonia,lung,C0585104,Left lower zone pneumonia
+1672,Left pneumothorax,lung,C0546334,Left pneumothorax
+1673,Leukoplakia of larynx,lung,C0023531,Leukoplakia
+1674,Leukoplakia of larynx,lung,C0023078,Larynx
+1675,Linear atelectasis,lung,C0264495,Linear atelectasis
+1676,Lingular pneumonia,lung,C1960024,Lingular pneumonia
+1677,Loculated pleural effusion,lung,C0747639,Loculated pleural effusion
+1678,Lower respiratory tract infection,lung,C0149725,Lower respiratory tract infection
+1679,Lung consolidation,lung,C0521530,Lung consolidation
+1680,Lung cyst,lung,C0546483,Lung cyst
+1681,Lung transplant rejection,lung,C0729958,Lung transplant rejection
+1682,Lycoperdonosis,lung,C0340085,Lycoperdonosis
+1683,Lymphangitis carcinomatosa,lung,C0238258,Lymphangitis carcinomatosa
+1684,Lymphoid interstitial pneumonia,lung,C0264511,Lymphoid interstitial pneumonia
+1685,Malignant tumor of pleura,lung,C0006826,Malignant Neoplasms
+1686,Malignant tumor of pleura,lung,C0032225,Pleura
+1687,Mass of pleura,lung,C3152252,Molecular Mass
+1688,Mass of pleura,lung,C0032225,Pleura
+1689,Measles pneumonia,lung,C0339976,Measles pneumonia
+1690,Meningococcal pneumonia,lung,C0339957,Meningococcal pneumonia
+1691,Metal fever,lung,C0238276,Metal fever
+1692,Mild asthma,lung,C0581124,Mild asthma
+1693,Mild chronic obstructive pulmonary disease,lung,C0730604,Mild chronic obstructive pulmonary disease
+1694,Mild intermittent asthma,lung,C0205267,Intermittent
+1695,Mild intermittent asthma,lung,C0004096,Asthma
+1696,Mild persistent asthma,lung,C0205322,Persistent
+1697,Mild persistent asthma,lung,C0004096,Asthma
+1698,Mixed asthma,lung,C0348819,Mixed asthma
+1699,Mixed mineral dust pneumoconiosis,lung,C0340184,Mixed mineral dust pneumoconiosis
+1700,Mixed mineral dust pneumoconiosis,lung,C0032273,Pneumoconiosis
+1701,Mixed rhinitis,lung,C1998267,Mixed rhinitis
+1702,Multiple hamartoma of lung,lung,C1334824,Multiple hamartoma of lung
+1703,Multiple hamartoma of lung,lung,C0024109,Lung
+1704,Multiple lung abscesses,lung,C0339979,Multiple lung abscesses
+1705,Mycobacterial pneumonia,lung,C0339967,Mycobacterial pneumonia
+1706,Mycoplasma pneumonia,lung,C0032302,Mycoplasma pneumonia
+1707,Mycoplasmal pharyngitis,lung,C0149967,Mycoplasmal pharyngitis
+1708,Nasal glial heterotopia,lung,C0028429,Nose
+1709,Nasal glial heterotopia,lung,C0266490,Nasal glial heterotopia
+1710,Nasopharyngeal carcinoma,lung,C2931822,Nasopharyngeal carcinoma
+1711,Nasopharyngeal stenosis,lung,C0339837,Nasopharyngeal stenosis
+1712,Nasopharyngitis,lung,C0027441,Nasopharyngitis
+1713,Necrotic rhinitis,lung,C0275729,Necrotic rhinitis
+1714,Necrotizing bronchiolitis,lung,C0264366,Necrotizing bronchiolitis
+1715,Necrotizing bronchopneumonia,lung,C1290338,Necrotizing bronchopneumonia
+1716,Negative pressure pulmonary edema,lung,C1321120,Negative pressure pulmonary edema
+1717,Neonatal aspiration of amniotic fluid,lung,C0021289,"Infant, Newborn"
+1718,Neonatal aspiration of amniotic fluid,lung,C2827071,Unintentional Material Aspiration
+1719,Neonatal aspiration of amniotic fluid,lung,C0002638,Amniotic Fluid
+1720,Neonatal aspiration syndromes,lung,C0021289,"Infant, Newborn"
+1721,Neonatal aspiration syndromes,lung,C0349468,Neonatal aspiration syndromes
+1722,Neonatal pneumonia,lung,C0021289,"Infant, Newborn"
+1723,Neonatal pneumonia,lung,C0032285,Pneumonia
+1724,Neoplasm of ethmoidal sinus,lung,C1882062,Neoplastic disease
+1725,Neoplasm of ethmoidal sinus,lung,C0015028,Ethmoid sinus structure
+1726,Neoplasm of pyriform sinus,lung,C1882062,Neoplastic disease
+1727,Neoplasm of pyriform sinus,lung,C0227170,Structure of piriform recess
+1728,Neuroendocrine cell hyperplasia of infancy,lung,C1882794,Rat Neuroendocrine Cell Hyperplasia
+1729,Neuroendocrine cell hyperplasia of infancy,lung,C0231330,Infancy
+1730,Neuroendocrine neoplasm of lung,lung,C0206754,Neuroendocrine Tumors
+1731,Neuroendocrine neoplasm of lung,lung,C0024109,Lung
+1732,Neurogenic pulmonary edema,lung,C0340098,Neurogenic pulmonary edema
+1733,Non-cardiogenic pulmonary edema,lung,C3241936,Non-cardiogenic pulmonary edema
+1734,Nonspecific interstitial pneumonia,lung,C0750540,nonspecific
+1735,Nonspecific interstitial pneumonia,lung,C0206061,"Pneumonia, Interstitial"
+1736,Nontraumatic hemothorax,lung,C1319295,Nontraumatic hemothorax
+1737,Obstruction of bronchus,lung,C0028778,Obstruction
+1738,Obstruction of bronchus,lung,C0006255,Bronchi
+1739,Obstruction of larynx,lung,C0028778,Obstruction
+1740,Obstruction of larynx,lung,C0023078,Larynx
+1741,Obstruction of trachea,lung,C0028778,Obstruction
+1742,Obstruction of trachea,lung,C0040578,Trachea
+1743,Obstructive atelectasis,lung,C0264498,Obstructive atelectasis
+1744,Obstructive bronchiectasis,lung,C0339986,Obstructive bronchiectasis
+1745,Obstructive emphysema,lung,C0241876,Obstructive emphysema
+1746,Occupational bronchitis,lung,C0264422,Occupational bronchitis
+1747,Occupational lung disease,lung,C0264421,Occupational lung disease
+1748,Open pneumothorax,lung,C0264555,Open pneumothorax
+1749,Organized pneumonia,lung,C1300196,Organized
+1750,Organized pneumonia,lung,C0032285,Pneumonia
+1751,Oronasal fistula,lung,C1299894,Oronasal fistula
+1752,Oropharyngeal mucositis,lung,C1290331,Oropharyngeal mucositis
+1753,Pansinusitis,lung,C0558362,Pansinusitis
+1754,Parainfluenza virus pneumonia,lung,C0276333,Parainfluenza virus pneumonia
+1755,Parapharyngeal abscess,lung,C0155842,Parapharyngeal abscess
+1756,Paraseptal emphysema,lung,C0264394,Paraseptal emphysema
+1757,Perforation of pharynx,lung,C0549099,Perforation (observation)
+1758,Perforation of pharynx,lung,C0031354,Pharyngeal structure
+1759,Perforation of trachea,lung,C0549099,Perforation (observation)
+1760,Perforation of trachea,lung,C0040578,Trachea
+1761,Perinatal atelectasis,lung,C0270164,Perinatal atelectasis
+1762,Perinatal hypoxia,lung,C0559478,Perinatal hypoxia
+1763,Perinatal pulmonary hemorrhage,lung,C0475713,Perinatal pulmonary hemorrhage
+1764,Perinatal respiratory distress,lung,C0270149,Perinatal respiratory distress
+1765,Peripheral pulmonary artery stenosis,lung,C0345030,Peripheral pulmonary artery stenosis
+1766,Peritonsillar cellulitis,lung,C0553656,Peritonsillar cellulitis
+1767,Persistent asthma,lung,C0205322,Persistent
+1768,Persistent asthma,lung,C0004096,Asthma
+1769,Pertussis,lung,C0043167,Pertussis
+1770,Pharyngeal diphtheria,lung,C3854282,Pharyngeal diphtheria
+1771,Pharyngeal paralysis,lung,C0240752,Pharyngeal paralysis
+1772,Pharyngitis,lung,C0031350,Pharyngitis
+1773,Pharyngocutaneous fistula,lung,C0396009,Pharyngocutaneous fistula
+1774,Pleural effusion associated with pulmonary infection,lung,C0032227,Pleural effusion disorder
+1775,Pleural effusion associated with pulmonary infection,lung,C0332281,Associated with
+1776,Pleural effusion associated with pulmonary infection,lung,C0876973,Infectious disease of lung
+1777,Pleural effusion due to another disorder,lung,C0032227,Pleural effusion disorder
+1778,Pleural effusion due to another disorder,lung,C0012634,Disease
+1779,Pleural plaque,lung,C0340030,Pleural plaque
+1780,Pleurisy,lung,C0032231,Pleurisy
+1781,Pleurisy with effusion,lung,C0032231,Pleurisy
+1782,Pleurisy with effusion,lung,C0013687,effusion
+1783,Pleuropulmonary blastoma,lung,C1266144,Pleuropulmonary blastoma
+1784,Pneumococcal bronchitis,lung,C0275765,Pneumococcal bronchitis
+1785,Pneumococcal lobar pneumonia,lung,C2364009,Pneumococcal lobar pneumonia
+1786,Pneumoconiosis,lung,C0032273,Pneumoconiosis
+1787,Pneumoconiosis due to talc,lung,C0032273,Pneumoconiosis
+1788,Pneumoconiosis due to talc,lung,C0039267,Talc
+1789,Pneumonia,lung,C0032285,Pneumonia
+1790,Pneumonia and influenza,lung,C0032285,Pneumonia
+1791,Pneumonia and influenza,lung,C0021400,Influenza
+1792,Pneumonia due to Escherichia coli,lung,C0032285,Pneumonia
+1793,Pneumonia due to Escherichia coli,lung,C0014834,Escherichia coli
+1794,Pneumonia due to Gram negative bacteria,lung,C0032285,Pneumonia
+1795,Pneumonia due to Gram negative bacteria,lung,C0018150,Gram-Negative Bacteria
+1796,Pneumonia due to Klebsiella pneumoniae,lung,C0032285,Pneumonia
+1797,Pneumonia due to Klebsiella pneumoniae,lung,C0001699,Klebsiella pneumoniae
+1798,Pneumonia due to methicillin resistant Staphylococcus aureus,lung,C0032285,Pneumonia
+1799,Pneumonia due to methicillin resistant Staphylococcus aureus,lung,C0025643,Methicillin
+1800,Pneumonia due to methicillin resistant Staphylococcus aureus,lung,C0332325,Resistant (qualifier value)
+1801,Pneumonia due to methicillin resistant Staphylococcus aureus,lung,C0038172,Staphylococcus aureus
+1802,Pneumonia due to respiratory syncytial virus,lung,C0032285,Pneumonia
+1803,Pneumonia due to respiratory syncytial virus,lung,C0035236,Respiratory syncytial virus
+1804,Pneumonia in Q fever,lung,C0032285,Pneumonia
+1805,Pneumonia in Q fever,lung,C0034362,Q Fever
+1806,Pneumonia in aspergillosis,lung,C0032285,Pneumonia
+1807,Pneumonia in aspergillosis,lung,C0004030,Aspergillosis
+1808,Pneumonia in pertussis,lung,C0032285,Pneumonia
+1809,Pneumonia in pertussis,lung,C0043167,Pertussis
+1810,Pneumonitis,lung,C3714636,Pneumonitis
+1811,Pneumonitis due to fumes AND/OR vapors,lung,C3714636,Pneumonitis
+1812,Pneumonitis due to fumes AND/OR vapors,lung,C0457553,Fume
+1813,Pneumonitis due to fumes AND/OR vapors,lung,C0597635,vapor
+1814,Pneumothorax,lung,C0032326,Pneumothorax
+1815,Polyp in nasopharynx,lung,C0032584,polyps
+1816,Polyp in nasopharynx,lung,C0027442,Nasopharynx
+1817,Polyp of larynx,lung,C0032584,polyps
+1818,Polyp of larynx,lung,C0023078,Larynx
+1819,Polyp of maxillary sinus,lung,C0032584,polyps
+1820,Polyp of maxillary sinus,lung,C0024957,Maxillary Sinus
+1821,Polyp of nasal sinus,lung,C0032584,polyps
+1822,Polyp of nasal sinus,lung,C0030471,Nasal sinus
+1823,Polyp of vocal cord,lung,C0032584,polyps
+1824,Polyp of vocal cord,lung,C0042930,Vocal cord structure
+1825,Post-infective bronchiectasis,lung,C0339990,Post-infective bronchiectasis
+1826,Posterior epistaxis,lung,C0339816,Posterior epistaxis
+1827,Postobstructive pneumonia,lung,C0747690,Postobstructive pneumonia
+1828,Postoperative atelectasis,lung,C0032790,Postoperative Period
+1829,Postoperative atelectasis,lung,C0004144,Atelectasis
+1830,Postoperative pneumonia,lung,C0032790,Postoperative Period
+1831,Postoperative pneumonia,lung,C0032285,Pneumonia
+1832,"Primary atelectasis, in perinatal period",lung,C0270163,"Primary atelectasis, in perinatal period"
+1833,"Primary atelectasis, in perinatal period",lung,C0178795,Perinatal period
+1834,Primary malignant neoplasm of left lung,lung,C1306459,Primary malignant neoplasm
+1835,Primary malignant neoplasm of left lung,lung,C0225730,Left lung
+1836,Primary pneumonic plague,lung,C0152937,Primary pneumonic plague
+1837,Primary pulmonary lymphoma,lung,C4273669,Primary pulmonary lymphoma
+1838,Pseudochylothorax,lung,C0340018,Pseudochylothorax
+1839,Pulmonary actinomycosis,lung,C0275566,Pulmonary actinomycosis
+1840,Pulmonary amyloidosis,lung,C0700376,Pulmonary amyloidosis
+1841,Pulmonary arteritis,lung,C0003861,Pulmonary arteritis
+1842,Pulmonary barotrauma,lung,C0034055,Pulmonary barotrauma
+1843,Pulmonary blastomycosis,lung,C0339964,Pulmonary blastomycosis
+1844,Pulmonary congestion,lung,C0242073,Pulmonary congestion
+1845,Pulmonary cryptococcosis,lung,C0276688,Pulmonary cryptococcosis
+1846,Pulmonary dirofilariasis,lung,C0277264,Pulmonary dirofilariasis
+1847,Pulmonary endarteritis,lung,C0264931,Pulmonary endarteritis
+1848,Pulmonary gangrene,lung,C0264516,Pulmonary gangrene
+1849,Pulmonary granuloma,lung,C0235557,Pulmonary granuloma
+1850,Pulmonary hemorrhage,lung,C0151701,Pulmonary hemorrhage
+1851,Pulmonary histoplasmosis,lung,C1306038,Pulmonary histoplasmosis
+1852,Pulmonary insufficiency following trauma,lung,C0034088,Pulmonary Valve Insufficiency
+1853,Pulmonary insufficiency following trauma,lung,C4049136,"Trauma, nursing specialty"
+1854,Pulmonary interstitial glycogenosis,lung,C3161106,Pulmonary interstitial glycogenosis
+1855,Pulmonary melioidosis,lung,C0343440,Pulmonary melioidosis
+1856,Pulmonary mucormycosis,lung,C0339962,Pulmonary mucormycosis
+1857,Pulmonary necrosis,lung,C0264517,Pulmonary necrosis
+1858,Pulmonary nematodiasis,lung,C0276922,Pulmonary nematodiasis
+1859,Pulmonary nodular lymphoid hyperplasia,lung,C1334969,Pulmonary nodular lymphoid hyperplasia
+1860,Pulmonary ossification,lung,C0264523,Pulmonary ossification
+1861,Pulmonary overpressurization syndrome,lung,C0413278,Pulmonary overpressurization syndrome
+1862,Pulmonary paracoccidioidomycosis,lung,C0276665,Pulmonary paracoccidioidomycosis
+1863,Pulmonary renal syndrome,lung,C0549143,Pulmonary renal syndrome
+1864,Pulmonary schistosomiasis,lung,C0036334,Pulmonary schistosomiasis
+1865,Pulmonary tularemia,lung,C0339946,Pulmonary tularemia
+1866,Purulent bronchitis,lung,C0264343,Purulent bronchitis
+1867,Purulent rhinitis,lung,C0264272,Purulent rhinitis
+1868,Pyopneumothorax,lung,C0238404,Pyopneumothorax
+1869,Reactive airway disease,lung,C3714497,Reactive airway disease
+1870,Reactive airways dysfunction syndrome,lung,C1299633,Reactive airways dysfunction syndrome
+1871,Recurrent aspiration pneumonia,lung,C2945760,Recurrent
+1872,Recurrent aspiration pneumonia,lung,C0032290,Aspiration Pneumonia
+1873,Recurrent croup,lung,C2945760,Recurrent
+1874,Recurrent croup,lung,C0010380,Croup
+1875,Recurrent lower respiratory tract infection,lung,C2945760,Recurrent
+1876,Recurrent lower respiratory tract infection,lung,C1548802,Body Site Modifier - Lower
+1877,Recurrent lower respiratory tract infection,lung,C0035243,Respiratory Tract Infections
+1878,Recurrent pneumonia,lung,C2945760,Recurrent
+1879,Recurrent pneumonia,lung,C0032285,Pneumonia
+1880,Recurrent respiratory papillomatosis,lung,C2945760,Recurrent
+1881,Recurrent respiratory papillomatosis,lung,C1168198,Recurrent respiratory papillomatosis
+1882,Recurrent sinusitis,lung,C2945760,Recurrent
+1883,Recurrent sinusitis,lung,C0037199,Sinusitis
+1884,Red throat,lung,C0455899,Red throat
+1885,Respiratory arrest,lung,C0003578,Apnea
+1886,Respiratory complication,lung,C0161818,Respiratory complication
+1887,Respiratory diphtheria,lung,C4275065,Respiratory diphtheria
+1888,Respiratory failure without hypercapnia,lung,C1145670,Respiratory Failure
+1889,Respiratory failure without hypercapnia,lung,C0020440,Hypercapnia
+1890,Respiratory syncytial virus bronchiolitis,lung,C0276340,Respiratory syncytial virus bronchiolitis
+1891,Respiratory tract congestion,lung,C0948349,Respiratory tract congestion
+1892,Respiratory tract hemorrhage,lung,C0235560,Respiratory tract hemorrhage
+1893,Restrictive lung disease,lung,C0085581,Restrictive lung disease
+1894,Rheumatoid lung disease,lung,C0994344,Rheumatoid lung disease
+1895,Rhinitis medicamentosa,lung,C0149980,Rhinitis medicamentosa
+1896,Rhinoscleroma,lung,C0035468,Rhinoscleroma
+1897,Right lower zone pneumonia,lung,C0585105,Right lower zone pneumonia
+1898,Right pneumothorax,lung,C0546333,Right pneumothorax
+1899,Right upper zone pneumonia,lung,C0585106,Right upper zone pneumonia
+1900,Round atelectasis,lung,C2062952,Round atelectasis
+1901,Rupture of diaphragm,lung,C3203359,Rupture
+1902,Rupture of diaphragm,lung,C1705368,Diaphragm Dosage Form
+1903,Saccular bronchiectasis,lung,C0264360,Saccular bronchiectasis
+1904,Seasonal asthma,lung,C2919352,Seasonal asthma
+1905,Secondary bacterial pneumonia,lung,C0027627,Neoplasm Metastasis
+1906,Secondary bacterial pneumonia,lung,C0004626,"Pneumonia, Bacterial"
+1907,Secondary malignant neoplasm of lung,lung,C3266877,Secondary Malignant Neoplasm
+1908,Secondary malignant neoplasm of lung,lung,C0024109,Lung
+1909,Secondary malignant neoplasm of pleura,lung,C3266877,Secondary Malignant Neoplasm
+1910,Secondary malignant neoplasm of pleura,lung,C0032225,Pleura
+1911,Secondary pneumonic plague,lung,C0027627,Neoplasm Metastasis
+1912,Secondary pneumonic plague,lung,C0524688,Pneumonic Plague
+1913,Secondary pulmonary hemosiderosis,lung,C4274326,Secondary pulmonary hemosiderosis
+1914,Secondary spontaneous pneumothorax,lung,C0027627,Neoplasm Metastasis
+1915,Septic bronchitis,lung,C0264344,Septic bronchitis
+1916,Severe acute respiratory infection,lung,C0205082,Severe (severity modifier)
+1917,Severe acute respiratory infection,lung,C0339901,Acute respiratory infections
+1918,Severe asthma,lung,C0205082,Severe (severity modifier)
+1919,Severe asthma,lung,C0004096,Asthma
+1920,Severe chronic obstructive pulmonary disease,lung,C0205082,Severe (severity modifier)
+1921,Severe chronic obstructive pulmonary disease,lung,C0024117,Chronic Obstructive Airway Disease
+1922,Silicotuberculosis,lung,C0037118,Silicotuberculosis
+1923,Single naris,lung,C0685682,Single naris
+1924,Sinus barotrauma,lung,C0161745,Sinus barotrauma
+1925,Sinusitis,lung,C0037199,Sinusitis
+1926,Sleep-related respiratory failure,lung,C0020681,Sleep-related respiratory failure
+1927,Small cell carcinoma of lung,lung,C0149925,Small cell carcinoma of lung
+1928,Small cell carcinoma of lung,lung,C0024109,Lung
+1929,Smokers' cough,lung,C0337664,Smoker
+1930,Smokers' cough,lung,C0010200,Coughing
+1931,Spasm of the cricopharyngeus muscle,lung,C0026821,Muscle Cramp
+1932,Spasm of the cricopharyngeus muscle,lung,C0224214,Inferior constrictor pharyngeus muscle structure
+1933,Spontaneous pneumothorax,lung,C0205359,Spontaneous
+1934,Spontaneous pneumothorax,lung,C0032326,Pneumothorax
+1935,Squamous cell carcinoma of lung,lung,C0007137,Squamous cell carcinoma
+1936,Squamous cell carcinoma of lung,lung,C0024109,Lung
+1937,Squamous cell carcinoma of nasopharynx,lung,C0007137,Squamous cell carcinoma
+1938,Squamous cell carcinoma of nasopharynx,lung,C0027442,Nasopharynx
+1939,Squamous cell carcinoma of oropharynx,lung,C0007137,Squamous cell carcinoma
+1940,Squamous cell carcinoma of oropharynx,lung,C0521367,Oropharyngeal
+1941,Squamous cell carcinoma of pharynx,lung,C0007137,Squamous cell carcinoma
+1942,Squamous cell carcinoma of pharynx,lung,C0031354,Pharyngeal structure
+1943,Stannosis,lung,C0264444,Stannosis
+1944,Stenosis of bronchus,lung,C2632116,Stenosis (invertebrate)
+1945,Stenosis of bronchus,lung,C0006255,Bronchi
+1946,Steroid dependent asthma,lung,C0038317,Steroids
+1947,Steroid dependent asthma,lung,C1701901,Conditional
+1948,Storage disease of the lung,lung,C0267971,Storage disease
+1949,Storage disease of the lung,lung,C0024109,Lung
+1950,Streptococcal sore throat,lung,C0036689,Streptococcal sore throat
+1951,Streptococcal tonsillitis,lung,C0275804,Streptococcal tonsillitis
+1952,Suberosis,lung,C0152108,Suberosis
+1953,Subglottic cyst,lung,C0426571,Subglottic cyst
+1954,Subglottic edema,lung,C0235552,Subglottic edema
+1955,Subglottic stenosis,lung,C0238441,Subglottic stenosis
+1956,Suppurative pharyngitis,lung,C0264285,Suppurative pharyngitis
+1957,Suppurative tonsillitis,lung,C0272383,Suppurative tonsillitis
+1958,Supraglottitis,lung,C0749165,Supraglottitis
+1959,Thickening of pleura,lung,C0205400,Thickened
+1960,Thickening of pleura,lung,C0032225,Pleura
+1961,Tonsillitis,lung,C0040425,Tonsillitis
+1962,Totally obstructed airway,lung,C0549186,Obstructed
+1963,Toxic pneumonitis,lung,C3714582,Toxic pneumonitis
+1964,Toxoplasma pneumonitis,lung,C0339950,Toxoplasma pneumonitis
+1965,Trachea displaced,lung,C0040578,Trachea
+1966,Trachea displaced,lung,C0012727,Spatial Displacement
+1967,Tracheal diverticulosis,lung,C0340213,Tracheal diverticulosis
+1968,Tracheal fistula,lung,C0340214,Tracheal fistula
+1969,Tracheal hemorrhage,lung,C0340220,Tracheal hemorrhage
+1970,Tracheal rupture,lung,C0340222,Tracheal rupture
+1971,Tracheitis,lung,C0040584,Tracheitis
+1972,Tracheobiliary fistula,lung,C0431597,Tracheobiliary fistula
+1973,Tracheobronchitis,lung,C0040586,Tracheobronchitis
+1974,Tracheobronchitis due to Aspergillus,lung,C0040586,Tracheobronchitis
+1975,Tracheobronchitis due to Aspergillus,lung,C0004034,Aspergillus
+1976,Tracheobronchomalacia,lung,C0340231,Tracheobronchomalacia
+1977,Tracheobronchomegaly,lung,C0040587,Tracheobronchomegaly
+1978,Tracheomalacia,lung,C0948187,Tracheomalacia
+1979,Traction bronchiectasis,lung,C0264361,Traction bronchiectasis
+1980,Transitory tachypnea of newborn,lung,C0158940,Transitory tachypnea of newborn
+1981,Transitory tachypnea of newborn,lung,C0021289,"Infant, Newborn"
+1982,Traumatic pneumonia,lung,C0340143,Traumatic pneumonia
+1983,Traumatic pneumothorax,lung,C0282015,Traumatic pneumothorax
+1984,Tuberculosis of nose,lung,C0041296,Tuberculosis
+1985,Tuberculosis of nose,lung,C0028429,Nose
+1986,Tuberculous bronchiectasis,lung,C0152586,Tuberculous bronchiectasis
+1987,Tuberculous pleural effusion,lung,C2959467,Tuberculous pleural effusion
+1988,Tuberculous pneumonia,lung,C0275891,Tuberculous pneumonia
+1989,Ulcerative pharyngitis,lung,C0264286,Ulcerative pharyngitis
+1990,Ulcerative rhinitis,lung,C0235963,Ulcerative rhinitis
+1991,Undifferentiated carcinoma of nasopharynx,lung,C0205698,Undifferentiated carcinoma
+1992,Undifferentiated carcinoma of nasopharynx,lung,C0027442,Nasopharynx
+1993,Upper airway resistance syndrome,lung,C1319384,Upper airway resistance syndrome
+1994,Upper respiratory tract infection due to Influenza,lung,C0041912,Upper Respiratory Infections
+1995,Upper respiratory tract infection due to Influenza,lung,C0021400,Influenza
+1996,Upper respiratory tract obstruction,lung,C0392454,Upper respiratory tract obstruction
+1997,Uremic lung,lung,C0340107,Uremic lung
+1998,Uvulitis,lung,C0042174,Uvulitis
+1999,Ventilator-associated lung injury,lung,C0340257,Ventilator-associated lung injury
+2000,Viral bronchitis,lung,C0276141,Viral bronchitis
+2001,Viral lower respiratory infection,lung,C0441994,Lower - spatial qualifier
+2002,Viral lower respiratory infection,lung,C0035243,Respiratory Tract Infections
+2003,Viral pharyngitis,lung,C0276143,Viral pharyngitis
+2004,Viral respiratory infection,lung,C0729531,Viral respiratory infection
+2005,Viral sinusitis,lung,C0748731,Viral sinusitis
+2006,Viral tonsillitis,lung,C0276144,Viral tonsillitis
+2007,Viral tracheitis,lung,C0276145,Viral tracheitis
+2008,Viral upper respiratory tract infection,lung,C0339916,Viral upper respiratory tract infection
+2009,Wilson-Mikity syndrome,lung,C0270171,Wilson-Mikity syndrome
+2010,Woody tongue,lung,C4040501,Woody tongue
+2011,Acute cor pulmonale,heart,C0155672,Acute cor pulmonale
+2012,Acute endocarditis,heart,C0375268,Acute endocarditis
+2013,Acute heart failure,heart,C0264714,Acute heart failure
+2014,Acute left ventricular failure,heart,C1306063,Acute left ventricular failure
+2015,Acute myocardial infarction,heart,C0155626,Acute myocardial infarction
+2016,Acute pulmonary edema,heart,C0155919,Acute pulmonary edema
+2017,Acute purulent pericarditis,heart,C0265149,Acute purulent pericarditis
+2018,Aortic valve calcification,heart,C0428791,Aortic valve calcification
+2019,Aortic valve disorder,heart,C1260873,Aortic valve disorder
+2020,Ascites,heart,C0003962,Ascites
+2021,Atrial dilatation,heart,C0264734,Atrial dilatation
+2022,Atrial rupture,heart,C0877045,Atrial rupture
+2023,Atrial thrombosis,heart,C0340517,Atrial thrombosis
+2024,Bacterial pericarditis,heart,C0340445,Bacterial pericarditis
+2025,Bicuspid aortic valve,heart,C0149630,Bicuspid aortic valve
+2026,Bradycardia,heart,C0428977,Bradycardia
+2027,Cardiac cirrhosis,heart,C0085699,Cardiac cirrhosis
+2028,Cardiac dysfunction,heart,C3277906,Cardiac dysfunction
+2029,Cardiomegaly,heart,C0018800,Cardiomegaly
+2030,Cardiorespiratory failure,heart,C1444565,Cardiorespiratory failure
+2031,Cardiotoxicity,heart,C0876994,Cardiotoxicity
+2032,Cardiovascular symptoms,heart,C0476270,Cardiovascular symptoms
+2033,Carditis,heart,C0869523,Carditis
+2034,Central cyanosis,heart,C0521800,Central cyanosis
+2035,Chest discomfort,heart,C0235710,Chest discomfort
+2036,Chronic heart failure,heart,C0264716,Chronic heart failure
+2037,Chronic pulmonary heart disease,heart,C0238074,Chronic pulmonary heart disease
+2038,Clubbing,heart,C0009080,Clubbed Fingers
+2039,Common ventricle,heart,C1522138,shared attribute
+2040,Common ventricle,heart,C2355627,Ventricle
+2041,Complete atrioventricular block,heart,C1548561,Completion Status for valid values - Complete
+2042,Complete atrioventricular block,heart,C0004245,Atrioventricular Block
+2043,Conduction disorder of the heart,heart,C0264886,Conduction disorder of the heart
+2044,Conduction disorder of the heart,heart,C0018787,Heart
+2045,Congenital atresia of mitral valve,heart,C0243066,Atresia
+2046,Congenital atresia of mitral valve,heart,C0026264,Mitral Valve
+2047,Congenital atresia of pulmonary valve,heart,C0243066,Atresia
+2048,Congenital atresia of pulmonary valve,heart,C0034086,Pulmonary valve structure
+2049,Congenital heart block,heart,C0149530,Congenital heart block
+2050,Congenital heart disease,heart,C0152021,Congenital heart disease
+2051,Congenital insufficiency of aortic valve,heart,C0158617,Congenital insufficiency of aortic valve
+2052,Congenital insufficiency of aortic valve,heart,C0003501,Aortic valve structure
+2053,Congenital stenosis of mitral valve,heart,C0332885,Congenital stenosis
+2054,Congenital stenosis of mitral valve,heart,C0026264,Mitral Valve
+2055,Congestive heart failure,heart,C0018802,Congestive heart failure
+2056,Cor biloculare,heart,C0152238,Cor biloculare
+2057,Coronary arteritis,heart,C0264684,Coronary arteritis
+2058,Coronary artery embolism,heart,C0264686,Coronary artery embolism
+2059,Coxsackie myocarditis,heart,C0153106,Coxsackie myocarditis
+2060,Dependent edema,heart,C1701901,Conditional
+2061,Dependent edema,heart,C0013604,Edema
+2062,Dextrocardia,heart,C3541877,Dextrocardia by ECG Finding
+2063,Diastolic dysfunction,heart,C0520863,Diastolic dysfunction
+2064,Disorder of pericardium,heart,C0012634,Disease
+2065,Disorder of pericardium,heart,C0031050,Pericardial sac structure
+2066,Dizziness,heart,C4085548,Usual Severity Dizziness
+2067,Double outlet left ventricle,heart,C0265809,Double outlet left ventricle
+2068,Dyspnea,heart,C0013404,Dyspnea
+2069,Dyspnea on exertion,heart,C0013404,Dyspnea
+2070,Dyspnea on exertion,heart,C0015264,Exertion
+2071,Electromechanical dissociation,heart,C0340861,Electromechanical dissociation
+2072,Endocarditis,heart,C0014118,Endocarditis
+2073,Eosinophilic myocarditis,heart,C0151788,Eosinophilic myocarditis
+2074,Fetal bradycardia,heart,C0015965,Fetus
+2075,Fetal tachycardia,heart,C0410918,Fetal tachycardia
+2076,Fibrillation,heart,C0232197,Fibrillation
+2077,Fibrosis of pericardium,heart,C0016059,Fibrosis
+2078,Fibrosis of pericardium,heart,C0031050,Pericardial sac structure
+2079,First degree atrioventricular block,heart,C0449286,Degree or extent
+2080,First degree atrioventricular block,heart,C0004245,Atrioventricular Block
+2081,Gray syndrome from chloramphenicol administration in newborn,heart,C0270276,Gray syndrome from chloramphenicol administration in newborn
+2082,Gray syndrome from chloramphenicol administration in newborn,heart,C0008168,Chloramphenicol
+2083,Gray syndrome from chloramphenicol administration in newborn,heart,C0001554,Administration occupational activities
+2084,Gray syndrome from chloramphenicol administration in newborn,heart,C0021289,"Infant, Newborn"
+2085,Heart failure,heart,C0018801,Heart failure
+2086,Heart valve regurgitation,heart,C0264879,Heart valve regurgitation
+2087,Hemopericardium,heart,C0019064,Hemopericardium
+2088,Hemoptysis,heart,C0019079,Hemoptysis
+2089,Hepatic congestion,heart,C0267821,Hepatic congestion
+2090,Hypertensive heart disease,heart,C0152105,Hypertensive heart disease
+2091,Idioventricular rhythm,heart,C0700363,Idioventricular rhythm
+2092,Inspiratory dyspnea,heart,C0277855,Inspiratory dyspnea
+2093,Kabuki make-up syndrome,heart,C0796004,Kabuki make-up syndrome
+2094,Larsen syndrome,heart,C0175778,Larsen syndrome
+2095,Left atrial dilatation,heart,C0344720,Left atrial dilatation
+2096,Left atrial hypertrophy,heart,C0238705,Left atrial hypertrophy
+2097,Localized edema,heart,C0392752,Localized
+2098,Localized edema,heart,C0013604,Edema
+2099,Malignant pericardial effusion,heart,C0205282,Malignant - descriptor
+2100,Malignant pericardial effusion,heart,C0031039,Pericardial effusion
+2101,Mycotic pericarditis,heart,C0276647,Mycotic pericarditis
+2102,Myocardial bridging,heart,C0948355,Myocardial bridging
+2103,Myocardial calcification,heart,C1096561,Myocardial calcification
+2104,Myocardial dysfunction,heart,C0340515,Myocardial dysfunction
+2105,Myocardial fibrosis,heart,C0151654,Myocardial fibrosis
+2106,Myocardial hemorrhage,heart,C0877077,Myocardial hemorrhage
+2107,Myocardial necrosis,heart,C0027051,Myocardial Infarction
+2108,Myocarditis,heart,C0027059,Myocarditis
+2109,Myocarditis due to infectious agent,heart,C0027059,Myocarditis
+2110,Myocarditis due to infectious agent,heart,C0314732,Infectious agent
+2111,Myoglobinuria,heart,C0027080,Myoglobinuria
+2112,Orthopnea,heart,C0085619,Orthopnea
+2113,Osler's node,heart,C0240608,Osler's node
+2114,Palpitations,heart,C0030252,Palpitations
+2115,Parachute malformation of mitral valve,heart,C0546965,Parachute malformation of mitral valve
+2116,Parachute malformation of mitral valve,heart,C0026264,Mitral Valve
+2117,Paroxysmal nocturnal dyspnea,heart,C1956415,Paroxysmal nocturnal dyspnea
+2118,Patent ductus arteriosus,heart,C0013274,Patent ductus arteriosus
+2119,Pericardial effusion,heart,C0031039,Pericardial effusion
+2120,Pericardial friction rub,heart,C0232267,Pericardial friction rub
+2121,Pericarditis,heart,C0031046,Pericarditis
+2122,Pericarditis secondary to uremia,heart,C0031046,Pericarditis
+2123,Pericarditis secondary to uremia,heart,C0175668,Secondary to
+2124,Pericarditis secondary to uremia,heart,C0041948,Uremia
+2125,Peripheral edema,heart,C0085649,Peripheral edema
+2126,Platypnea,heart,C0520825,Platypnea
+2127,Pleuropericarditis,heart,C1167732,Pleuropericarditis
+2128,Pneumopericardium,heart,C0032319,Pneumopericardium
+2129,Postmyocardial infarction syndrome,heart,C0152107,Postmyocardial infarction syndrome
+2130,Pulmonary congestion,heart,C0242073,Pulmonary congestion
+2131,Pulmonary valve disorder,heart,C0034087,Pulmonary valve disorder
+2132,Restrictive cardiomyopathy,heart,C0007196,Restrictive cardiomyopathy
+2133,Right atrial dilatation,heart,C0344709,Right atrial dilatation
+2134,Right atrial enlargement,heart,C0232308,P pulmonale by EKG (finding)
+2135,Right bundle branch block,heart,C0085615,Right bundle branch block
+2136,Right hypoplastic heart syndrome,heart,C0344963,Right hypoplastic heart syndrome
+2137,Right ventricular failure,heart,C0235527,"Heart Failure, Right-Sided"
+2138,Rupture of chordae tendineae,heart,C3203359,Rupture
+2139,Rupture of chordae tendineae,heart,C0008484,Structure of chordae tendineae cordis
+2140,Second degree atrioventricular block,heart,C0449286,Degree or extent
+2141,Second degree atrioventricular block,heart,C0004245,Atrioventricular Block
+2142,Senile cardiac amyloidosis,heart,C0268407,Senile cardiac amyloidosis
+2143,Septic myocarditis,heart,C0155690,Septic myocarditis
+2144,Sinus bradycardia,heart,C2108107,continuous electrocardiogram sinus bradycardia (finding)
+2145,Staphylococcal endocarditis,heart,C0520767,Staphylococcal endocarditis
+2146,Subacute endocarditis,heart,C0264863,Subacute endocarditis
+2147,Subaortic stenosis,heart,C0340375,Subaortic stenosis
+2148,Subendocardial hemorrhage,heart,C3671040,Subendocardial hemorrhage
+2149,Sudden death,heart,C0011071,Sudden death
+2150,Supraventricular arrhythmia,heart,C0428974,Supraventricular arrhythmia
+2151,Supraventricular tachyarrhythmia,heart,C1698480,Supraventricular tachyarrhythmia
+2152,Supraventricular tachycardia,heart,C0039240,Supraventricular tachycardia
+2153,Systolic dysfunction,heart,C0749225,Systolic dysfunction
+2154,Tachyarrhythmia,heart,C0080203,Tachyarrhythmia
+2155,Tachycardia,heart,C0039231,Tachycardia
+2156,Tachycardia-induced cardiomyopathy,heart,C1960445,Tachycardia-induced cardiomyopathy
+2157,Tetralogy of Fallot,heart,C0039685,Tetralogy of Fallot
+2158,Tetralogy of Fallot,heart,C1418436,PDGFC gene
+2159,Thickened mitral leaflet,heart,C0205400,Thickened
+2160,Thickened mitral leaflet,heart,C0225950,Structure of anterior leaflet of mitral valve
+2161,Trepopnea,heart,C0392194,Trepopnea
+2162,Tricuspid valve disorder,heart,C0264882,Tricuspid valve disorder
+2163,Trisomy 21,heart,C0041107,Trisomy
+2164,Ventricular arrhythmia,heart,C0344424,Ventricular Arrhythmia by ECG Finding
+2165,Ventricular enlargement,heart,C2675972,Ventricular enlargement
+2166,Ventricular failure,heart,C0849925,Ventricular failure
+2167,Ventricular hypertrophy,heart,C0340279,Ventricular hypertrophy
+2168,Viral myocarditis,heart,C0276138,Viral myocarditis
+2169,Viral pericarditis,heart,C0276139,Viral pericarditis
+2170,Abnormal breathing,lung,C1550458,Observation Interpretation - Abnormal
+2171,Abnormal breathing,lung,C0035203,Respiration
+2172,Abscess of mediastinum,lung,C0000833,Abscess
+2173,Abscess of mediastinum,lung,C0025066,Mediastinum
+2174,Abscess of pharynx,lung,C0000833,Abscess
+2175,Abscess of pharynx,lung,C0031354,Pharyngeal structure
+2176,Acquired tracheo-esophageal fistula,lung,C0340217,Acquired tracheo-esophageal fistula
+2177,Acute cor pulmonale,lung,C0155672,Acute cor pulmonale
+2178,Acute interstitial pneumonia,lung,C1279945,Acute interstitial pneumonia
+2179,Acute pulmonary edema,lung,C0155919,Acute pulmonary edema
+2180,Acute pulmonary histoplasmosis,lung,C0343898,Acute pulmonary histoplasmosis
+2181,Acute respiratory failure,lung,C0264490,Acute respiratory failure
+2182,Acute sinusitis,lung,C0149512,Acute sinusitis
+2183,Adenoiditis,lung,C0001427,Adenoiditis
+2184,Adenosquamous cell lung cancer,lung,C0279557,Adenosquamous cell lung cancer
+2185,Adenoviral pneumonia,lung,C0276156,Adenoviral pneumonia
+2186,Adhesion of pleura,lung,C0001511,Tissue Adhesions
+2187,Adhesion of pleura,lung,C0032225,Pleura
+2188,Allergic bronchitis,lung,C1260881,Allergic bronchitis
+2189,Allergic cough,lung,C0577662,Allergic cough
+2190,Alveolitis,lung,C0549493,Alveolitis
+2191,Antisynthetase syndrome,lung,C2609059,Antisynthetase syndrome
+2192,Asbestosis,lung,C0003949,Asbestosis
+2193,Aspergilloma,lung,C0276651,Aspergilloma
+2194,Asthma,lung,C0004096,Asthma
+2195,Asthma-chronic obstructive pulmonary disease overlap syndrome,lung,C4038730,Asthma-chronic obstructive pulmonary disease overlap syndrome
+2196,Atelectasis,lung,C0004144,Atelectasis
+2197,Atypical pneumonia,lung,C0702135,Primary atypical pneumonia
+2198,Azygos lobe of lung,lung,C0265794,Azygos lobe of lung
+2199,Azygos lobe of lung,lung,C0024109,Lung
+2200,Bacterial sinusitis,lung,C1262006,Bacterial sinusitis
+2201,Bacterial tonsillitis,lung,C1696371,Bacterial tonsillitis
+2202,Bacterial tracheitis,lung,C1868703,Bacterial tracheitis
+2203,Barrel chest,lung,C0264172,Barrel chest
+2204,Berylliosis,lung,C0005138,Berylliosis
+2205,Bronchial hemorrhage,lung,C1321133,Bronchial hemorrhage
+2206,Bronchial irritation,lung,C0549313,Bronchial irritation
+2207,Bronchial wall thickening,lung,C1868833,Bronchial wall thickening
+2208,Bronchiectasis,lung,C0006267,Bronchiectasis
+2209,Bronchiolitis,lung,C0006271,Bronchiolitis
+2210,Bronchitis,lung,C0006277,Bronchitis
+2211,Broncho-esophageal fistula,lung,C0267094,Broncho-esophageal fistula
+2212,Broncholithiasis,lung,C0221367,Broncholithiasis
+2213,Bronchomalacia,lung,C0264353,Bronchomalacia
+2214,Bronchopleural fistula,lung,C0238132,Bronchopleural fistula
+2215,Byssinosis,lung,C0006542,Byssinosis
+2216,Calcification of pleura,lung,C1879982,Calcified Medical Device Material
+2217,Calcification of pleura,lung,C0032225,Pleura
+2218,Calcification of trachea,lung,C1879982,Calcified Medical Device Material
+2219,Calcification of trachea,lung,C0040578,Trachea
+2220,Carcinoid tumor of lung,lung,C0334299,Carcinoid tumor no ICD-O subtype
+2221,Carcinoid tumor of lung,lung,C0024109,Lung
+2222,Cardiorespiratory failure,lung,C1444565,Cardiorespiratory failure
+2223,Catarrh,lung,C1384493,Catarrh
+2224,Cavitation of lung,lung,C2700618,Cavitation (process)
+2225,Cavitation of lung,lung,C0024109,Lung
+2226,Central cyanosis,lung,C0521800,Central cyanosis
+2227,Chest discomfort,lung,C0235710,Chest discomfort
+2228,Childhood asthma,lung,C0264408,Childhood asthma
+2229,Choking,lung,C0008301,Choking
+2230,Choking sensation,lung,C0546947,Choking sensation
+2231,Chronic disease of respiratory system,lung,C0008679,Chronic disease
+2232,Chronic disease of respiratory system,lung,C3541375,RESPIRATORY SYSTEM DIAGNOSTIC RADIOPHARMACEUTICALS
+2233,Chronic pulmonary heart disease,lung,C0238074,Chronic pulmonary heart disease
+2234,Chronic pulmonary histoplasmosis,lung,C0343899,Chronic pulmonary histoplasmosis
+2235,Chronic respiratory failure,lung,C0264492,Chronic respiratory failure
+2236,Chronic sinusitis,lung,C0149516,Chronic sinusitis
+2237,Chronic tonsillitis,lung,C0149517,Chronic tonsillitis
+2238,Chylothorax,lung,C0008733,Chylothorax
+2239,Clubbing,lung,C0009080,Clubbed Fingers
+2240,Complicated pneumoconiosis,lung,C0340170,Complicated pneumoconiosis
+2241,Congenital atresia of bronchus,lung,C0243066,Atresia
+2242,Congenital atresia of bronchus,lung,C0006255,Bronchi
+2243,Congenital bronchiectasis,lung,C0152239,Congenital bronchiectasis
+2244,Congenital bronchogenic cyst,lung,C0006281,Congenital bronchogenic cyst
+2245,Congenital central hypoventilation,lung,C1275808,Congenital central hypoventilation
+2246,Congenital cystic lung,lung,C0158641,Congenital cystic lung
+2247,Congenital diaphragmatic hernia,lung,C0235833,Congenital diaphragmatic hernia
+2248,Congenital diverticulum of pharynx,lung,C0332922,Congenital diverticulum
+2249,Congenital diverticulum of pharynx,lung,C0031354,Pharyngeal structure
+2250,Congenital hypoplasia of lung,lung,C0020636,Congenital hypoplasia
+2251,Congenital hypoplasia of lung,lung,C0024109,Lung
+2252,Congenital laryngocele,lung,C0265761,Congenital laryngocele
+2253,Congenital pectus carinatum,lung,C0158731,Congenital pectus carinatum
+2254,Congenital pectus excavatum,lung,C0016842,Congenital pectus excavatum
+2255,Congenital pneumonia,lung,C0158935,Congenital pneumonia
+2256,Congenital stenosis of pulmonary artery,lung,C0332885,Congenital stenosis
+2257,Congenital stenosis of pulmonary artery,lung,C0034052,Pulmonary artery structure
+2258,Congestion of nasal sinus,lung,C0700148,Congestion
+2259,Congestion of nasal sinus,lung,C0030471,Nasal sinus
+2260,Contusion of lung,lung,C0009938,Contusions
+2261,Contusion of lung,lung,C0024109,Lung
+2262,Coughing,lung,C0010200,Coughing
+2263,Crusted nasal mucosa,lung,C0456548,Crusted nasal mucosa
+2264,Cryptogenic pulmonary eosinophilia,lung,C0008680,Cryptogenic pulmonary eosinophilia
+2265,Cyst of nasal cavity,lung,C0010709,Cyst
+2266,Cyst of nasal cavity,lung,C0027423,Nasal cavity
+2267,Cyst of pharynx,lung,C0010709,Cyst
+2268,Cyst of pharynx,lung,C0031354,Pharyngeal structure
+2269,Cyst of tonsil,lung,C0010709,Cyst
+2270,Cyst of tonsil,lung,C0040421,Palatine Tonsil
+2271,Cytomegaloviral pneumonia,lung,C0276253,Cytomegaloviral pneumonia
+2272,Deviated nasal septum,lung,C0012727,Spatial Displacement
+2273,Deviated nasal septum,lung,C0027432,Nasal septum structure
+2274,Diaphragmatic paresis,lung,C0521532,Diaphragmatic paresis
+2275,Diffuse panbronchiolitis,lung,C0878555,Diffuse panbronchiolitis
+2276,Disorder of tonsil (palatine tonsil),lung,C0272380,Disorder of tonsil (palatine tonsil)
+2277,Disorder of tonsil (palatine tonsil),lung,C0040421,Palatine Tonsil
+2278,Dysphonia,lung,C0019825,Hoarseness
+2279,Dyspnea,lung,C0013404,Dyspnea
+2280,Dyspnea on exertion,lung,C0013404,Dyspnea
+2281,Dyspnea on exertion,lung,C0015264,Exertion
+2282,Edema of pharynx,lung,C0013604,Edema
+2283,Edema of pharynx,lung,C0031354,Pharyngeal structure
+2284,Engraftment syndrome,lung,C0919746,Engraftment syndrome
+2285,Eosinophilic bronchitis,lung,C1698398,Eosinophilic bronchitis
+2286,Epiglottitis,lung,C0014541,Epiglottitis
+2287,Extrinsic allergic alveolitis,lung,C0002390,Extrinsic allergic alveolitis
+2288,Exudate on tonsils,lung,C0015388,Exudate
+2289,Exudate on tonsils,lung,C0040421,Palatine Tonsil
+2290,Fibrosis of pleura,lung,C0016059,Fibrosis
+2291,Fibrosis of pleura,lung,C0032225,Pleura
+2292,Fungal infection of lung,lung,C0026946,Mycoses
+2293,Fungal infection of lung,lung,C0024109,Lung
+2294,Fungal pneumonia,lung,C0016832,Fungi
+2295,Fungal pneumonia,lung,C0032285,Pneumonia
+2296,Fungal sinusitis,lung,C1142077,Fungal sinusitis
+2297,Fungal tracheitis,lung,C2721648,Fungal tracheitis
+2298,Glossoptosis,lung,C0267048,Glossoptosis
+2299,Granulomatosis with polyangiitis,lung,C0521173,Granulomatosis
+2300,Granulomatosis with polyangiitis,lung,C0264939,Systemic Vasculitis
+2301,Grunting respiration,lung,C0241902,Grunting respiration
+2302,Hemoptysis,lung,C0019079,Hemoptysis
+2303,Hemorrhagic pneumonia,lung,C0339965,Hemorrhagic pneumonia
+2304,Hemothorax,lung,C0019123,Hemothorax
+2305,Hereditary lymphedema and yellow nails,lung,C1704423,Milroy Disease
+2306,Hereditary lymphedema and yellow nails,lung,C0221348,Hereditary lymphedema and yellow nails
+2307,Herpes simplex pneumonia,lung,C0339975,Herpes simplex pneumonia
+2308,Hilar lymphadenopathy,lung,C0456973,Hilar lymphadenopathy
+2309,Hydrothorax,lung,C0020312,Hydrothorax
+2310,Hypercapnia,lung,C0020440,Hypercapnia
+2311,Hyperoxia,lung,C0242706,Hyperoxia
+2312,Hypertrophic osteoarthropathy,lung,C0178703,Hypertrophic osteoarthropathy
+2313,Hypertrophy of adenoids,lung,C0020564,Hypertrophy
+2314,Hypertrophy of adenoids,lung,C0001428,Adenoidal structure
+2315,Hypertrophy of tonsils,lung,C0020564,Hypertrophy
+2316,Hypertrophy of tonsils,lung,C0040421,Palatine Tonsil
+2317,Hyperventilation,lung,C0020578,Hyperventilation
+2318,Hypocapnia,lung,C0085383,Hypocapnia
+2319,Hypoventilation,lung,C3203358,Hypoventilation
+2320,Hypoxia,lung,C1963140,Hypoxia Adverse Event
+2321,"Hypoxia, in liveborn infant",lung,C1963140,Hypoxia Adverse Event
+2322,"Hypoxia, in liveborn infant",lung,C0520599,"Hypoxia, in liveborn infant"
+2323,Idiopathic pneumonia syndrome,lung,C1504431,Idiopathic pneumonia syndrome
+2324,Idiopathic pulmonary hemosiderosis,lung,C0020807,Idiopathic pulmonary hemosiderosis
+2325,Immunodeficiency with thymoma,lung,C4284394,Immunodeficiency:Type:Pt:^Patient:Nom
+2326,Immunodeficiency with thymoma,lung,C0040100,Thymoma
+2327,Infectious disease of lung,lung,C0009450,Communicable Diseases
+2328,Infectious disease of lung,lung,C0024109,Lung
+2329,Influenza,lung,C0021400,Influenza
+2330,Influenza due to Influenza A virus subtype H1N1,lung,C0021400,Influenza
+2331,Influenza due to Influenza A virus subtype H1N1,lung,C1615607,"Influenza A Virus, H1N1 Subtype"
+2332,Inhalational anthrax,lung,C0155866,Inhalational anthrax
+2333,Injury of bronchus,lung,C3263723,Traumatic injury
+2334,Injury of bronchus,lung,C0006255,Bronchi
+2335,Injury of larynx,lung,C3263723,Traumatic injury
+2336,Injury of larynx,lung,C0023078,Larynx
+2337,Injury of nose,lung,C3263723,Traumatic injury
+2338,Injury of nose,lung,C0028429,Nose
+2339,Injury of pharynx,lung,C3263723,Traumatic injury
+2340,Injury of pharynx,lung,C0031354,Pharyngeal structure
+2341,Inspiratory dyspnea,lung,C0277855,Inspiratory dyspnea
+2342,Irregular breathing,lung,C0205271,Irregular
+2343,Kussmaul's respiration,lung,C0541813,Kussmaul's respiration
+2344,Large cell carcinoma of lung,lung,C0549177,Large
+2345,Large cell carcinoma of lung,lung,C1518174,Malignant Epithelial Cell
+2346,Large cell carcinoma of lung,lung,C0024109,Lung
+2347,Laryngeal tremor,lung,C3808657,Laryngeal tremor
+2348,Laryngeal web,lung,C0023078,Larynx
+2349,Laryngismus,lung,C0023066,Laryngismus
+2350,Laryngitis,lung,C0001327,Acute laryngitis
+2351,Laryngomalacia,lung,C0264303,Laryngomalacia
+2352,Leukoplakia of larynx,lung,C0023531,Leukoplakia
+2353,Leukoplakia of larynx,lung,C0023078,Larynx
+2354,Leukostasis,lung,C0282548,Leukostasis
+2355,Lower respiratory tract infection,lung,C0149725,Lower respiratory tract infection
+2356,Lung consolidation,lung,C0521530,Lung consolidation
+2357,Lung cyst,lung,C0546483,Lung cyst
+2358,Lung hyperinflation,lung,C1167782,Lung hyperinflation
+2359,Lung mass,lung,C0149726,Lung mass
+2360,Lung transplant rejection,lung,C0729958,Lung transplant rejection
+2361,Malignant neoplasm of thorax,lung,C0006826,Malignant Neoplasms
+2362,Malignant neoplasm of thorax,lung,C0817096,Chest
+2363,Malignant tumor of mediastinum,lung,C0006826,Malignant Neoplasms
+2364,Malignant tumor of mediastinum,lung,C0025066,Mediastinum
+2365,Malignant tumor of pleura,lung,C0006826,Malignant Neoplasms
+2366,Malignant tumor of pleura,lung,C0032225,Pleura
+2367,Measles pneumonia,lung,C0339976,Measles pneumonia
+2368,Mediastinal lymphadenopathy,lung,C0520743,Mediastinal lymphadenopathy
+2369,Mediastinal mass,lung,C0240318,Mediastinal mass
+2370,Mediastinal shift,lung,C0264576,Mediastinal shift
+2371,Mucormycosis,lung,C0026718,Mucormycosis
+2372,Mycoplasma pneumonia,lung,C0032302,Mycoplasma pneumonia
+2373,Mycoplasmal pharyngitis,lung,C0149967,Mycoplasmal pharyngitis
+2374,Nasal flaring,lung,C0277873,Nasal flaring
+2375,Nasal inflammation,lung,C2718128,Nasal inflammation
+2376,Nasal mucosa dry,lung,C0027428,Structure of mucous membrane of nose
+2377,Nasopharyngitis,lung,C0027441,Nasopharyngitis
+2378,Necrotizing bronchiolitis,lung,C0264366,Necrotizing bronchiolitis
+2379,Negative pressure pulmonary edema,lung,C1321120,Negative pressure pulmonary edema
+2380,Neonatal pneumonia,lung,C0021289,"Infant, Newborn"
+2381,Neonatal pneumonia,lung,C0032285,Pneumonia
+2382,Neonatal respiratory distress,lung,C0021289,"Infant, Newborn"
+2383,Neonatal respiratory distress,lung,C0476273,Respiratory distress
+2384,Neuroendocrine cell hyperplasia of infancy,lung,C1882794,Rat Neuroendocrine Cell Hyperplasia
+2385,Neuroendocrine cell hyperplasia of infancy,lung,C0231330,Infancy
+2386,Non-cardiac chest pain,lung,C0476281,Non-cardiac chest pain
+2387,Non-cardiogenic pulmonary edema,lung,C3241936,Non-cardiogenic pulmonary edema
+2388,Obstruction of bronchus,lung,C0028778,Obstruction
+2389,Obstruction of bronchus,lung,C0006255,Bronchi
+2390,Obstruction of larynx,lung,C0028778,Obstruction
+2391,Obstruction of larynx,lung,C0023078,Larynx
+2392,Obstruction of trachea,lung,C0028778,Obstruction
+2393,Obstruction of trachea,lung,C0040578,Trachea
+2394,Oculorespiratory syndrome,lung,C1963718,Oculorespiratory syndrome
+2395,Organized pneumonia,lung,C1300196,Organized
+2396,Organized pneumonia,lung,C0032285,Pneumonia
+2397,Orthopnea,lung,C0085619,Orthopnea
+2398,Parainfluenza virus pneumonia,lung,C0276333,Parainfluenza virus pneumonia
+2399,Paroxysmal nocturnal dyspnea,lung,C1956415,Paroxysmal nocturnal dyspnea
+2400,Perforation of pharynx,lung,C0549099,Perforation (observation)
+2401,Perforation of pharynx,lung,C0031354,Pharyngeal structure
+2402,Perinatal atelectasis,lung,C0270164,Perinatal atelectasis
+2403,Pertussis,lung,C0043167,Pertussis
+2404,Pharyngeal dryness,lung,C0235234,Pharyngeal dryness
+2405,Pharyngitis,lung,C0031350,Pharyngitis
+2406,Platypnea,lung,C0520825,Platypnea
+2407,Pleural fistula,lung,C1405128,Pleural fistula
+2408,Pleurisy,lung,C0032231,Pleurisy
+2409,Pleuritic pain,lung,C0008033,Pleuritic pain
+2410,Pleuropericarditis,lung,C1167732,Pleuropericarditis
+2411,Pleuropulmonary blastoma,lung,C1266144,Pleuropulmonary blastoma
+2412,Pneumococcal bronchitis,lung,C0275765,Pneumococcal bronchitis
+2413,Pneumoconiosis,lung,C0032273,Pneumoconiosis
+2414,Pneumonia,lung,C0032285,Pneumonia
+2415,Pneumonia and influenza,lung,C0032285,Pneumonia
+2416,Pneumonia and influenza,lung,C0021400,Influenza
+2417,Pneumonia due to Escherichia coli,lung,C0032285,Pneumonia
+2418,Pneumonia due to Escherichia coli,lung,C0014834,Escherichia coli
+2419,Pneumonia due to Klebsiella pneumoniae,lung,C0032285,Pneumonia
+2420,Pneumonia due to Klebsiella pneumoniae,lung,C0001699,Klebsiella pneumoniae
+2421,Pneumonia due to respiratory syncytial virus,lung,C0032285,Pneumonia
+2422,Pneumonia due to respiratory syncytial virus,lung,C0035236,Respiratory syncytial virus
+2423,Pneumonitis,lung,C3714636,Pneumonitis
+2424,Pneumothorax,lung,C0032326,Pneumothorax
+2425,Polyp in nasopharynx,lung,C0032584,polyps
+2426,Polyp in nasopharynx,lung,C0027442,Nasopharynx
+2427,Polyp of larynx,lung,C0032584,polyps
+2428,Polyp of larynx,lung,C0023078,Larynx
+2429,Polyp of vocal cord,lung,C0032584,polyps
+2430,Polyp of vocal cord,lung,C0042930,Vocal cord structure
+2431,Post-tussive vomiting,lung,C1740793,Post-tussive vomiting
+2432,Postmyocardial infarction syndrome,lung,C0152107,Postmyocardial infarction syndrome
+2433,Productive cough,lung,C0035150,Reproduction
+2434,Pulmonary actinomycosis,lung,C0275566,Pulmonary actinomycosis
+2435,Pulmonary amyloidosis,lung,C0700376,Pulmonary amyloidosis
+2436,Pulmonary arterial hypertension,lung,C2973725,Pulmonary arterial hypertension
+2437,Pulmonary artery aneurysm,lung,C0155676,Pulmonary artery aneurysm
+2438,Pulmonary artery thrombosis,lung,C0151947,Pulmonary artery thrombosis
+2439,Pulmonary aspiration,lung,C0700198,Pulmonary aspiration
+2440,Pulmonary capillary hemangiomatosis,lung,C0340548,Pulmonary capillary hemangiomatosis
+2441,Pulmonary congestion,lung,C0242073,Pulmonary congestion
+2442,Pulmonary cryptococcosis,lung,C0276688,Pulmonary cryptococcosis
+2443,Pulmonary granuloma,lung,C0235557,Pulmonary granuloma
+2444,Pulmonary hemorrhage,lung,C0151701,Pulmonary hemorrhage
+2445,Pulmonary hypoperfusion,lung,C3686795,Pulmonary hypoperfusion
+2446,Pulmonary lymphangiectasia,lung,C1855480,Pulmonary lymphangiectasia
+2447,Pulmonary mycotoxicosis,lung,C0340206,Pulmonary mycotoxicosis
+2448,Pulmonary necrosis,lung,C0264517,Pulmonary necrosis
+2449,Pulmonary nodular lymphoid hyperplasia,lung,C1334969,Pulmonary nodular lymphoid hyperplasia
+2450,Pulmonary ossification,lung,C0264523,Pulmonary ossification
+2451,Pulmonary paracoccidioidomycosis,lung,C0276665,Pulmonary paracoccidioidomycosis
+2452,Pulmonary renal syndrome,lung,C0549143,Pulmonary renal syndrome
+2453,Pulmonary thrombosis,lung,C0151946,Pulmonary thrombosis
+2454,Pulmonary tularemia,lung,C0339946,Pulmonary tularemia
+2455,Pulmonary venous thrombosis,lung,C0392108,Pulmonary venous thrombosis
+2456,Purulent sputum,lung,C0241235,Purulent sputum
+2457,Pyopneumothorax,lung,C0238404,Pyopneumothorax
+2458,Reactive airways dysfunction syndrome,lung,C1299633,Reactive airways dysfunction syndrome
+2459,Red throat,lung,C0455899,Red throat
+2460,Respiratory arrest,lung,C0003578,Apnea
+2461,Respiratory distress,lung,C0476273,Respiratory distress
+2462,Respiratory muscle weakness,lung,C1836141,Respiratory muscle weakness
+2463,Respiratory syncytial virus bronchiolitis,lung,C0276340,Respiratory syncytial virus bronchiolitis
+2464,Respiratory tract congestion,lung,C0948349,Respiratory tract congestion
+2465,Respiratory tract hemorrhage,lung,C0235560,Respiratory tract hemorrhage
+2466,Restrictive pulmonary disease,lung,C0877013,Restrictive pulmonary disease
+2467,Rheumatoid lung disease,lung,C0994344,Rheumatoid lung disease
+2468,Rhinitis,lung,C0035455,Rhinitis
+2469,Rhinoscleroma,lung,C0035468,Rhinoscleroma
+2470,Rupture of diaphragm,lung,C3203359,Rupture
+2471,Rupture of diaphragm,lung,C1705368,Diaphragm Dosage Form
+2472,Schneiderian papilloma,lung,C0334268,Schneiderian papilloma
+2473,Secondary malignant neoplasm of lung,lung,C3266877,Secondary Malignant Neoplasm
+2474,Secondary malignant neoplasm of lung,lung,C0024109,Lung
+2475,Secondary malignant neoplasm of pleura,lung,C3266877,Secondary Malignant Neoplasm
+2476,Secondary malignant neoplasm of pleura,lung,C0032225,Pleura
+2477,Sense of smell impaired,lung,C0037361,Smell Perception
+2478,Sense of smell impaired,lung,C0221099,Impaired
+2479,Septic bronchitis,lung,C0264344,Septic bronchitis
+2480,Silicotuberculosis,lung,C0037118,Silicotuberculosis
+2481,Sinus barotrauma,lung,C0161745,Sinus barotrauma
+2482,Sinus headache,lung,C0037195,Sinus headache
+2483,Sinus pain,lung,C1963236,Sinus Pain Adverse Event
+2484,Sinusitis,lung,C0037199,Sinusitis
+2485,Sleep-related respiratory failure,lung,C0020681,Sleep-related respiratory failure
+2486,Slow respiration,lung,C0231837,Slow respiration
+2487,Slow shallow breathing,lung,C0235546,Slow shallow breathing
+2488,Small cell carcinoma of lung,lung,C0149925,Small cell carcinoma of lung
+2489,Small cell carcinoma of lung,lung,C0024109,Lung
+2490,Spasm of the cricopharyngeus muscle,lung,C0026821,Muscle Cramp
+2491,Spasm of the cricopharyngeus muscle,lung,C0224214,Inferior constrictor pharyngeus muscle structure
+2492,Spontaneous pneumothorax,lung,C0205359,Spontaneous
+2493,Spontaneous pneumothorax,lung,C0032326,Pneumothorax
+2494,Squamous cell carcinoma of lung,lung,C0007137,Squamous cell carcinoma
+2495,Squamous cell carcinoma of lung,lung,C0024109,Lung
+2496,Squamous cell carcinoma of nasopharynx,lung,C0007137,Squamous cell carcinoma
+2497,Squamous cell carcinoma of nasopharynx,lung,C0027442,Nasopharynx
+2498,Squamous cell carcinoma of oropharynx,lung,C0007137,Squamous cell carcinoma
+2499,Squamous cell carcinoma of oropharynx,lung,C0521367,Oropharyngeal
+2500,Squamous cell carcinoma of pharynx,lung,C0007137,Squamous cell carcinoma
+2501,Squamous cell carcinoma of pharynx,lung,C0031354,Pharyngeal structure
+2502,Stenosis of bronchus,lung,C2632116,Stenosis (invertebrate)
+2503,Stenosis of bronchus,lung,C0006255,Bronchi
+2504,Stertor,lung,C3887661,Stertor
+2505,Streptococcal sore throat,lung,C0036689,Streptococcal sore throat
+2506,Streptococcal tonsillitis,lung,C0275804,Streptococcal tonsillitis
+2507,Stridor,lung,C0038450,Stridor
+2508,Tachypnea,lung,C0231835,Tachypnea
+2509,Thickening of pleura,lung,C0205400,Thickened
+2510,Thickening of pleura,lung,C0032225,Pleura
+2511,Throat clearing,lung,C0031354,Pharyngeal structure
+2512,Throat clearing,lung,C1550003,Clearing
+2513,Throat irritation,lung,C0700184,Throat irritation
+2514,Thymoma,lung,C0040100,Thymoma
+2515,Tonsillitis,lung,C0040425,Tonsillitis
+2516,Toxic oil syndrome,lung,C0409998,Toxic oil syndrome
+2517,Toxic pneumonitis,lung,C3714582,Toxic pneumonitis
+2518,Trachea displaced,lung,C0040578,Trachea
+2519,Trachea displaced,lung,C0012727,Spatial Displacement
+2520,Tracheal diverticulosis,lung,C0340213,Tracheal diverticulosis
+2521,Tracheal fistula,lung,C0340214,Tracheal fistula
+2522,Tracheal hemorrhage,lung,C0340220,Tracheal hemorrhage
+2523,Tracheitis,lung,C0040584,Tracheitis
+2524,Tracheobronchitis,lung,C0040586,Tracheobronchitis
+2525,Tracheobronchomegaly,lung,C0040587,Tracheobronchomegaly
+2526,Tracheomalacia,lung,C0948187,Tracheomalacia
+2527,Transitory tachypnea of newborn,lung,C0158940,Transitory tachypnea of newborn
+2528,Transitory tachypnea of newborn,lung,C0021289,"Infant, Newborn"
+2529,Traumatic pneumothorax,lung,C0282015,Traumatic pneumothorax
+2530,Trepopnea,lung,C0392194,Trepopnea
+2531,Ulcer of nose,lung,C3887532,Ulceration
+2532,Ulcer of nose,lung,C0028429,Nose
+2533,Ulcerative rhinitis,lung,C0235963,Ulcerative rhinitis
+2534,Undifferentiated carcinoma of nasopharynx,lung,C0205698,Undifferentiated carcinoma
+2535,Undifferentiated carcinoma of nasopharynx,lung,C0027442,Nasopharynx
+2536,Upper airway obstruction,lung,C0740852,Upper airway obstruction
+2537,Upper airway resistance syndrome,lung,C1319384,Upper airway resistance syndrome
+2538,Ventilatory defect,lung,C0231926,Ventilatory defect
+2539,Viral bronchitis,lung,C0276141,Viral bronchitis
+2540,Viral pharyngitis,lung,C0276143,Viral pharyngitis
+2541,Viral sinusitis,lung,C0748731,Viral sinusitis
+2542,Viral tonsillitis,lung,C0276144,Viral tonsillitis
+2543,Viral tracheitis,lung,C0276145,Viral tracheitis
+2544,Viral upper respiratory tract infection,lung,C0339916,Viral upper respiratory tract infection
+2545,Wheezing,lung,C0043144,Wheezing
+2546,Wilson-Mikity syndrome,lung,C0270171,Wilson-Mikity syndrome
+2547,Yawning,lung,C0043387,Yawning
+2548,Diencephalic syndrome of infancy,diabetes,C0271889,Diencephalic syndrome of infancy
+2549,Diencephalic syndrome of infancy,diabetes,C0231330,Infancy
+2550,Emphysematous pyelonephritis,diabetes,C0403379,Emphysematous pyelonephritis
+2551,Hollow visceral neuropathy,diabetes,C0400875,Hollow visceral neuropathy
+2552,Hyperinsulinism,diabetes,C0020459,Hyperinsulinism
+2553,Hypoglycemic encephalopathy,diabetes,C0149877,Hypoglycemic encephalopathy
+2554,Microalbuminuria,diabetes,C0730345,Microalbuminuria
+2555,Neonatal diabetes mellitus,diabetes,C0158981,Neonatal diabetes mellitus
+2556,Neuroglycopenia,diabetes,C0342311,Neuroglycopenia
+2557,Reactive hypoglycemia,diabetes,C0271710,Reactive hypoglycemia
+2558,Obesity,obesity,C0028754,Obesity
+2559,Overweight,obesity,C0497406,Overweight
+2560,Chronic liver disease,chron,C0341439,Chronic liver disease
+2561,population density,population_density,C1257890,Population Group
+2562,population density,population_density,C0178587,density
+2563,number of people in,population_density,C0027361,Persons
+2564,number of people per,population_density,C0027361,Persons
+2565,highly populated countries,population_density,C1257890,Population Group
+2566,densely populated countries,population_density,C1257890,Population Group
+2567,high density areas,population_density,C0205250,High
+2568,high density areas,population_density,C0178587,density
+2569,population densities,population_density,C1257890,Population Group
+2570,population densities,population_density,C0178587,density
+2571,density of population,population_density,C0178587,density
+2572,density of population,population_density,C1257890,Population Group
+2573,sparsely populated,population_density,C1257890,Population Group
+2574,densely populated,population_density,C1257890,Population Group
+2575,density of the population,population_density,C0178587,density
+2576,density of the population,population_density,C1257890,Population Group
+2577,dense population,population_density,C1257890,Population Group
+2578,housing density,population_density,C0178587,density
+2579,concentration of people,population_density,C3827302,Able to Concentrate Question
+2580,concentration of people,population_density,C0027361,Persons
+2581,population pressure,population_density,C0032676,Population Pressure
+2582,population studies,population_density,C0681876,Population Study (research activity)
+2583,populated regions,population_density,C0032659,geographic population
+2584,high population densities,population_density,C1257890,Population Group
+2585,high population densities,population_density,C0178587,density
+2586,residential densities,population_density,C0178587,density
+2587,air pollution and,pollution,C0001873,Air Pollution
+2588,indoor air pollutants,pollution,C0557698,Door (physical object)
+2589,indoor air pollutants,pollution,C0001861,Air (substance)
+2590,indoor air pollution,pollution,C0557698,Door (physical object)
+2591,indoor air pollution,pollution,C0001873,Air Pollution
+2592,household air pollution,pollution,C0020052,Households
+2593,air pollution is,pollution,C0001873,Air Pollution
+2594,between air pollution,pollution,C0001873,Air Pollution
+2595,of air pollution,pollution,C0001873,Air Pollution
+2596,particulate air pollution,pollution,C0457784,Particulate (substance)
+2597,particulate air pollution,pollution,C0001873,Air Pollution
+2598,pollution and the,pollution,C0392355,Pollution
+2599,air pollutant data,pollution,C0001861,Air (substance)
+2600,air pollutant data,pollution,C0599786,pollutant
+2601,air pollutant data,pollution,C1511726,Data
+2602,water pollution,pollution,C0043056,Water Pollution
+2603,humidity,humidity,C0020167,Humidity
+2604,rain is,humidity,C3273866,Ras-Interacting Protein 1
+2605,rain was,humidity,C3273866,Ras-Interacting Protein 1
+2606,rain has,humidity,C3273866,Ras-Interacting Protein 1
+2607,damp weather,humidity,C0205381,Moist
+2608,damp climate,humidity,C0205381,Moist
+2609,monsoon,humidity,C0681778,monsoon
+2610,water vapour,humidity,C2350022,Water Vapor
+2611,water vapor,humidity,C2350022,Water Vapor
+2612,congestive heart failure,heart,C0018802,Congestive heart failure
+2613,complete atrioventricular block,heart,C1548561,Completion Status for valid values - Complete
+2614,complete atrioventricular block,heart,C0004245,Atrioventricular Block
+2615,myocardial ischemia,heart,C0010054,Coronary Arteriosclerosis
+2616,rheumatic heart disease,heart,C0035439,Rheumatic Heart Disease
+2617,junctional premature complex,heart,C0428981,Junctional premature complex (disorder)
+2618,pulmonary heart disease,heart,C0034072,Cor pulmonale
+2619,myocardial disease,heart,C0878544,Cardiomyopathies
+2620,sick sinus syndrome,heart,C0037052,Sick Sinus Syndrome
+2621,hypertensive disorder,heart,C0020538,Hypertensive disease
+2622,cardiac arrhythmia,heart,C0003811,Cardiac Arrhythmia
+2623,supraventricular tachycardia,heart,C0039240,Supraventricular tachycardia
+2624,heart disease,heart,C0018799,Heart Diseases
+2625,cardiac arrest,heart,C0018790,Cardiac Arrest
+2626,supraventricular premature beats,heart,C0033036,Atrial Premature Complexes
+2627,ventricular premature complex,heart,C0151636,Premature ventricular contractions
+2628,endocardial fibroelastosis,heart,C0014117,Endocardial Fibroelastosis
+2629,primary pulmonary hypertension,heart,C0152171,Idiopathic pulmonary hypertension
+2630,mitral valve regurgitation,heart,C0026266,Mitral Valve Insufficiency
+2631,heart failure,heart,C0018801,Heart failure
+2632,hypertensive renal disease,heart,C0848548,hypertensive nephropathy
+2633,pulmonic valve stenosis,heart,C0034089,Pulmonary Valve Stenosis
+2634,left heart failure,heart,C0023212,Left-Sided Heart Failure
+2635,primary dilated cardiomyopathy,heart,C0007193,"Cardiomyopathy, Dilated"
+2636,ischemic chest pain,heart,C0002962,Angina Pectoris
+2637,heated climate,air_temp,C1706052,Heater Device Component
+2638,cold temperatures,air_temp,C0009264,Cold Temperature
+2639,hot weather,air_temp,C0337004,Hot weather
+2640,cold weather,air_temp,C0337005,Cold weather
+2641,tropical climate,air_temp,C2350590,Tropical Storm
+2642,tropical weather,air_temp,C2350590,Tropical Storm
+2643,temperate,air_temp,C0886414,Body temperature measurement
+2644,sunlight,air_temp,C0038817,Sunlight
+2645,summer,air_temp,C0241301,summer
+2646,winter,air_temp,C0241737,winter
+2647,spring,air_temp,C0241232,spring (season)
+2648,autumn,air_temp,C0238715,Autumn
+2649,weather,air_temp,C0043085,Weather
+2650,in the season of,air_temp,C0036497,Seasons
+2651,climate,air_temp,C0008946,Climate
+2652,local temperature,air_temp,C0205276,Local
+2653,local temperature,air_temp,C0886414,Body temperature measurement
+2654,persons older than,age,C0027361,Persons
+2655,persons older than,age,C0001795,"Aged, 80 and over"
+2656,patients older than,age,C0030705,Patients
+2657,patients older than,age,C0001795,"Aged, 80 and over"
+2658,patients not younger,age,C0030705,Patients
+2659,patients not younger,age,C0030705,Patients
+2660,above 65 years,age,C0439234,year
+2661,over 65 years,age,C0439234,year
+2662,65 years old,age,C0439234,year
+2663,over 65 years,age,C0439234,year
+2664,above 60 years,age,C0439234,year
+2665,over 60 years,age,C0439234,year
+2666,60 years old,age,C0439234,year
+2667,over 60 years,age,C0439234,year
+2668,above 70 years,age,C0439234,year
+2669,over 70 years,age,C0439234,year
+2670,70 years old,age,C0439234,year
+2671,over 70 years,age,C0439234,year
+2672,among the elderly,age,C0001792,Elderly (population group)
+2673,among the aged,age,C0001792,Elderly (population group)
+2674,60 years and over,age,C0439234,year
+2675,65 years and over,age,C0439234,year
+2676,aging population,age,C0001811,Aging
+2677,aging population,age,C1257890,Population Group
+2678,older age group,age,C0027362,Human Age Group
+2679,circa 65 years,age,C0439234,year
