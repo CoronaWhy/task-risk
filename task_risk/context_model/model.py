@@ -3,6 +3,7 @@ from task_risk.context_model.preprocessing import df_sentences_umls_ids_to_str_w
 from dataclasses import dataclass
 from sklearn.pipeline import Pipeline
 from joblib import load
+import numpy as np
 import pandas as pd
 import typing
 import pathlib
@@ -70,6 +71,9 @@ class ContextModel:
         assert 'UMLS_IDS' in df_paper_with_ulms
         assert risk_factor in self.risk_factor_umls_ids
         risk_factor_umls_ids = self.risk_factor_umls_ids[risk_factor]
+        if not df_paper_with_ulms['UMLS_IDS'].apply(
+            lambda x: np.isin(x, risk_factor_umls_ids).any()).any():
+            return 0.0
 
         df_umls_ids = df_sentences_umls_ids_to_str_without_n_gram_umls_ids(
             df_paper_with_ulms,
